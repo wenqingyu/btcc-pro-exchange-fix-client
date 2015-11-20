@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.*?>
+<?import javafx.geometry.*?>
+<?import java.lang.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<SplitPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" orientation="VERTICAL" prefHeight="758.0" prefWidth="968.0" stylesheets="@forwardclient.css" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.btcc.javafx.MainController">
+  <items>
+    <AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="100.0" prefWidth="160.0">
+         <children>
+            <GridPane prefHeight="676.0" prefWidth="289.0" AnchorPane.leftAnchor="10.0" AnchorPane.topAnchor="10.0">
+               <columnConstraints>
+                  <ColumnConstraints hgrow="SOMETIMES" maxWidth="215.0" minWidth="10.0" prefWidth="206.0" />
+                  <ColumnConstraints hgrow="SOMETIMES" maxWidth="142.0" minWidth="10.0" prefWidth="78.0" />
+               </columnConstraints>
+               <rowConstraints>
+                  <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                  <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                  <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                  <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                  <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                  <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                  <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                  <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                  <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                  <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                  <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                  <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                  <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                  <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                  <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                  <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                  <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                  <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                  <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                  <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                  <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                  <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                  <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                  <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                  <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                  <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                  <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                  <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                  <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                  <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                  <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                  <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                  <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+               </rowConstraints>
+               <children>
+                  <Label text="SumOfDeposit" GridPane.columnIndex="0" GridPane.rowIndex="0" />
+                  <Label fx:id="labelSumOfDeposit" text="Label" GridPane.columnIndex="1" GridPane.rowIndex="0" />
+                  <Label text="Cash" GridPane.columnIndex="0" GridPane.rowIndex="1" />
+                  <Label fx:id="labelCash" text="Label" GridPane.columnIndex="1" GridPane.rowIndex="1" />
+                  <Label text="TotalProfit" GridPane.columnIndex="0" GridPane.rowIndex="2" />
+                  <Label fx:id="labelTotalProfit" text="Label" GridPane.columnIndex="1" GridPane.rowIndex="2" />
+                  <Label text="TotalSize" GridPane.columnIndex="0" GridPane.rowIndex="3" />
+                  <Label fx:id="labelTotalSize" text="Label" GridPane.columnIndex="1" GridPane.rowIndex="3" />
+                  <Label text="TotalInitMarginRequired" GridPane.columnIndex="0" GridPane.rowIndex="4" />
+                  <Label fx:id="labelTotalInitMarginRequired" text="Label" GridPane.columnIndex="1" GridPane.rowIndex="4" />
+                  <Label text="TotalMaintenanceMarginRequired" GridPane.columnIndex="0" GridPane.rowIndex="5" />
+                  <Label fx:id="labelTotalMaintenanceMarginRequired" text="Label" GridPane.columnIndex="1" GridPane.rowIndex="5" />
+                  <Label text="UsableMargin" GridPane.columnIndex="0" GridPane.rowIndex="6" />
+                  <Label fx:id="labelUsableMargin" text="Label" GridPane.columnIndex="1" GridPane.rowIndex="6" />
+                  <Label text="RemainEquity" GridPane.columnIndex="0" GridPane.rowIndex="7" />
+                  <Label fx:id="labelRemainEquity" text="Label" GridPane.columnIndex="1" GridPane.rowIndex="7" />
+
+                  <Label text="---&gt; Symbol" GridPane.columnIndex="0" GridPane.rowIndex="8" />
+                  <Label fx:id="labelSymbol1" text="Label" GridPane.columnIndex="1" GridPane.rowIndex="8" />
+                  <Label text="---&gt; TotalSellSize1" GridPane.columnIndex="0" GridPane.rowIndex="9" />
+                  <Label fx:id="labelTotalSellSize1" text="Label" GridPane.columnIndex="1" GridPane.rowIndex="9" />
+                  <Label text="---&gt; TotalBuySize1" GridPane.columnIndex="0" GridPane.rowIndex="10" />
+                  <Label fx:id="labelTotalBuySize1" text="Label" GridPane.columnIndex="1" GridPane.rowIndex="10" />
+                  <Label text="---&gt; OpenSize1" GridPane.columnIndex="0" GridPane.rowIndex="11" />
+                  <Label fx:id="labelOpenSize1" text="Label" GridPane.columnIndex="1" GridPane.rowIndex="11" />
+                  <Label text="---&gt; AvgPx1" GridPane.columnIndex="0" GridPane.rowIndex="12" />
+                  <Label fx:id="labelAvgPx1" text="Label" GridPane.columnIndex="1" GridPane.rowIndex="12" />
+                  <Label text="---&gt; Profit1" GridPane.columnIndex="0" GridPane.rowIndex="13" />
+                  <Label fx:id="labelProfit1" text="Label" GridPane.columnIndex="1" GridPane.rowIndex="13" />
+                  <Label text="---&gt; MarketValue1" GridPane.columnIndex="0" GridPane.rowIndex="14" />
+                  <Label fx:id="labelMarketValue1" text="Label" GridPane.columnIndex="1" GridPane.rowIndex="14" />
+                  <Label text="---&gt; UnchargedFee1" GridPane.columnIndex="0" GridPane.rowIndex="15" />
+                  <Label fx:id="labelUnchargedFee1" text="Label" GridPane.columnIndex="1" GridPane.rowIndex="15" />
+                  <Label text="---&gt; InitMarginRequired1" GridPane.columnIndex="0" GridPane.rowIndex="16" />
+                  <Label fx:id="labelInitMarginRequired1" text="Label" GridPane.columnIndex="1" GridPane.rowIndex="16" />
+                  <Label text="---&gt; MaintenanceMarginRequired1" GridPane.columnIndex="0" GridPane.rowIndex="17" />
+                  <Label fx:id="labelMaintenanceMarginRequired1" text="Label" GridPane.columnIndex="1" GridPane.rowIndex="17" />
+                  <Label text="---&gt; InitMarginFactor1" GridPane.columnIndex="0" GridPane.rowIndex="18" />
+                  <Label fx:id="labelInitMarginFactor1" text="Label" GridPane.columnIndex="1" GridPane.rowIndex="18" />
+                  <Label text="---&gt; MaintenanceMarginFactor1" GridPane.columnIndex="0" GridPane.rowIndex="19" />
+                  <Label fx:id="labelMaintenanceMarginFactor1" text="Label" GridPane.columnIndex="1" GridPane.rowIndex="19" />
+
+                  <Label text="---&gt; Symbol2" GridPane.columnIndex="0" GridPane.rowIndex="20" />
+                  <Label fx:id="labelSymbol2" text="Label" GridPane.columnIndex="1" GridPane.rowIndex="20" />
+                  <Label text="---&gt; TotalSellSize2" GridPane.columnIndex="0" GridPane.rowIndex="21" />
+                  <Label fx:id="labelTotalSellSize2" text="Label" GridPane.columnIndex="1" GridPane.rowIndex="21" />
+                  <Label text="---&gt; TotalBuySize2" GridPane.columnIndex="0" GridPane.rowIndex="22" />
+                  <Label fx:id="labelTotalBuySize2" text="Label" GridPane.columnIndex="1" GridPane.rowIndex="22" />
+                  <Label text="---&gt; OpenSize2" GridPane.columnIndex="0" GridPane.rowIndex="23" />
+                  <Label fx:id="labelOpenSize2" text="Label" GridPane.columnIndex="1" GridPane.rowIndex="23" />
+                  <Label text="---&gt; AvgPx2" GridPane.columnIndex="0" GridPane.rowIndex="24" />
+                  <Label fx:id="labelAvgPx2" text="Label" GridPane.columnIndex="1" GridPane.rowIndex="24" />
+                  <Label text="---&gt; Profit2" GridPane.columnIndex="0" GridPane.rowIndex="25" />
+                  <Label fx:id="labelProfit2" text="Label" GridPane.columnIndex="1" GridPane.rowIndex="25" />
+                  <Label text="---&gt; MarketValue2" GridPane.columnIndex="0" GridPane.rowIndex="26" />
+                  <Label fx:id="labelMarketValue2" text="Label" GridPane.columnIndex="1" GridPane.rowIndex="26" />
+                  <Label text="---&gt; UnchargedFee2" GridPane.columnIndex="0" GridPane.rowIndex="27" />
+                  <Label fx:id="labelUnchargedFee2" text="Label" GridPane.columnIndex="1" GridPane.rowIndex="27" />
+                  <Label text="---&gt; InitMarginRequired2" GridPane.columnIndex="0" GridPane.rowIndex="28" />
+                  <Label fx:id="labelInitMarginRequired2" text="Label" GridPane.columnIndex="1" GridPane.rowIndex="28" />
+                  <Label text="---&gt; MaintenanceMarginRequired2" GridPane.columnIndex="0" GridPane.rowIndex="29" />
+                  <Label fx:id="labelMaintenanceMarginRequired2" text="Label" GridPane.columnIndex="1" GridPane.rowIndex="29" />
+                  <Label text="---&gt; InitMarginFactor2" GridPane.columnIndex="0" GridPane.rowIndex="30" />
+                  <Label fx:id="labelInitMarginFactor2" text="Label" GridPane.columnIndex="1" GridPane.rowIndex="30" />
+                  <Label text="---&gt; MaintenanceMarginFactor2" GridPane.columnIndex="0" GridPane.rowIndex="31" />
+                  <Label fx:id="labelMaintenanceMarginFactor2" text="Label" GridPane.columnIndex="1" GridPane.rowIndex="31" />
+                  </children>
+            </GridPane>
+            <VBox layoutX="118.0" layoutY="30.0" maxHeight="1.7976931348623157E308" maxWidth="1.7976931348623157E308" prefHeight="200.0" prefWidth="100.0" AnchorPane.bottomAnchor="0.0" AnchorPane.leftAnchor="280.0" AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="0.0">
+               <children>
+                  <HBox id="username_passwd_container" alignment="CENTER_RIGHT" prefHeight="55.0" prefWidth="598.0">
+                     <children>
+                        <Button mnemonicParsing="false" onAction="#onClickStartButton" text="refresh">
+                           <HBox.margin>
+                              <Insets bottom="10.0" left="10.0" right="10.0" top="10.0" />
+                           </HBox.margin>
+                        </Button>
+                        <Label maxHeight="1.7976931348623157E308" minWidth="60.0" text="symbol:">
+                           <HBox.margin>
+                              <Insets bottom="10.0" left="10.0" right="10.0" top="10.0" />
+                           </HBox.margin>
+                        </Label>
+                        <ChoiceBox fx:id="choiceBoxSymbols" maxHeight="1.7976931348623157E308" minWidth="80.0">
+                           <HBox.margin>
+                              <Insets bottom="10.0" left="10.0" right="10.0" top="10.0" />
+                           </HBox.margin>
+                        </ChoiceBox>
+                     </children>
+                  </HBox>
+                  <HBox maxHeight="1.7976931348623157E308" prefHeight="313.0" prefWidth="686.0">
+                     <VBox.margin>
+                        <Insets />
+                     </VBox.margin>
+                     <children>
+                        <Pane prefHeight="370.0" prefWidth="225.0" HBox.hgrow="ALWAYS">
+                           <children>
+                              <GridPane layoutX="90.0" layoutY="10.0" prefHeight="179.0" prefWidth="160.0">
+                                <columnConstraints>
+                                  <ColumnConstraints hgrow="SOMETIMES" maxWidth="105.0" minWidth="10.0" prefWidth="92.0" />
+                                  <ColumnConstraints hgrow="SOMETIMES" maxWidth="133.0" minWidth="10.0" prefWidth="88.0" />
+                                </columnConstraints>
+                                <rowConstraints>
+                                  <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                                  <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                                  <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                                    <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                                    <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                                    <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                                </rowConstraints>
+                                 <children>
+                                    <Label text="lastprice" />
+                                    <Label fx:id="labelLastPrice" text="Label" GridPane.columnIndex="1" />
+                                    <Label text="open" GridPane.rowIndex="1" />
+                                    <Label fx:id="labelOpenPrice" text="Label" GridPane.columnIndex="1" GridPane.rowIndex="1" />
+                                    <Label text="closeprev" GridPane.rowIndex="2" />
+                                    <Label fx:id="labelClosePrevPrice" text="Label" GridPane.columnIndex="1" GridPane.rowIndex="2" />
+                                    <Label text="high" GridPane.rowIndex="3" />
+                                    <Label fx:id="labelHighPrice" text="Label" GridPane.columnIndex="1" GridPane.rowIndex="3" />
+                                    <Label text="low" GridPane.rowIndex="4" />
+                                    <Label fx:id="labelLowPrice" text="Label" GridPane.columnIndex="1" GridPane.rowIndex="4" />
+                                    <Label text="volume" GridPane.rowIndex="5" />
+                                    <Label fx:id="labelVolumePrice" text="Label" GridPane.columnIndex="1" GridPane.rowIndex="5" />
+                                 </children>
+                              </GridPane>
+                           </children>
+                        </Pane>
+                        <ListView fx:id="listViewBidOrders" prefHeight="200.0" prefWidth="150.0" styleClass="listViewBidOrders" HBox.hgrow="ALWAYS" />
+                        <ListView fx:id="listViewAskOrders" prefHeight="200.0" prefWidth="150.0" styleClass="listViewAskOrders" HBox.hgrow="ALWAYS" />
+                     </children>
+                  </HBox>
+                  <AnchorPane maxWidth="1.7976931348623157E308" prefHeight="377.0" prefWidth="723.0" VBox.vgrow="ALWAYS">
+                     <children>
+                        <VBox prefHeight="325.0" prefWidth="752.0" AnchorPane.bottomAnchor="0.0" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="0.0">
+                           <children>
+                              <Group>
+                                 <children>
+                                    <TextField fx:id="amountText" layoutX="587.0" layoutY="92.0" prefHeight="26.0" prefWidth="131.0" />
+                                    <Label layoutX="538.0" layoutY="97.0" text="amount" />
+                                    <RadioButton fx:id="radioMarketOrder" layoutX="268.0" layoutY="115.0" mnemonicParsing="false" text="market">
+                                       <toggleGroup>
+                                          <ToggleGroup fx:id="orderTypeToggleGroup" />
+                                       </toggleGroup>
+                                    </RadioButton>
+                                    <TextField fx:id="priceText" layoutX="426.0" layoutY="92.0" prefHeight="26.0" prefWidth="86.0" />
+            
+                                    <RadioButton fx:id="radioLimitOrder" layoutX="268.0" layoutY="78.0" mnemonicParsing="false" selected="true" text="limit" toggleGroup="$orderTypeToggleGroup" />
+                                    <RadioButton fx:id="radioStopOrder" layoutX="268.0" layoutY="150.0" mnemonicParsing="false" text="stop" toggleGroup="$orderTypeToggleGroup" />
+                                    <Label layoutX="379.0" layoutY="97.0" text="price" />
+                                    <Button fx:id="buttonPlaceBuyOrder" layoutX="453.0" layoutY="144.0" mnemonicParsing="false" onAction="#placeBuyOrder" prefHeight="15.0" prefWidth="60.0" text="Buy">
+                                       <padding>
+                                          <Insets bottom="10.0" top="10.0" />
+                                       </padding></Button>
+                                    <Button fx:id="buttonPlaceSellOrder" layoutX="588.0" layoutY="143.0" mnemonicParsing="false" onAction="#placeSellOrder" prefHeight="20.0" prefWidth="60.0" text="Sell">
+                                       <padding>
+                                          <Insets bottom="10.0" top="10.0" />
+                                       </padding></Button>
+                                    <CheckBox fx:id="checkBoxDay" layoutX="741.0" layoutY="99.0" mnemonicParsing="false" text="Day" />
+                                 </children>
+                                 <VBox.margin>
+                                    <Insets bottom="20.0" left="20.0" right="20.0" top="20.0" />
+                                 </VBox.margin>
+                              </Group>
+                              <Group />
+                              <TableView fx:id="tableViewOrders" maxHeight="1.7976931348623157E308" prefHeight="177.0" prefWidth="752.0" VBox.vgrow="ALWAYS">
+                                 <columns>
+                                    <TableColumn fx:id="orderDate" prefWidth="180.0" style="-fx-alignment: CENTER;" text="Order Date" />
+                                    <TableColumn fx:id="orderSymbol" minWidth="3.0" style="-fx-alignment: CENTER;" text="Symbol" />
+                                    <TableColumn fx:id="orderType" prefWidth="80.0" style="-fx-alignment: CENTER;" text="Type" />
+                                    <TableColumn fx:id="orderBuySell" prefWidth="80.0" style="-fx-alignment: CENTER;" text="Side" />
+                                    <TableColumn fx:id="orderFilledTotal" prefWidth="92.0" style="-fx-alignment: CENTER;" text="Filled/Total" />
+                                    <TableColumn fx:id="orderPrice" prefWidth="92.0" style="-fx-alignment: CENTER;" text="Order Price" />
+                                    <TableColumn fx:id="orderStatus" prefWidth="80.0" style="-fx-alignment: CENTER;" text="Status" />
+                                    <TableColumn fx:id="orderAction" prefWidth="92.0" style="-fx-alignment: CENTER;" text="Action" />
+                                    <TableColumn fx:id="orderId" prefWidth="250.0" style="-fx-alignment: CENTER;" text="Order Id" />
+                                 </columns></TableView>
+                           </children>
+                        </VBox>
+                     </children></AnchorPane>
+               </children>
+            </VBox>
+         </children></AnchorPane>
+  </items>
+</SplitPane>

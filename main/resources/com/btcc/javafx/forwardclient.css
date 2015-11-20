@@ -1,0 +1,6 @@
+.listViewBidOrders .list-cell {
+    -fx-text-fill:green;
+}
+.listViewAskOrders .list-cell {
+    -fx-text-fill:red;
+}
