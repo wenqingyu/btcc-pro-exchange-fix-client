@@ -1,0 +1,1625 @@
+20151108-10:34:35: Session FIX.4.4:CLIENT-Thomas->BTCC-PRO-EXCHANGE-SERVER schedule is daily, 00:00:00-UTC - 00:00:00-UTC
+20151108-10:34:35: Created session: FIX.4.4:CLIENT-Thomas->BTCC-PRO-EXCHANGE-SERVER
+20151108-10:34:37: Initiated logon request
+20151108-10:34:37: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20151108-10:34:37: Received logon
+20151108-10:35:17: Session FIX.4.4:CLIENT-Thomas->BTCC-PRO-EXCHANGE-SERVER schedule is daily, 00:00:00-UTC - 00:00:00-UTC
+20151108-10:35:17: Created session: FIX.4.4:CLIENT-Thomas->BTCC-PRO-EXCHANGE-SERVER
+20151108-10:35:19: Initiated logon request
+20151108-10:35:19: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20151108-10:35:19: Received logon
+20151108-10:49:22: Session FIX.4.4:CLIENT-Thomas->BTCC-PRO-EXCHANGE-SERVER schedule is daily, 00:00:00-UTC - 00:00:00-UTC
+20151108-10:49:22: Created session: FIX.4.4:CLIENT-Thomas->BTCC-PRO-EXCHANGE-SERVER
+20151108-10:49:24: Initiated logon request
+20151108-10:49:24: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20151108-10:49:24: Received logon
+20151108-10:49:39: Session FIX.4.4:CLIENT-Thomas->BTCC-PRO-EXCHANGE-SERVER schedule is daily, 00:00:00-UTC - 00:00:00-UTC
+20151108-10:49:39: Created session: FIX.4.4:CLIENT-Thomas->BTCC-PRO-EXCHANGE-SERVER
+20151108-10:49:40: Initiated logon request
+20151108-10:49:40: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20151108-10:49:40: Received logon
+20151108-18:00:00: Disconnecting: Timed out waiting for heartbeat
+20151108-18:00:04: Pending connection not established after 2011 ms.
+20151108-18:00:06: java.net.SocketException: java.net.SocketException: Network is unreachable (Next retry in 5000 milliseconds)
+20151108-18:00:09: Pending connection not established after 2006 ms.
+20151108-18:00:12: java.net.SocketException: java.net.SocketException: Network is unreachable (Next retry in 5000 milliseconds)
+20151108-18:00:15: Pending connection not established after 2007 ms.
+20151108-18:00:17: java.net.SocketException: java.net.SocketException: Network is unreachable (Next retry in 5000 milliseconds)
+20151108-18:00:21: Pending connection not established after 3333 ms.
+20151108-18:00:22: java.net.SocketException: java.net.SocketException: Network is unreachable (Next retry in 5000 milliseconds)
+20151108-18:00:25: Pending connection not established after 2005 ms.
+20151108-18:00:27: java.net.SocketException: java.net.SocketException: Network is unreachable (Next retry in 5000 milliseconds)
+20151108-18:00:30: Pending connection not established after 2002 ms.
+20151108-18:00:33: java.net.SocketException: java.net.SocketException: Network is unreachable (Next retry in 5000 milliseconds)
+20151108-18:00:36: Pending connection not established after 2006 ms.
+20151108-18:00:38: java.net.SocketException: java.net.SocketException: Network is unreachable (Next retry in 5000 milliseconds)
+20151108-18:00:41: Pending connection not established after 2008 ms.
+20151108-18:00:43: java.net.SocketException: java.net.SocketException: Network is unreachable (Next retry in 5000 milliseconds)
+20151108-18:00:46: Pending connection not established after 2002 ms.
+20151108-18:00:48: java.net.SocketException: java.net.SocketException: Network is unreachable (Next retry in 5000 milliseconds)
+20151108-18:00:51: Pending connection not established after 2002 ms.
+20151108-18:00:54: java.net.SocketException: java.net.SocketException: Network is unreachable (Next retry in 5000 milliseconds)
+20151108-18:00:57: Pending connection not established after 2003 ms.
+20151108-18:00:59: java.net.SocketException: java.net.SocketException: Network is unreachable (Next retry in 5000 milliseconds)
+20151108-18:01:02: Pending connection not established after 2004 ms.
+20151108-18:01:05: Pending connection not established after 5021 ms.
+20151108-18:02:40: Pending connection not established after 100632 ms.
+20151108-18:02:46: java.net.ConnectException: java.net.ConnectException: Connection timed out. (Next retry in 5000 milliseconds)
+20151108-18:02:49: java.net.NoRouteToHostException: java.net.NoRouteToHostException: No route to host (Next retry in 5000 milliseconds)
+20151108-18:03:00: Pending connection not established after 5251 ms.
+20151108-18:03:03: Pending connection not established after 8265 ms.
+20151108-18:03:06: Pending connection not established after 11279 ms.
+20151108-18:03:07: java.net.SocketException: java.net.SocketException: Network is unreachable (Next retry in 5000 milliseconds)
+20151108-18:03:10: Pending connection not established after 2005 ms.
+20151108-18:03:12: java.net.SocketException: java.net.SocketException: Network is unreachable (Next retry in 5000 milliseconds)
+20151108-18:03:15: Pending connection not established after 2007 ms.
+20151108-18:03:17: java.net.SocketException: java.net.SocketException: Network is unreachable (Next retry in 5000 milliseconds)
+20151108-18:03:20: Pending connection not established after 2009 ms.
+20151108-18:03:22: java.net.SocketException: java.net.SocketException: Network is unreachable (Next retry in 5000 milliseconds)
+20151108-18:03:25: Pending connection not established after 2010 ms.
+20151108-18:03:27: java.net.SocketException: java.net.SocketException: Network is unreachable (Next retry in 5000 milliseconds)
+20151108-18:03:30: Pending connection not established after 2011 ms.
+20151108-18:03:32: java.net.SocketException: java.net.SocketException: Network is unreachable (Next retry in 5000 milliseconds)
+20151108-18:03:35: Pending connection not established after 2003 ms.
+20151108-18:03:38: java.net.SocketException: java.net.SocketException: Network is unreachable (Next retry in 5000 milliseconds)
+20151108-18:03:41: Pending connection not established after 2003 ms.
+20151108-18:03:43: java.net.SocketException: java.net.SocketException: Network is unreachable (Next retry in 5000 milliseconds)
+20151109-02:07:26: Session FIX.4.4:CLIENT-Thomas->BTCC-PRO-EXCHANGE-SERVER schedule is daily, 00:00:00-UTC - 00:00:00-UTC
+20151109-02:07:26: Session state is not current; resetting FIX.4.4:CLIENT-Thomas->BTCC-PRO-EXCHANGE-SERVER
+20151109-02:07:26: Created session: FIX.4.4:CLIENT-Thomas->BTCC-PRO-EXCHANGE-SERVER
+20151109-02:07:27: Initiated logon request
+20151109-02:07:27: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20151109-02:07:27: Received logon
+20151109-02:46:17: Session FIX.4.4:CLIENT-Thomas->BTCC-PRO-EXCHANGE-SERVER schedule is daily, 00:00:00-UTC - 00:00:00-UTC
+20151109-02:46:17: Created session: FIX.4.4:CLIENT-Thomas->BTCC-PRO-EXCHANGE-SERVER
+20151109-02:46:18: Initiated logon request
+20151109-02:46:18: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20151109-02:46:18: Received logon
+20151109-03:18:44: Session FIX.4.4:CLIENT-Thomas->BTCC-PRO-EXCHANGE-SERVER schedule is daily, 00:00:00-UTC - 00:00:00-UTC
+20151109-03:18:45: Created session: FIX.4.4:CLIENT-Thomas->BTCC-PRO-EXCHANGE-SERVER
+20151109-03:18:46: Initiated logon request
+20151109-03:18:56: Session FIX.4.4:CLIENT-Thomas->BTCC-PRO-EXCHANGE-SERVER schedule is daily, 00:00:00-UTC - 00:00:00-UTC
+20151109-03:18:56: Created session: FIX.4.4:CLIENT-Thomas->BTCC-PRO-EXCHANGE-SERVER
+20151109-03:18:57: Initiated logon request
+20151109-03:18:57: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20151109-03:18:57: Received logon
+20151109-03:29:39: Session FIX.4.4:CLIENT-Thomas->BTCC-PRO-EXCHANGE-SERVER schedule is daily, 00:00:00-UTC - 00:00:00-UTC
+20151109-03:29:39: Created session: FIX.4.4:CLIENT-Thomas->BTCC-PRO-EXCHANGE-SERVER
+20151109-03:29:40: Initiated logon request
+20151109-03:29:47: Session FIX.4.4:CLIENT-Thomas->BTCC-PRO-EXCHANGE-SERVER schedule is daily, 00:00:00-UTC - 00:00:00-UTC
+20151109-03:29:47: Created session: FIX.4.4:CLIENT-Thomas->BTCC-PRO-EXCHANGE-SERVER
+20151109-03:29:48: Initiated logon request
+20151109-03:29:48: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20151109-03:29:48: Received logon
+20151109-03:30:01: java.net.ConnectException: java.net.ConnectException: Connection refused (Next retry in 5000 milliseconds)
+20151109-03:30:06: java.net.ConnectException: java.net.ConnectException: Connection refused (Next retry in 5000 milliseconds)
+20151109-03:30:11: Initiated logon request
+20151109-03:30:12: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20151109-03:30:12: Received logon
+20151109-03:30:56: Session FIX.4.4:CLIENT-Thomas->BTCC-PRO-EXCHANGE-SERVER schedule is daily, 00:00:00-UTC - 00:00:00-UTC
+20151109-03:30:56: Created session: FIX.4.4:CLIENT-Thomas->BTCC-PRO-EXCHANGE-SERVER
+20151109-03:30:57: Initiated logon request
+20151109-03:30:57: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20151109-03:30:57: Received logon
+20151109-03:31:10: Session FIX.4.4:CLIENT-Thomas->BTCC-PRO-EXCHANGE-SERVER schedule is daily, 00:00:00-UTC - 00:00:00-UTC
+20151109-03:31:10: Created session: FIX.4.4:CLIENT-Thomas->BTCC-PRO-EXCHANGE-SERVER
+20151109-03:31:11: Initiated logon request
+20151109-03:31:11: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20151109-03:31:11: Received logon
+20151109-03:31:34: java.net.ConnectException: java.net.ConnectException: Connection refused (Next retry in 5000 milliseconds)
+20151109-03:31:39: java.net.ConnectException: java.net.ConnectException: Connection refused (Next retry in 5000 milliseconds)
+20151109-03:31:45: Initiated logon request
+20151109-03:31:45: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20151109-03:31:45: Received logon
+20151109-03:32:05: Session FIX.4.4:CLIENT-Thomas->BTCC-PRO-EXCHANGE-SERVER schedule is daily, 00:00:00-UTC - 00:00:00-UTC
+20151109-03:32:05: Created session: FIX.4.4:CLIENT-Thomas->BTCC-PRO-EXCHANGE-SERVER
+20151109-03:32:06: Initiated logon request
+20151109-03:32:06: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20151109-03:32:06: Received logon
+20151109-03:32:24: Session FIX.4.4:CLIENT-Thomas->BTCC-PRO-EXCHANGE-SERVER schedule is daily, 00:00:00-UTC - 00:00:00-UTC
+20151109-03:32:24: Created session: FIX.4.4:CLIENT-Thomas->BTCC-PRO-EXCHANGE-SERVER
+20151109-03:32:25: Initiated logon request
+20151109-03:32:25: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20151109-03:32:25: Received logon
+20151109-05:55:20: Session FIX.4.4:CLIENT-Thomas->BTCC-PRO-EXCHANGE-SERVER schedule is daily, 00:00:00-UTC - 00:00:00-UTC
+20151109-05:55:20: Created session: FIX.4.4:CLIENT-Thomas->BTCC-PRO-EXCHANGE-SERVER
+20151109-05:55:22: Initiated logon request
+20151109-05:55:22: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20151109-05:55:22: Received logon
+20151109-06:12:30: Session FIX.4.4:CLIENT-Thomas->BTCC-PRO-EXCHANGE-SERVER schedule is daily, 00:00:00-UTC - 00:00:00-UTC
+20151109-06:12:30: Created session: FIX.4.4:CLIENT-Thomas->BTCC-PRO-EXCHANGE-SERVER
+20151109-06:12:31: Initiated logon request
+20151109-06:12:31: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20151109-06:12:31: Received logon
+20151109-06:20:38: Session FIX.4.4:CLIENT-Thomas->BTCC-PRO-EXCHANGE-SERVER schedule is daily, 00:00:00-UTC - 00:00:00-UTC
+20151109-06:20:38: Created session: FIX.4.4:CLIENT-Thomas->BTCC-PRO-EXCHANGE-SERVER
+20151109-06:20:39: Initiated logon request
+20151109-06:20:39: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20151109-06:20:39: Received logon
+20151109-06:23:25: Session FIX.4.4:CLIENT-Thomas->BTCC-PRO-EXCHANGE-SERVER schedule is daily, 00:00:00-UTC - 00:00:00-UTC
+20151109-06:23:25: Created session: FIX.4.4:CLIENT-Thomas->BTCC-PRO-EXCHANGE-SERVER
+20151109-06:23:26: Initiated logon request
+20151109-06:23:26: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20151109-06:23:26: Received logon
+20151109-06:23:50: Session FIX.4.4:CLIENT-Thomas->BTCC-PRO-EXCHANGE-SERVER schedule is daily, 00:00:00-UTC - 00:00:00-UTC
+20151109-06:23:50: Created session: FIX.4.4:CLIENT-Thomas->BTCC-PRO-EXCHANGE-SERVER
+20151109-06:23:51: Initiated logon request
+20151109-06:23:51: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20151109-06:23:51: Received logon
+20151109-06:25:10: Session FIX.4.4:CLIENT-Thomas->BTCC-PRO-EXCHANGE-SERVER schedule is daily, 00:00:00-UTC - 00:00:00-UTC
+20151109-06:25:10: Created session: FIX.4.4:CLIENT-Thomas->BTCC-PRO-EXCHANGE-SERVER
+20151109-06:25:11: Initiated logon request
+20151109-06:25:11: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20151109-06:25:11: Received logon
+20151109-06:25:48: Session FIX.4.4:CLIENT-Thomas->BTCC-PRO-EXCHANGE-SERVER schedule is daily, 00:00:00-UTC - 00:00:00-UTC
+20151109-06:25:48: Created session: FIX.4.4:CLIENT-Thomas->BTCC-PRO-EXCHANGE-SERVER
+20151109-06:25:49: Initiated logon request
+20151109-06:25:49: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20151109-06:25:49: Received logon
+20151109-06:27:27: Session FIX.4.4:CLIENT-Thomas->BTCC-PRO-EXCHANGE-SERVER schedule is daily, 00:00:00-UTC - 00:00:00-UTC
+20151109-06:27:27: Created session: FIX.4.4:CLIENT-Thomas->BTCC-PRO-EXCHANGE-SERVER
+20151109-06:27:28: Initiated logon request
+20151109-06:27:28: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20151109-06:27:28: Received logon
+20151109-06:29:48: Session FIX.4.4:CLIENT-Thomas->BTCC-PRO-EXCHANGE-SERVER schedule is daily, 00:00:00-UTC - 00:00:00-UTC
+20151109-06:29:48: Created session: FIX.4.4:CLIENT-Thomas->BTCC-PRO-EXCHANGE-SERVER
+20151109-06:29:50: Initiated logon request
+20151109-06:29:50: Disconnecting: Socket exception (/172.20.13.222:9880): java.io.IOException: Connection reset by peer
+20151109-06:29:55: Initiated logon request
+20151109-06:29:55: Disconnecting: Socket exception (/172.20.13.222:9880): java.io.IOException: Connection reset by peer
+20151109-06:30:02: Session FIX.4.4:CLIENT-Thomas->BTCC-PRO-EXCHANGE-SERVER schedule is daily, 00:00:00-UTC - 00:00:00-UTC
+20151109-06:30:02: Created session: FIX.4.4:CLIENT-Thomas->BTCC-PRO-EXCHANGE-SERVER
+20151109-06:30:03: Initiated logon request
+20151109-06:30:03: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20151109-06:30:03: Received logon
+20151109-06:32:10: Session FIX.4.4:CLIENT-Thomas->BTCC-PRO-EXCHANGE-SERVER schedule is daily, 00:00:00-UTC - 00:00:00-UTC
+20151109-06:32:10: Created session: FIX.4.4:CLIENT-Thomas->BTCC-PRO-EXCHANGE-SERVER
+20151109-06:32:12: Initiated logon request
+20151109-06:32:12: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20151109-06:32:12: Received logon
+20151109-06:32:12: Rejecting invalid message: quickfix.FieldException: invalid character value: 13: 8=FIX.4.49=24135=834=249=BTCC-PRO-EXCHANGE-SERVER52=20151109-06:32:13.52656=CLIENT-Thomas6=011=828bbe67-c5ad-4bb3-809e-3983f2344b1614=017=d43adf38-ecc1-4e2b-83d7-658b1581d50c37=-139=844=054=155=XBTCNY58=INCORRECT_QUANTITY103=13150=8151=010=078
+20151109-06:32:12: Auto reset
+20151109-06:32:28: Session FIX.4.4:CLIENT-Thomas->BTCC-PRO-EXCHANGE-SERVER schedule is daily, 00:00:00-UTC - 00:00:00-UTC
+20151109-06:32:28: Created session: FIX.4.4:CLIENT-Thomas->BTCC-PRO-EXCHANGE-SERVER
+20151109-06:32:29: Initiated logon request
+20151109-06:32:29: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20151109-06:32:29: Received logon
+20151109-06:32:30: Rejecting invalid message: quickfix.FieldException: invalid character value: 13: 8=FIX.4.49=24135=834=249=BTCC-PRO-EXCHANGE-SERVER52=20151109-06:32:31.34256=CLIENT-Thomas6=011=aac44fd1-3493-4202-9313-fb0b63ede9e414=017=41c37ac9-78aa-4799-ab80-bbdb246aef5737=-139=844=054=155=XBTCNY58=INCORRECT_QUANTITY103=13150=8151=010=157
+20151109-06:32:30: Auto reset
+20151109-06:33:56: Session FIX.4.4:CLIENT-Thomas->BTCC-PRO-EXCHANGE-SERVER schedule is daily, 00:00:00-UTC - 00:00:00-UTC
+20151109-06:33:56: Created session: FIX.4.4:CLIENT-Thomas->BTCC-PRO-EXCHANGE-SERVER
+20151109-06:33:58: Initiated logon request
+20151109-06:33:58: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20151109-06:33:58: Received logon
+20151109-06:34:17: Session FIX.4.4:CLIENT-Thomas->BTCC-PRO-EXCHANGE-SERVER schedule is daily, 00:00:00-UTC - 00:00:00-UTC
+20151109-06:34:17: Created session: FIX.4.4:CLIENT-Thomas->BTCC-PRO-EXCHANGE-SERVER
+20151109-06:34:19: Initiated logon request
+20151109-06:34:27: Session FIX.4.4:CLIENT-Thomas->BTCC-PRO-EXCHANGE-SERVER schedule is daily, 00:00:00-UTC - 00:00:00-UTC
+20151109-06:34:27: Created session: FIX.4.4:CLIENT-Thomas->BTCC-PRO-EXCHANGE-SERVER
+20151109-06:34:28: Initiated logon request
+20151109-06:34:28: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20151109-06:34:28: Received logon
+20151109-06:34:29: Rejecting invalid message: quickfix.FieldException: invalid character value: 13: 8=FIX.4.49=24135=834=249=BTCC-PRO-EXCHANGE-SERVER52=20151109-06:34:30.27056=CLIENT-Thomas6=011=61058323-e83f-4eb8-b7ec-916e87918fef14=017=c0283197-5f3e-4a80-b0b9-8852befc05f437=-139=844=054=155=XBTCNY58=INCORRECT_QUANTITY103=13150=8151=010=003
+20151109-06:34:29: Auto reset
+20151109-06:34:43: Session FIX.4.4:CLIENT-Thomas->BTCC-PRO-EXCHANGE-SERVER schedule is daily, 00:00:00-UTC - 00:00:00-UTC
+20151109-06:34:43: Created session: FIX.4.4:CLIENT-Thomas->BTCC-PRO-EXCHANGE-SERVER
+20151109-06:34:44: Initiated logon request
+20151109-06:34:44: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20151109-06:34:44: Received logon
+20151109-06:36:00: Session FIX.4.4:CLIENT-Thomas->BTCC-PRO-EXCHANGE-SERVER schedule is daily, 00:00:00-UTC - 00:00:00-UTC
+20151109-06:36:00: Created session: FIX.4.4:CLIENT-Thomas->BTCC-PRO-EXCHANGE-SERVER
+20151109-06:36:02: Initiated logon request
+20151109-06:36:02: Disconnecting: Socket exception (/172.20.13.222:9880): java.io.IOException: Connection reset by peer
+20151109-06:36:12: Session FIX.4.4:CLIENT-Thomas->BTCC-PRO-EXCHANGE-SERVER schedule is daily, 00:00:00-UTC - 00:00:00-UTC
+20151109-06:36:12: Created session: FIX.4.4:CLIENT-Thomas->BTCC-PRO-EXCHANGE-SERVER
+20151109-06:36:13: Initiated logon request
+20151109-06:36:13: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20151109-06:36:13: Received logon
+20151109-06:38:23: Session FIX.4.4:CLIENT-Thomas->BTCC-PRO-EXCHANGE-SERVER schedule is daily, 00:00:00-UTC - 00:00:00-UTC
+20151109-06:38:23: Created session: FIX.4.4:CLIENT-Thomas->BTCC-PRO-EXCHANGE-SERVER
+20151109-06:38:24: Initiated logon request
+20151109-06:38:24: Disconnecting: Socket exception (/172.20.13.222:9880): java.io.IOException: Connection reset by peer
+20151109-06:38:32: Session FIX.4.4:CLIENT-Thomas->BTCC-PRO-EXCHANGE-SERVER schedule is daily, 00:00:00-UTC - 00:00:00-UTC
+20151109-06:38:32: Created session: FIX.4.4:CLIENT-Thomas->BTCC-PRO-EXCHANGE-SERVER
+20151109-06:38:33: Initiated logon request
+20151109-06:38:33: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20151109-06:38:33: Received logon
+20151109-06:38:34: Rejecting invalid message: quickfix.FieldException: invalid character value: 13: 8=FIX.4.49=24135=834=449=BTCC-PRO-EXCHANGE-SERVER52=20151109-06:38:35.15756=CLIENT-Thomas6=011=f0719cf7-7b32-40ef-98a6-7960c61edaa614=017=7c09380d-7197-44ea-b93b-321980a78b4137=-139=844=054=155=XBTCNY58=INCORRECT_QUANTITY103=13150=8151=010=164
+20151109-06:38:34: Auto reset
+20151109-06:39:03: Session FIX.4.4:CLIENT-Thomas->BTCC-PRO-EXCHANGE-SERVER schedule is daily, 00:00:00-UTC - 00:00:00-UTC
+20151109-06:39:03: Created session: FIX.4.4:CLIENT-Thomas->BTCC-PRO-EXCHANGE-SERVER
+20151109-06:39:05: Initiated logon request
+20151109-06:39:05: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20151109-06:39:05: Received logon
+20151109-06:39:05: Rejecting invalid message: quickfix.FieldException: invalid character value: 13: 8=FIX.4.49=24135=834=449=BTCC-PRO-EXCHANGE-SERVER52=20151109-06:39:06.73656=CLIENT-Thomas6=011=ce31b4f5-b785-45a6-bd6e-39b11556fa8514=017=6ebb1b77-49bf-49d3-9918-aeaf966696f637=-139=844=054=155=XBTCNY58=INCORRECT_QUANTITY103=13150=8151=010=130
+20151109-06:39:05: Auto reset
+20151109-06:40:58: Session FIX.4.4:CLIENT-Thomas->BTCC-PRO-EXCHANGE-SERVER schedule is daily, 00:00:00-UTC - 00:00:00-UTC
+20151109-06:40:58: Created session: FIX.4.4:CLIENT-Thomas->BTCC-PRO-EXCHANGE-SERVER
+20151109-06:40:59: Initiated logon request
+20151109-06:40:59: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20151109-06:40:59: Received logon
+20151109-06:41:14: Session FIX.4.4:CLIENT-Thomas->BTCC-PRO-EXCHANGE-SERVER schedule is daily, 00:00:00-UTC - 00:00:00-UTC
+20151109-06:41:14: Created session: FIX.4.4:CLIENT-Thomas->BTCC-PRO-EXCHANGE-SERVER
+20151109-06:41:16: Initiated logon request
+20151109-06:41:16: Disconnecting: Socket exception (/172.20.13.222:9880): java.io.IOException: Connection reset by peer
+20151109-06:41:25: Session FIX.4.4:CLIENT-Thomas->BTCC-PRO-EXCHANGE-SERVER schedule is daily, 00:00:00-UTC - 00:00:00-UTC
+20151109-06:41:25: Created session: FIX.4.4:CLIENT-Thomas->BTCC-PRO-EXCHANGE-SERVER
+20151109-06:41:27: Initiated logon request
+20151109-06:41:27: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20151109-06:41:27: Received logon
+20151109-06:41:40: Session FIX.4.4:CLIENT-Thomas->BTCC-PRO-EXCHANGE-SERVER schedule is daily, 00:00:00-UTC - 00:00:00-UTC
+20151109-06:41:40: Created session: FIX.4.4:CLIENT-Thomas->BTCC-PRO-EXCHANGE-SERVER
+20151109-06:41:50: Session FIX.4.4:CLIENT-Thomas->BTCC-PRO-EXCHANGE-SERVER schedule is daily, 00:00:00-UTC - 00:00:00-UTC
+20151109-06:41:50: Created session: FIX.4.4:CLIENT-Thomas->BTCC-PRO-EXCHANGE-SERVER
+20151109-06:41:52: Initiated logon request
+20151109-06:41:52: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20151109-06:41:52: Received logon
+20151109-06:42:13: Session FIX.4.4:CLIENT-Thomas->BTCC-PRO-EXCHANGE-SERVER schedule is daily, 00:00:00-UTC - 00:00:00-UTC
+20151109-06:42:13: Created session: FIX.4.4:CLIENT-Thomas->BTCC-PRO-EXCHANGE-SERVER
+20151109-06:42:14: Initiated logon request
+20151109-06:42:14: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20151109-06:42:14: Received logon
+20151109-06:42:44: Session FIX.4.4:CLIENT-Thomas->BTCC-PRO-EXCHANGE-SERVER schedule is daily, 00:00:00-UTC - 00:00:00-UTC
+20151109-06:42:44: Created session: FIX.4.4:CLIENT-Thomas->BTCC-PRO-EXCHANGE-SERVER
+20151109-06:42:46: Initiated logon request
+20151109-06:42:46: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20151109-06:42:46: Received logon
+20151109-06:43:02: Session FIX.4.4:CLIENT-Thomas->BTCC-PRO-EXCHANGE-SERVER schedule is daily, 00:00:00-UTC - 00:00:00-UTC
+20151109-06:43:02: Created session: FIX.4.4:CLIENT-Thomas->BTCC-PRO-EXCHANGE-SERVER
+20151109-06:43:03: Initiated logon request
+20151109-06:43:03: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20151109-06:43:03: Received logon
+20151109-06:45:52: Session FIX.4.4:CLIENT-Thomas->BTCC-PRO-EXCHANGE-SERVER schedule is daily, 00:00:00-UTC - 00:00:00-UTC
+20151109-06:45:52: Created session: FIX.4.4:CLIENT-Thomas->BTCC-PRO-EXCHANGE-SERVER
+20151109-06:45:53: Initiated logon request
+20151109-06:45:53: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20151109-06:45:53: Received logon
+20151109-06:46:13: Session FIX.4.4:CLIENT-Thomas->BTCC-PRO-EXCHANGE-SERVER schedule is daily, 00:00:00-UTC - 00:00:00-UTC
+20151109-06:46:13: Created session: FIX.4.4:CLIENT-Thomas->BTCC-PRO-EXCHANGE-SERVER
+20151109-06:46:14: Initiated logon request
+20151109-06:46:14: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20151109-06:46:14: Received logon
+20151109-06:46:43: Session FIX.4.4:CLIENT-Thomas->BTCC-PRO-EXCHANGE-SERVER schedule is daily, 00:00:00-UTC - 00:00:00-UTC
+20151109-06:46:43: Created session: FIX.4.4:CLIENT-Thomas->BTCC-PRO-EXCHANGE-SERVER
+20151109-06:46:44: Initiated logon request
+20151109-06:46:44: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20151109-06:46:44: Received logon
+20151109-06:46:59: Session FIX.4.4:CLIENT-Thomas->BTCC-PRO-EXCHANGE-SERVER schedule is daily, 00:00:00-UTC - 00:00:00-UTC
+20151109-06:46:59: Created session: FIX.4.4:CLIENT-Thomas->BTCC-PRO-EXCHANGE-SERVER
+20151109-06:47:01: Initiated logon request
+20151109-06:47:01: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20151109-06:47:01: Received logon
+20151109-06:47:25: Session FIX.4.4:CLIENT-Thomas->BTCC-PRO-EXCHANGE-SERVER schedule is daily, 00:00:00-UTC - 00:00:00-UTC
+20151109-06:47:25: Created session: FIX.4.4:CLIENT-Thomas->BTCC-PRO-EXCHANGE-SERVER
+20151109-06:47:26: Initiated logon request
+20151109-06:47:26: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20151109-06:47:26: Received logon
+20151109-06:48:25: Session FIX.4.4:CLIENT-Thomas->BTCC-PRO-EXCHANGE-SERVER schedule is daily, 00:00:00-UTC - 00:00:00-UTC
+20151109-06:48:25: Created session: FIX.4.4:CLIENT-Thomas->BTCC-PRO-EXCHANGE-SERVER
+20151109-06:48:27: Initiated logon request
+20151109-06:48:27: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20151109-06:48:27: Received logon
+20151109-06:48:54: Session FIX.4.4:CLIENT-Thomas->BTCC-PRO-EXCHANGE-SERVER schedule is daily, 00:00:00-UTC - 00:00:00-UTC
+20151109-06:48:54: Created session: FIX.4.4:CLIENT-Thomas->BTCC-PRO-EXCHANGE-SERVER
+20151109-06:48:56: Initiated logon request
+20151109-06:48:56: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20151109-06:48:56: Received logon
+20151109-06:48:57: Rejecting invalid message: quickfix.FieldException: invalid character value: 99: 8=FIX.4.49=24735=834=1049=BTCC-PRO-EXCHANGE-SERVER52=20151109-06:48:58.05056=CLIENT-Thomas6=011=eab17cc4-a470-4a56-8c8c-11db532d4dce14=017=e1e0b17f-537d-4838-9ea7-896cc78f179437=-139=844=054=255=XBTCNY58=Position Excceeds Limit103=99150=8151=010=006
+20151109-06:48:57: Auto reset
+20151109-06:49:20: Session FIX.4.4:CLIENT-Thomas->BTCC-PRO-EXCHANGE-SERVER schedule is daily, 00:00:00-UTC - 00:00:00-UTC
+20151109-06:49:20: Created session: FIX.4.4:CLIENT-Thomas->BTCC-PRO-EXCHANGE-SERVER
+20151109-06:49:21: Initiated logon request
+20151109-06:49:21: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20151109-06:49:21: Received logon
+20151109-06:49:22: Rejecting invalid message: quickfix.FieldException: invalid character value: 99: 8=FIX.4.49=24635=834=249=BTCC-PRO-EXCHANGE-SERVER52=20151109-06:49:23.53156=CLIENT-Thomas6=011=3533887d-c99f-4470-94ca-d0152012eb7b14=017=e77d210c-c5f0-4997-875c-720e08ca886937=-139=844=054=255=XBTCNY58=Position Excceeds Limit103=99150=8151=010=138
+20151109-06:49:22: Auto reset
+20151109-07:06:04: Session FIX.4.4:CLIENT-Thomas->BTCC-PRO-EXCHANGE-SERVER schedule is daily, 00:00:00-UTC - 00:00:00-UTC
+20151109-07:06:04: Created session: FIX.4.4:CLIENT-Thomas->BTCC-PRO-EXCHANGE-SERVER
+20151109-07:06:05: Initiated logon request
+20151109-07:06:05: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20151109-07:06:05: Received logon
+20151109-07:06:20: Session FIX.4.4:CLIENT-Thomas->BTCC-PRO-EXCHANGE-SERVER schedule is daily, 00:00:00-UTC - 00:00:00-UTC
+20151109-07:06:20: Created session: FIX.4.4:CLIENT-Thomas->BTCC-PRO-EXCHANGE-SERVER
+20151109-07:06:21: Initiated logon request
+20151109-07:06:21: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20151109-07:06:21: Received logon
+20151109-07:07:45: Session FIX.4.4:CLIENT-Thomas->BTCC-PRO-EXCHANGE-SERVER schedule is daily, 00:00:00-UTC - 00:00:00-UTC
+20151109-07:07:45: Created session: FIX.4.4:CLIENT-Thomas->BTCC-PRO-EXCHANGE-SERVER
+20151109-07:07:46: Initiated logon request
+20151109-07:07:46: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20151109-07:07:46: Received logon
+20151109-07:09:05: Session FIX.4.4:CLIENT-Thomas->BTCC-PRO-EXCHANGE-SERVER schedule is daily, 00:00:00-UTC - 00:00:00-UTC
+20151109-07:09:05: Created session: FIX.4.4:CLIENT-Thomas->BTCC-PRO-EXCHANGE-SERVER
+20151109-07:09:07: Initiated logon request
+20151109-07:09:07: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20151109-07:09:07: Received logon
+20151109-07:09:51: Session FIX.4.4:CLIENT-Thomas->BTCC-PRO-EXCHANGE-SERVER schedule is daily, 00:00:00-UTC - 00:00:00-UTC
+20151109-07:09:51: Created session: FIX.4.4:CLIENT-Thomas->BTCC-PRO-EXCHANGE-SERVER
+20151109-07:09:52: Initiated logon request
+20151109-07:09:52: Disconnecting: Socket exception (/172.20.13.222:9880): java.io.IOException: Connection reset by peer
+20151109-07:10:00: Session FIX.4.4:CLIENT-Thomas->BTCC-PRO-EXCHANGE-SERVER schedule is daily, 00:00:00-UTC - 00:00:00-UTC
+20151109-07:10:00: Created session: FIX.4.4:CLIENT-Thomas->BTCC-PRO-EXCHANGE-SERVER
+20151109-07:10:02: Initiated logon request
+20151109-07:10:02: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20151109-07:10:02: Received logon
+20151109-08:18:06: Session FIX.4.4:CLIENT-Thomas->BTCC-PRO-EXCHANGE-SERVER schedule is daily, 00:00:00-UTC - 00:00:00-UTC
+20151109-08:18:07: Created session: FIX.4.4:CLIENT-Thomas->BTCC-PRO-EXCHANGE-SERVER
+20151109-08:18:08: Initiated logon request
+20151109-08:18:08: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20151109-08:18:08: Received logon
+20151109-08:18:56: Session FIX.4.4:CLIENT-Thomas->BTCC-PRO-EXCHANGE-SERVER schedule is daily, 00:00:00-UTC - 00:00:00-UTC
+20151109-08:18:56: Created session: FIX.4.4:CLIENT-Thomas->BTCC-PRO-EXCHANGE-SERVER
+20151109-08:18:57: Initiated logon request
+20151109-08:18:57: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20151109-08:18:57: Received logon
+20151109-08:19:00: Rejecting invalid message: quickfix.FieldException: invalid character value: 99: 8=FIX.4.49=24735=834=4049=BTCC-PRO-EXCHANGE-SERVER52=20151109-08:19:01.98356=CLIENT-Thomas6=011=dd678590-4165-440d-b679-e50157e1c1fc14=017=883a7fc0-88d9-4853-b0be-c810bef4b8b737=-139=844=054=255=XBTCNY58=Position Excceeds Limit103=99150=8151=010=127
+20151109-08:19:00: Auto reset
+20151109-08:19:03: Initiated logon request
+20151109-08:19:03: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20151109-08:19:03: Received logon
+20151109-08:20:19: Session FIX.4.4:CLIENT-Thomas->BTCC-PRO-EXCHANGE-SERVER schedule is daily, 00:00:00-UTC - 00:00:00-UTC
+20151109-08:20:19: Created session: FIX.4.4:CLIENT-Thomas->BTCC-PRO-EXCHANGE-SERVER
+20151109-08:20:20: Initiated logon request
+20151109-08:20:21: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20151109-08:20:21: Received logon
+20151109-08:20:28: Initiated logout request
+20151109-08:20:2820151109-08:20:58: Session FIX.4.4:CLIENT-Thomas->BTCC-PRO-EXCHANGE-SERVER schedule is daily, 00:00:00-UTC - 00:00:00-UTC
+20151109-08:20:58: Created session: FIX.4.4:CLIENT-Thomas->BTCC-PRO-EXCHANGE-SERVER
+20151109-08:21:00: Initiated logon request
+20151109-08:21:00: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20151109-08:21:00: Received logon
+20151109-08:22:01: Session FIX.4.4:CLIENT-Thomas->BTCC-PRO-EXCHANGE-SERVER schedule is daily, 00:00:00-UTC - 00:00:00-UTC
+20151109-08:22:01: Created session: FIX.4.4:CLIENT-Thomas->BTCC-PRO-EXCHANGE-SERVER
+20151109-08:22:02: Initiated logon request
+20151109-08:22:02: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20151109-08:22:02: Received logon
+20151109-08:22:12: Initiated logout request
+20151109-08:22:40: Session FIX.4.4:CLIENT-Thomas->BTCC-PRO-EXCHANGE-SERVER schedule is daily, 00:00:00-UTC - 00:00:00-UTC
+20151109-08:22:40: Created session: FIX.4.4:CLIENT-Thomas->BTCC-PRO-EXCHANGE-SERVER
+20151109-08:22:42: Initiated logon request
+20151109-08:22:42: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20151109-08:22:42: Received logon
+20151109-08:23:05: quickfix.SessionException Logon state is not valid for message (MsgType=8)
+20151109-08:23:05: Already disconnected: Verifying message failed: quickfix.SessionException: Logon state is not valid for message (MsgType=8)
+20151109-08:23:05: quickfix.SessionException Logon state is not valid for message (MsgType=8)
+20151109-08:23:05: Already disconnected: Verifying message failed: quickfix.SessionException: Logon state is not valid for message (MsgType=8)
+20151109-08:23:05: quickfix.SessionException Logon state is not valid for message (MsgType=8)
+20151109-08:23:05: Already disconnected: Verifying message failed: quickfix.SessionException: Logon state is not valid for message (MsgType=8)
+20151109-08:23:05: quickfix.SessionException Logon state is not valid for message (MsgType=8)
+20151109-08:23:05: Already disconnected: Verifying message failed: quickfix.SessionException: Logon state is not valid for message (MsgType=8)
+20151109-08:23:55: Session FIX.4.4:CLIENT-Thomas->BTCC-PRO-EXCHANGE-SERVER schedule is daily, 00:00:00-UTC - 00:00:00-UTC
+20151109-08:23:55: Created session: FIX.4.4:CLIENT-Thomas->BTCC-PRO-EXCHANGE-SERVER
+20151109-08:23:57: Initiated logon request
+20151109-08:23:57: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20151109-08:23:57: Received logon
+20151109-08:23:58: Initiated logout request
+20151109-08:24:44: Session FIX.4.4:CLIENT-Thomas->BTCC-PRO-EXCHANGE-SERVER schedule is daily, 00:00:00-UTC - 00:00:00-UTC
+20151109-08:24:44: Created session: FIX.4.4:CLIENT-Thomas->BTCC-PRO-EXCHANGE-SERVER
+20151109-08:24:45: Initiated logon request
+20151109-08:24:45: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20151109-08:24:45: Received logon
+20151109-08:25:05: Session FIX.4.4:CLIENT-Thomas->BTCC-PRO-EXCHANGE-SERVER schedule is daily, 00:00:00-UTC - 00:00:00-UTC
+20151109-08:25:05: Created session: FIX.4.4:CLIENT-Thomas->BTCC-PRO-EXCHANGE-SERVER
+20151109-08:25:07: Initiated logon request
+20151109-08:25:07: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20151109-08:25:07: Received logon
+20151109-08:25:09: Initiated logout request
+20151109-08:25:09: quickfix.SessionException Logon state is not valid for message (MsgType=8)
+20151109-08:25:45: Session FIX.4.4:CLIENT-Thomas->BTCC-PRO-EXCHANGE-SERVER schedule is daily, 00:00:00-UTC - 00:00:00-UTC
+20151109-08:25:45: Created session: FIX.4.4:CLIENT-Thomas->BTCC-PRO-EXCHANGE-SERVER
+20151109-08:25:46: Initiated logon request
+20151109-08:25:46: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20151109-08:25:46: Received logon
+20151109-08:27:55: Session FIX.4.4:CLIENT-Thomas->BTCC-PRO-EXCHANGE-SERVER schedule is daily, 00:00:00-UTC - 00:00:00-UTC
+20151109-08:27:55: Created session: FIX.4.4:CLIENT-Thomas->BTCC-PRO-EXCHANGE-SERVER
+20151109-08:27:56: Initiated logon request
+20151109-08:27:56: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20151109-08:27:56: Received logon
+20151109-08:28:21: Session FIX.4.4:CLIENT-Thomas->BTCC-PRO-EXCHANGE-SERVER schedule is daily, 00:00:00-UTC - 00:00:00-UTC
+20151109-08:28:21: Created session: FIX.4.4:CLIENT-Thomas->BTCC-PRO-EXCHANGE-SERVER
+20151109-08:28:22: Initiated logon request
+20151109-08:28:22: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20151109-08:28:22: Received logon
+20151109-08:28:37: Session FIX.4.4:CLIENT-Thomas->BTCC-PRO-EXCHANGE-SERVER schedule is daily, 00:00:00-UTC - 00:00:00-UTC
+20151109-08:28:37: Created session: FIX.4.4:CLIENT-Thomas->BTCC-PRO-EXCHANGE-SERVER
+20151109-08:28:38: Initiated logon request
+20151109-08:28:38: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20151109-08:28:38: Received logon
+20151109-08:31:34: Session FIX.4.4:CLIENT-Thomas->BTCC-PRO-EXCHANGE-SERVER schedule is daily, 00:00:00-UTC - 00:00:00-UTC
+20151109-08:31:34: Created session: FIX.4.4:CLIENT-Thomas->BTCC-PRO-EXCHANGE-SERVER
+20151109-08:31:35: Initiated logon request
+20151109-08:31:35: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20151109-08:31:35: Received logon
+20151109-10:21:31: Session FIX.4.4:CLIENT-Thomas->BTCC-PRO-EXCHANGE-SERVER schedule is daily, 00:00:00-UTC - 00:00:00-UTC
+20151109-10:21:32: Created session: FIX.4.4:CLIENT-Thomas->BTCC-PRO-EXCHANGE-SERVER
+20151109-10:21:33: Initiated logon request
+20151109-10:21:33: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20151109-10:21:33: Received logon
+20151109-10:21:55: Session FIX.4.4:CLIENT-Thomas->BTCC-PRO-EXCHANGE-SERVER schedule is daily, 00:00:00-UTC - 00:00:00-UTC
+20151109-10:21:55: Created session: FIX.4.4:CLIENT-Thomas->BTCC-PRO-EXCHANGE-SERVER
+20151109-10:21:57: Initiated logon request
+20151109-10:21:57: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20151109-10:21:57: Received logon
+20151109-10:22:57: Session FIX.4.4:CLIENT-Thomas->BTCC-PRO-EXCHANGE-SERVER schedule is daily, 00:00:00-UTC - 00:00:00-UTC
+20151109-10:22:57: Created session: FIX.4.4:CLIENT-Thomas->BTCC-PRO-EXCHANGE-SERVER
+20151109-10:22:58: Initiated logon request
+20151109-10:22:58: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20151109-10:22:58: Received logon
+20151109-10:23:28: Session FIX.4.4:CLIENT-Thomas->BTCC-PRO-EXCHANGE-SERVER schedule is daily, 00:00:00-UTC - 00:00:00-UTC
+20151109-10:23:28: Created session: FIX.4.4:CLIENT-Thomas->BTCC-PRO-EXCHANGE-SERVER
+20151109-10:23:29: Initiated logon request
+20151109-10:23:29: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20151109-10:23:29: Received logon
+20151109-10:24:24: Session FIX.4.4:CLIENT-Thomas->BTCC-PRO-EXCHANGE-SERVER schedule is daily, 00:00:00-UTC - 00:00:00-UTC
+20151109-10:24:24: Created session: FIX.4.4:CLIENT-Thomas->BTCC-PRO-EXCHANGE-SERVER
+20151109-10:24:25: Initiated logon request
+20151109-10:24:25: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20151109-10:24:25: Received logon
+20151109-10:24:41: Session FIX.4.4:CLIENT-Thomas->BTCC-PRO-EXCHANGE-SERVER schedule is daily, 00:00:00-UTC - 00:00:00-UTC
+20151109-10:24:41: Created session: FIX.4.4:CLIENT-Thomas->BTCC-PRO-EXCHANGE-SERVER
+20151109-10:24:43: Initiated logon request
+20151109-10:24:43: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20151109-10:24:43: Received logon
+20151109-10:24:48: quickfix.SessionException Logon state is not valid for message (MsgType=9)
+20151109-10:24:48: Already disconnected: Verifying message failed: quickfix.SessionException: Logon state is not valid for message (MsgType=9)
+20151109-10:25:08: Session FIX.4.4:CLIENT-Thomas->BTCC-PRO-EXCHANGE-SERVER schedule is daily, 00:00:00-UTC - 00:00:00-UTC
+20151109-10:25:08: Created session: FIX.4.4:CLIENT-Thomas->BTCC-PRO-EXCHANGE-SERVER
+20151109-10:25:10: Initiated logon request
+20151109-10:25:10: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20151109-10:25:10: Received logon
+20151109-10:25:26: Session FIX.4.4:CLIENT-Thomas->BTCC-PRO-EXCHANGE-SERVER schedule is daily, 00:00:00-UTC - 00:00:00-UTC
+20151109-10:25:26: Created session: FIX.4.4:CLIENT-Thomas->BTCC-PRO-EXCHANGE-SERVER
+20151109-10:25:27: Initiated logon request
+20151109-10:25:27: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20151109-10:25:27: Received logon
+20151109-10:45:11: Session FIX.4.4:CLIENT-Thomas->BTCC-PRO-EXCHANGE-SERVER schedule is daily, 00:00:00-UTC - 00:00:00-UTC
+20151109-10:45:11: Created session: FIX.4.4:CLIENT-Thomas->BTCC-PRO-EXCHANGE-SERVER
+20151109-10:45:12: Initiated logon request
+20151109-10:45:12: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20151109-10:45:12: Received logon
+20151109-10:45:13: Initiated logout request
+20151109-10:45:20: Session FIX.4.4:CLIENT-Thomas->BTCC-PRO-EXCHANGE-SERVER schedule is daily, 00:00:00-UTC - 00:00:00-UTC
+20151109-10:45:20: Created session: FIX.4.4:CLIENT-Thomas->BTCC-PRO-EXCHANGE-SERVER
+20151109-10:45:21: Initiated logon request
+20151109-10:45:22: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20151109-10:45:22: Received logon
+20151109-10:45:22: Initiated logout request
+20151109-10:45:37: Session FIX.4.4:CLIENT-Thomas->BTCC-PRO-EXCHANGE-SERVER schedule is daily, 00:00:00-UTC - 00:00:00-UTC
+20151109-10:45:37: Created session: FIX.4.4:CLIENT-Thomas->BTCC-PRO-EXCHANGE-SERVER
+20151109-10:45:38: Initiated logon request
+20151109-10:45:38: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20151109-10:45:38: Received logon
+20151109-10:45:40: Initiated logout request
+20151109-10:45:52: Session FIX.4.4:CLIENT-Thomas->BTCC-PRO-EXCHANGE-SERVER schedule is daily, 00:00:00-UTC - 00:00:00-UTC
+20151109-10:45:52: Created session: FIX.4.4:CLIENT-Thomas->BTCC-PRO-EXCHANGE-SERVER
+20151109-10:45:54: Initiated logon request
+20151109-10:45:54: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20151109-10:45:54: Received logon
+20151109-10:45:54: Rejecting invalid message: quickfix.FieldException: invalid character value: 99: 8=FIX.4.49=24635=834=449=BTCC-PRO-EXCHANGE-SERVER52=20151109-10:45:55.73056=CLIENT-Thomas6=011=285d03b5-4df6-4d59-9d5a-cb1c0f2367bf14=017=97355e5a-1122-4ee5-83c8-9e9b34691e9137=-139=844=054=255=XBTCNY58=Position Excceeds Limit103=99150=8151=010=023
+20151109-10:45:54: Auto reset
+20151109-10:46:05: Session FIX.4.4:CLIENT-Thomas->BTCC-PRO-EXCHANGE-SERVER schedule is daily, 00:00:00-UTC - 00:00:00-UTC
+20151109-10:46:05: Created session: FIX.4.4:CLIENT-Thomas->BTCC-PRO-EXCHANGE-SERVER
+20151109-10:46:07: Initiated logon request
+20151109-10:46:07: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20151109-10:46:07: Received logon
+20151109-10:46:07: Rejecting invalid message: quickfix.FieldException: invalid character value: 99: 8=FIX.4.49=24635=834=249=BTCC-PRO-EXCHANGE-SERVER52=20151109-10:46:08.32356=CLIENT-Thomas6=011=2a26630c-a547-4ad6-b6f5-ce91da05f90614=017=b5193f04-3e49-4bca-9b74-880cf89c351637=-139=844=054=255=XBTCNY58=Position Excceeds Limit103=99150=8151=010=051
+20151109-10:46:07: Auto reset
+20151109-10:46:33: Session FIX.4.4:CLIENT-Thomas->BTCC-PRO-EXCHANGE-SERVER schedule is daily, 00:00:00-UTC - 00:00:00-UTC
+20151109-10:46:33: Created session: FIX.4.4:CLIENT-Thomas->BTCC-PRO-EXCHANGE-SERVER
+20151109-10:46:34: Initiated logon request
+20151109-10:46:34: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20151109-10:46:34: Received logon
+20151109-10:46:35: Rejecting invalid message: quickfix.FieldException: invalid character value: 99: 8=FIX.4.49=24635=834=249=BTCC-PRO-EXCHANGE-SERVER52=20151109-10:46:36.22856=CLIENT-Thomas6=011=a69e9c64-e410-4738-a4a6-1b7ee38a413a14=017=c7d61f22-71fa-4dc4-ae5a-8dfeb65f77ca37=-139=844=054=255=XBTCNY58=Position Excceeds Limit103=99150=8151=010=083
+20151109-10:46:35: Auto reset
+20151109-10:46:40: Initiated logon request
+20151109-10:46:40: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20151109-10:46:40: Received logon
+20151109-10:46:41: Rejecting invalid message: quickfix.FieldException: invalid character value: 99: 8=FIX.4.49=24635=834=249=BTCC-PRO-EXCHANGE-SERVER52=20151109-10:46:42.08456=CLIENT-Thomas6=011=922934fe-7818-4c42-8c5f-57def14e782814=017=54fbc588-652b-42a1-bde4-6bf8596b789037=-139=844=054=255=XBTCNY58=Position Excceeds Limit103=99150=8151=010=255
+20151109-10:46:41: Auto reset
+20151109-10:46:46: Initiated logon request
+20151109-10:46:47: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20151109-10:46:47: Received logon
+20151109-10:46:47: Rejecting invalid message: quickfix.FieldException: invalid character value: 99: 8=FIX.4.49=24635=834=249=BTCC-PRO-EXCHANGE-SERVER52=20151109-10:46:48.26156=CLIENT-Thomas6=011=2bf4a900-97a8-4901-b6c6-e8616cf9a0da14=017=409f7e6b-d5cc-403c-83f1-f3af3332e9ca37=-139=844=054=255=XBTCNY58=Position Excceeds Limit103=99150=8151=010=239
+20151109-10:46:47: Auto reset
+20151109-10:46:52: Initiated logon request
+20151109-10:46:52: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20151109-10:46:52: Received logon
+20151109-10:46:53: Rejecting invalid message: quickfix.FieldException: invalid character value: 99: 8=FIX.4.49=24635=834=249=BTCC-PRO-EXCHANGE-SERVER52=20151109-10:46:54.08256=CLIENT-Thomas6=011=fd769142-acb7-479f-9f2c-98f1b9b2b78a14=017=a08e7b34-4fa0-4eb8-b625-07b58592f0fc37=-139=844=054=255=XBTCNY58=Position Excceeds Limit103=99150=8151=010=215
+20151109-10:46:53: Auto reset
+20151109-10:47:33: Session FIX.4.4:CLIENT-Thomas->BTCC-PRO-EXCHANGE-SERVER schedule is daily, 00:00:00-UTC - 00:00:00-UTC
+20151109-10:47:33: Created session: FIX.4.4:CLIENT-Thomas->BTCC-PRO-EXCHANGE-SERVER
+20151109-10:47:34: Initiated logon request
+20151109-10:47:34: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20151109-10:47:34: Received logon
+20151109-10:47:35: Initiated logout request
+20151109-10:51:28: Session FIX.4.4:CLIENT-Thomas->BTCC-PRO-EXCHANGE-SERVER schedule is daily, 00:00:00-UTC - 00:00:00-UTC
+20151109-10:51:28: Created session: FIX.4.4:CLIENT-Thomas->BTCC-PRO-EXCHANGE-SERVER
+20151109-10:51:29: Initiated logon request
+20151109-10:51:29: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20151109-10:51:29: Received logon
+20151109-10:51:29: Initiated logout request
+20151109-10:51:55: Session FIX.4.4:CLIENT-Thomas->BTCC-PRO-EXCHANGE-SERVER schedule is daily, 00:00:00-UTC - 00:00:00-UTC
+20151109-10:51:55: Created session: FIX.4.4:CLIENT-Thomas->BTCC-PRO-EXCHANGE-SERVER
+20151109-10:51:57: Initiated logon request
+20151109-10:51:57: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20151109-10:51:57: Received logon
+20151109-10:52:36: Session FIX.4.4:CLIENT-Thomas->BTCC-PRO-EXCHANGE-SERVER schedule is daily, 00:00:00-UTC - 00:00:00-UTC
+20151109-10:52:36: Created session: FIX.4.4:CLIENT-Thomas->BTCC-PRO-EXCHANGE-SERVER
+20151109-10:52:37: Initiated logon request
+20151109-10:52:37: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20151109-10:52:37: Received logon
+20151109-10:53:06: Session FIX.4.4:CLIENT-Thomas->BTCC-PRO-EXCHANGE-SERVER schedule is daily, 00:00:00-UTC - 00:00:00-UTC
+20151109-10:53:06: Created session: FIX.4.4:CLIENT-Thomas->BTCC-PRO-EXCHANGE-SERVER
+20151109-10:53:07: Initiated logon request
+20151109-10:53:07: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20151109-10:53:07: Received logon
+20151109-10:54:13: Session FIX.4.4:CLIENT-Thomas->BTCC-PRO-EXCHANGE-SERVER schedule is daily, 00:00:00-UTC - 00:00:00-UTC
+20151109-10:54:13: Created session: FIX.4.4:CLIENT-Thomas->BTCC-PRO-EXCHANGE-SERVER
+20151109-10:54:15: Initiated logon request
+20151109-10:54:15: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20151109-10:54:15: Received logon
+20151109-11:43:04: Session FIX.4.4:CLIENT-Thomas->BTCC-PRO-EXCHANGE-SERVER schedule is daily, 00:00:00-UTC - 00:00:00-UTC
+20151109-11:43:04: Created session: FIX.4.4:CLIENT-Thomas->BTCC-PRO-EXCHANGE-SERVER
+20151109-11:43:06: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20151109-11:43:06: Initiated logon request
+20151109-11:43:06: Received logon
+20151109-11:44:09: Session FIX.4.4:CLIENT-Thomas->BTCC-PRO-EXCHANGE-SERVER schedule is daily, 00:00:00-UTC - 00:00:00-UTC
+20151109-11:44:09: Created session: FIX.4.4:CLIENT-Thomas->BTCC-PRO-EXCHANGE-SERVER
+20151109-11:44:11: Initiated logon request
+20151109-11:44:11: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20151109-11:44:11: Received logon
+20151109-11:48:54: Session FIX.4.4:CLIENT-Thomas->BTCC-PRO-EXCHANGE-SERVER schedule is daily, 00:00:00-UTC - 00:00:00-UTC
+20151109-11:48:54: Created session: FIX.4.4:CLIENT-Thomas->BTCC-PRO-EXCHANGE-SERVER
+20151109-11:48:55: Initiated logon request
+20151109-11:48:55: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20151109-11:48:55: Received logon
+20151109-11:49:24: Session FIX.4.4:CLIENT-Thomas->BTCC-PRO-EXCHANGE-SERVER schedule is daily, 00:00:00-UTC - 00:00:00-UTC
+20151109-11:49:24: Created session: FIX.4.4:CLIENT-Thomas->BTCC-PRO-EXCHANGE-SERVER
+20151109-11:49:25: Initiated logon request
+20151109-11:49:25: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20151109-11:49:25: Received logon
+20151109-11:49:43: Session FIX.4.4:CLIENT-Thomas->BTCC-PRO-EXCHANGE-SERVER schedule is daily, 00:00:00-UTC - 00:00:00-UTC
+20151109-11:49:43: Created session: FIX.4.4:CLIENT-Thomas->BTCC-PRO-EXCHANGE-SERVER
+20151109-11:49:45: Initiated logon request
+20151109-11:49:45: Disconnecting: Socket exception (/172.20.13.222:9880): java.io.IOException: Connection reset by peer
+20151109-11:49:52: Session FIX.4.4:CLIENT-Thomas->BTCC-PRO-EXCHANGE-SERVER schedule is daily, 00:00:00-UTC - 00:00:00-UTC
+20151109-11:49:52: Created session: FIX.4.4:CLIENT-Thomas->BTCC-PRO-EXCHANGE-SERVER
+20151109-11:49:53: Initiated logon request
+20151109-11:49:53: Disconnecting: Socket exception (/172.20.13.222:9880): java.io.IOException: Connection reset by peer
+20151109-11:50:01: Session FIX.4.4:CLIENT-Thomas->BTCC-PRO-EXCHANGE-SERVER schedule is daily, 00:00:00-UTC - 00:00:00-UTC
+20151109-11:50:01: Created session: FIX.4.4:CLIENT-Thomas->BTCC-PRO-EXCHANGE-SERVER
+20151109-11:50:03: Initiated logon request
+20151109-11:50:03: Disconnecting: Socket exception (/172.20.13.222:9880): java.io.IOException: Connection reset by peer
+20151109-11:50:08: Initiated logon request
+20151109-11:50:08: Disconnecting: Socket exception (/172.20.13.222:9880): java.io.IOException: Connection reset by peer
+20151109-11:50:30: Session FIX.4.4:CLIENT-Thomas->BTCC-PRO-EXCHANGE-SERVER schedule is daily, 00:00:00-UTC - 00:00:00-UTC
+20151109-11:50:30: Created session: FIX.4.4:CLIENT-Thomas->BTCC-PRO-EXCHANGE-SERVER
+20151109-11:50:32: Initiated logon request
+20151109-11:50:32: Disconnecting: Socket exception (/172.20.13.222:9880): java.io.IOException: Connection reset by peer
+20151109-12:01:37: Session FIX.4.4:CLIENT-Thomas->BTCC-PRO-EXCHANGE-SERVER schedule is daily, 00:00:00-UTC - 00:00:00-UTC
+20151109-12:01:37: Created session: FIX.4.4:CLIENT-Thomas->BTCC-PRO-EXCHANGE-SERVER
+20151109-12:01:38: Initiated logon request
+20151109-12:01:38: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20151109-12:01:38: Received logon
+20151109-12:01:39: quickfix.SessionException Logon state is not valid for message (MsgType=8)
+20151109-12:01:39: Already disconnected: Verifying message failed: quickfix.SessionException: Logon state is not valid for message (MsgType=8)
+20151109-12:02:14: Session FIX.4.4:CLIENT-Thomas->BTCC-PRO-EXCHANGE-SERVER schedule is daily, 00:00:00-UTC - 00:00:00-UTC
+20151109-12:02:14: Created session: FIX.4.4:CLIENT-Thomas->BTCC-PRO-EXCHANGE-SERVER
+20151109-12:02:15: Initiated logon request
+20151109-12:02:15: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20151109-12:02:15: Received logon
+20151109-12:02:33: Session FIX.4.4:CLIENT-Thomas->BTCC-PRO-EXCHANGE-SERVER schedule is daily, 00:00:00-UTC - 00:00:00-UTC
+20151109-12:02:33: Created session: FIX.4.4:CLIENT-Thomas->BTCC-PRO-EXCHANGE-SERVER
+20151109-12:02:34: Initiated logon request
+20151109-12:02:34: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20151109-12:02:34: Received logon
+20151109-12:02:38: Initiated logout request
+20151109-12:02:58: Session FIX.4.4:CLIENT-Thomas->BTCC-PRO-EXCHANGE-SERVER schedule is daily, 00:00:00-UTC - 00:00:00-UTC
+20151109-12:02:58: Created session: FIX.4.4:CLIENT-Thomas->BTCC-PRO-EXCHANGE-SERVER
+20151109-12:02:59: Initiated logon request
+20151109-12:02:59: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20151109-12:02:59: Received logon
+20151109-12:03:04: quickfix.SessionException Logon state is not valid for message (MsgType=8)
+20151109-12:03:04: Already disconnected: Verifying message failed: quickfix.SessionException: Logon state is not valid for message (MsgType=8)
+20151109-12:03:04: quickfix.SessionException Logon state is not valid for message (MsgType=8)
+20151109-12:03:04: Already disconnected: Verifying message failed: quickfix.SessionException: Logon state is not valid for message (MsgType=8)
+20151109-12:03:04: quickfix.SessionException Logon state is not valid for message (MsgType=8)
+20151109-12:03:04: Already disconnected: Verifying message failed: quickfix.SessionException: Logon state is not valid for message (MsgType=8)
+20151109-12:03:04: quickfix.SessionException Logon state is not valid for message (MsgType=8)
+20151109-12:03:04: Already disconnected: Verifying message failed: quickfix.SessionException: Logon state is not valid for message (MsgType=8)
+20151109-12:07:21: Session FIX.4.4:CLIENT-Thomas->BTCC-PRO-EXCHANGE-SERVER schedule is daily, 00:00:00-UTC - 00:00:00-UTC
+20151109-12:07:21: Created session: FIX.4.4:CLIENT-Thomas->BTCC-PRO-EXCHANGE-SERVER
+20151109-12:07:22: Initiated logon request
+20151109-12:07:22: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20151109-12:07:22: Received logon
+20151109-12:08:49: Session FIX.4.4:CLIENT-Thomas->BTCC-PRO-EXCHANGE-SERVER schedule is daily, 00:00:00-UTC - 00:00:00-UTC
+20151109-12:08:49: Created session: FIX.4.4:CLIENT-Thomas->BTCC-PRO-EXCHANGE-SERVER
+20151109-12:08:51: Initiated logon request
+20151109-12:08:51: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20151109-12:08:51: Received logon
+20151109-12:08:51: Initiated logout request
+20151109-12:09:49: Session FIX.4.4:CLIENT-Thomas->BTCC-PRO-EXCHANGE-SERVER schedule is daily, 00:00:00-UTC - 00:00:00-UTC
+20151109-12:09:49: Created session: FIX.4.4:CLIENT-Thomas->BTCC-PRO-EXCHANGE-SERVER
+20151109-12:09:50: Initiated logon request
+20151109-12:09:50: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20151109-12:09:50: Received logon
+20151109-12:09:51: Initiated logout request
+20151109-12:10:21: Session FIX.4.4:CLIENT-Thomas->BTCC-PRO-EXCHANGE-SERVER schedule is daily, 00:00:00-UTC - 00:00:00-UTC
+20151109-12:10:21: Created session: FIX.4.4:CLIENT-Thomas->BTCC-PRO-EXCHANGE-SERVER
+20151109-12:10:22: Initiated logon request
+20151109-12:10:22: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20151109-12:10:22: Received logon
+20151109-12:12:15: Session FIX.4.4:CLIENT-Thomas->BTCC-PRO-EXCHANGE-SERVER schedule is daily, 00:00:00-UTC - 00:00:00-UTC
+20151109-12:12:15: Created session: FIX.4.4:CLIENT-Thomas->BTCC-PRO-EXCHANGE-SERVER
+20151109-12:12:16: Initiated logon request
+20151109-12:12:16: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20151109-12:12:16: Received logon
+20151109-12:13:21: Session FIX.4.4:CLIENT-Thomas->BTCC-PRO-EXCHANGE-SERVER schedule is daily, 00:00:00-UTC - 00:00:00-UTC
+20151109-12:13:22: Created session: FIX.4.4:CLIENT-Thomas->BTCC-PRO-EXCHANGE-SERVER
+20151109-12:13:23: Initiated logon request
+20151109-12:13:23: Disconnecting: Socket exception (/172.20.13.222:9880): java.io.IOException: Connection reset by peer
+20151109-12:13:35: Session FIX.4.4:CLIENT-Thomas->BTCC-PRO-EXCHANGE-SERVER schedule is daily, 00:00:00-UTC - 00:00:00-UTC
+20151109-12:13:35: Created session: FIX.4.4:CLIENT-Thomas->BTCC-PRO-EXCHANGE-SERVER
+20151109-12:13:36: Initiated logon request
+20151109-12:13:36: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20151109-12:13:36: Received logon
+20151109-12:21:09: Session FIX.4.4:CLIENT-Thomas->BTCC-PRO-EXCHANGE-SERVER schedule is daily, 00:00:00-UTC - 00:00:00-UTC
+20151109-12:21:09: Created session: FIX.4.4:CLIENT-Thomas->BTCC-PRO-EXCHANGE-SERVER
+20151109-12:21:10: Initiated logon request
+20151109-12:21:10: Disconnecting: Socket exception (/172.20.13.222:9880): java.io.IOException: Connection reset by peer
+20151109-12:21:20: Session FIX.4.4:CLIENT-Thomas->BTCC-PRO-EXCHANGE-SERVER schedule is daily, 00:00:00-UTC - 00:00:00-UTC
+20151109-12:21:20: Created session: FIX.4.4:CLIENT-Thomas->BTCC-PRO-EXCHANGE-SERVER
+20151109-12:21:21: Initiated logon request
+20151109-12:21:21: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20151109-12:21:21: Received logon
+20151109-12:23:43: Session FIX.4.4:CLIENT-Thomas->BTCC-PRO-EXCHANGE-SERVER schedule is daily, 00:00:00-UTC - 00:00:00-UTC
+20151109-12:23:43: Created session: FIX.4.4:CLIENT-Thomas->BTCC-PRO-EXCHANGE-SERVER
+20151109-12:23:44: Initiated logon request
+20151109-12:23:44: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20151109-12:23:44: Received logon
+20151109-12:26:12: Session FIX.4.4:CLIENT-Thomas->BTCC-PRO-EXCHANGE-SERVER schedule is daily, 00:00:00-UTC - 00:00:00-UTC
+20151109-12:26:12: Created session: FIX.4.4:CLIENT-Thomas->BTCC-PRO-EXCHANGE-SERVER
+20151109-12:26:13: Initiated logon request
+20151109-12:26:13: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20151109-12:26:13: Received logon
+20151109-12:31:57: Session FIX.4.4:CLIENT-Thomas->BTCC-PRO-EXCHANGE-SERVER schedule is daily, 00:00:00-UTC - 00:00:00-UTC
+20151109-12:31:57: Created session: FIX.4.4:CLIENT-Thomas->BTCC-PRO-EXCHANGE-SERVER
+20151109-12:31:58: Initiated logon request
+20151109-12:31:58: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20151109-12:31:58: Received logon
+20151109-12:36:28: Session FIX.4.4:CLIENT-Thomas->BTCC-PRO-EXCHANGE-SERVER schedule is daily, 00:00:00-UTC - 00:00:00-UTC
+20151109-12:36:28: Created session: FIX.4.4:CLIENT-Thomas->BTCC-PRO-EXCHANGE-SERVER
+20151109-12:36:29: Initiated logon request
+20151109-12:36:29: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20151109-12:36:29: Received logon
+20151109-12:36:30: Rejecting invalid message: quickfix.FieldException: invalid character value: 99: 8=FIX.4.49=24635=834=249=BTCC-PRO-EXCHANGE-SERVER52=20151109-12:36:31.00256=CLIENT-Thomas6=011=6ff66b0a-f34d-4403-b64f-6628bd06a6ec14=017=e75507f2-a1c7-4a58-b6bc-2efa55e4c86437=-139=844=054=155=XBTCNY58=Position Excceeds Limit103=99150=8151=010=229
+20151109-12:36:30: Auto reset
+20151109-12:39:26: Session FIX.4.4:CLIENT-Thomas->BTCC-PRO-EXCHANGE-SERVER schedule is daily, 00:00:00-UTC - 00:00:00-UTC
+20151109-12:39:26: Created session: FIX.4.4:CLIENT-Thomas->BTCC-PRO-EXCHANGE-SERVER
+20151109-12:39:27: Initiated logon request
+20151109-12:39:27: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20151109-12:39:27: Received logon
+20151109-12:39:27: Rejecting invalid message: quickfix.FieldException: invalid character value: 99: 8=FIX.4.49=24635=834=249=BTCC-PRO-EXCHANGE-SERVER52=20151109-12:39:28.63356=CLIENT-Thomas6=011=ae1eebb8-0b6c-4c42-86a6-50b88b8eec3514=017=c9d5efdd-dd7b-4132-9155-b4a9a2bdc80137=-139=844=054=155=XBTCNY58=Position Excceeds Limit103=99150=8151=010=174
+20151109-12:39:27: Auto reset
+20151109-12:43:49: Session FIX.4.4:CLIENT-Thomas->BTCC-PRO-EXCHANGE-SERVER schedule is daily, 00:00:00-UTC - 00:00:00-UTC
+20151109-12:43:49: Created session: FIX.4.4:CLIENT-Thomas->BTCC-PRO-EXCHANGE-SERVER
+20151109-12:43:51: Initiated logon request
+20151109-12:43:51: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20151109-12:43:51: Received logon
+20151109-12:43:51: Rejecting invalid message: quickfix.FieldException: invalid character value: 99: 8=FIX.4.49=24635=834=249=BTCC-PRO-EXCHANGE-SERVER52=20151109-12:43:52.78956=CLIENT-Thomas6=011=2e1372ee-bd61-4b30-a459-0796029b7c6b14=017=d51d8a6e-2324-4ed7-9a87-b71791d3c55d37=-139=844=054=155=XBTCNY58=Position Excceeds Limit103=99150=8151=010=015
+20151109-12:43:51: Auto reset
+20151109-12:44:28: Session FIX.4.4:CLIENT-Thomas->BTCC-PRO-EXCHANGE-SERVER schedule is daily, 00:00:00-UTC - 00:00:00-UTC
+20151109-12:44:28: Created session: FIX.4.4:CLIENT-Thomas->BTCC-PRO-EXCHANGE-SERVER
+20151109-12:44:30: Initiated logon request
+20151109-12:44:30: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20151109-12:44:30: Received logon
+20151109-12:44:30: Rejecting invalid message: quickfix.FieldException: invalid character value: 99: 8=FIX.4.49=24635=834=249=BTCC-PRO-EXCHANGE-SERVER52=20151109-12:44:31.50456=CLIENT-Thomas6=011=b8486162-edea-4949-8413-b27d13a1049314=017=08c7f375-ae90-4867-a579-8b92561cd1dd37=-139=844=054=155=XBTCNY58=Position Excceeds Limit103=99150=8151=010=126
+20151109-12:44:30: Auto reset
+20151109-12:44:37: Session FIX.4.4:CLIENT-Thomas->BTCC-PRO-EXCHANGE-SERVER schedule is daily, 00:00:00-UTC - 00:00:00-UTC
+20151109-12:44:37: Created session: FIX.4.4:CLIENT-Thomas->BTCC-PRO-EXCHANGE-SERVER
+20151109-12:44:39: Initiated logon request
+20151109-12:44:39: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20151109-12:44:39: Received logon
+20151109-12:44:39: Rejecting invalid message: quickfix.FieldException: invalid character value: 99: 8=FIX.4.49=24635=834=249=BTCC-PRO-EXCHANGE-SERVER52=20151109-12:44:40.70056=CLIENT-Thomas6=011=0e4d932e-1c29-4d6c-b8b1-c6a93c417b4c14=017=f09b5384-7c44-4ecb-9bb5-f6d57456153237=-139=844=054=155=XBTCNY58=Position Excceeds Limit103=99150=8151=010=091
+20151109-12:44:39: Auto reset
+20151109-12:45:48: Session FIX.4.4:CLIENT-Thomas->BTCC-PRO-EXCHANGE-SERVER schedule is daily, 00:00:00-UTC - 00:00:00-UTC
+20151109-12:45:48: Created session: FIX.4.4:CLIENT-Thomas->BTCC-PRO-EXCHANGE-SERVER
+20151109-12:45:50: Initiated logon request
+20151109-12:45:50: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20151109-12:45:50: Received logon
+20151109-12:45:50: Rejecting invalid message: quickfix.FieldException: invalid character value: 99: 8=FIX.4.49=24635=834=249=BTCC-PRO-EXCHANGE-SERVER52=20151109-12:45:51.30056=CLIENT-Thomas6=011=e2ca9778-3a2f-4d94-b8e2-6f877452e85614=017=e7945bcb-1685-41a9-b802-bb52ea4652ac37=-139=844=054=155=XBTCNY58=Position Excceeds Limit103=99150=8151=010=061
+20151109-12:45:50: Auto reset
+20151109-12:47:03: Session FIX.4.4:CLIENT-Thomas->BTCC-PRO-EXCHANGE-SERVER schedule is daily, 00:00:00-UTC - 00:00:00-UTC
+20151109-12:47:03: Created session: FIX.4.4:CLIENT-Thomas->BTCC-PRO-EXCHANGE-SERVER
+20151109-12:47:05: Initiated logon request
+20151109-12:47:05: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20151109-12:47:05: Received logon
+20151109-12:47:05: Rejecting invalid message: quickfix.FieldException: invalid character value: 99: 8=FIX.4.49=24635=834=249=BTCC-PRO-EXCHANGE-SERVER52=20151109-12:47:06.25656=CLIENT-Thomas6=011=009ae67d-fd9a-4c7d-a651-cea120a9036714=017=fdd1ba91-2f2a-42a6-815e-f353b187019a37=-139=844=054=155=XBTCNY58=Position Excceeds Limit103=99150=8151=010=172
+20151109-12:47:05: Auto reset
+20151109-12:47:25: Session FIX.4.4:CLIENT-Thomas->BTCC-PRO-EXCHANGE-SERVER schedule is daily, 00:00:00-UTC - 00:00:00-UTC
+20151109-12:47:25: Created session: FIX.4.4:CLIENT-Thomas->BTCC-PRO-EXCHANGE-SERVER
+20151109-12:47:26: Initiated logon request
+20151109-12:47:26: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20151109-12:47:26: Received logon
+20151109-12:47:27: Rejecting invalid message: quickfix.FieldException: invalid character value: 99: 8=FIX.4.49=24635=834=249=BTCC-PRO-EXCHANGE-SERVER52=20151109-12:47:28.07456=CLIENT-Thomas6=011=637403c5-04d4-4258-a5c6-432498b3df2214=017=968e3eb1-bf4b-4c1b-809f-98b591f3b51437=-139=844=054=155=XBTCNY58=Position Excceeds Limit103=99150=8151=010=171
+20151109-12:47:27: Auto reset
+20151109-12:47:45: Session FIX.4.4:CLIENT-Thomas->BTCC-PRO-EXCHANGE-SERVER schedule is daily, 00:00:00-UTC - 00:00:00-UTC
+20151109-12:47:45: Created session: FIX.4.4:CLIENT-Thomas->BTCC-PRO-EXCHANGE-SERVER
+20151109-12:47:47: Initiated logon request
+20151109-12:47:47: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20151109-12:47:47: Received logon
+20151109-12:47:47: Rejecting invalid message: quickfix.FieldException: invalid character value: 99: 8=FIX.4.49=24635=834=249=BTCC-PRO-EXCHANGE-SERVER52=20151109-12:47:48.69456=CLIENT-Thomas6=011=d7f2257e-0153-4f2d-9a8b-473183a9b9cb14=017=81808443-7d8a-4127-b461-3f3f3962b63737=-139=844=054=155=XBTCNY58=Position Excceeds Limit103=99150=8151=010=092
+20151109-12:47:47: Auto reset
+20151109-12:48:12: Session FIX.4.4:CLIENT-Thomas->BTCC-PRO-EXCHANGE-SERVER schedule is daily, 00:00:00-UTC - 00:00:00-UTC
+20151109-12:48:12: Created session: FIX.4.4:CLIENT-Thomas->BTCC-PRO-EXCHANGE-SERVER
+20151109-12:48:13: Initiated logon request
+20151109-12:48:13: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20151109-12:48:13: Received logon
+20151109-12:48:14: Rejecting invalid message: quickfix.FieldException: invalid character value: 99: 8=FIX.4.49=24635=834=249=BTCC-PRO-EXCHANGE-SERVER52=20151109-12:48:15.09356=CLIENT-Thomas6=011=396d54d3-07f2-4e4a-908c-72388ef8815414=017=892010fc-7482-4d80-84b1-78ca4555e18437=-139=844=054=155=XBTCNY58=Position Excceeds Limit103=99150=8151=010=255
+20151109-12:48:14: Auto reset
+20151109-12:52:49: Session FIX.4.4:CLIENT-Thomas->BTCC-PRO-EXCHANGE-SERVER schedule is daily, 00:00:00-UTC - 00:00:00-UTC
+20151109-12:52:49: Created session: FIX.4.4:CLIENT-Thomas->BTCC-PRO-EXCHANGE-SERVER
+20151109-12:52:50: Initiated logon request
+20151109-12:52:50: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20151109-12:52:50: Received logon
+20151109-12:52:51: Rejecting invalid message: quickfix.FieldException: invalid character value: 99: 8=FIX.4.49=24635=834=249=BTCC-PRO-EXCHANGE-SERVER52=20151109-12:52:51.90556=CLIENT-Thomas6=011=466d98cb-6742-495b-9ba7-799386ee293a14=017=cc3e6da9-7927-442f-b54a-1953dde2ec9937=-139=844=054=155=XBTCNY58=Position Excceeds Limit103=99150=8151=010=100
+20151109-12:52:51: Auto reset
+20151109-13:07:13: Session FIX.4.4:CLIENT-Thomas->BTCC-PRO-EXCHANGE-SERVER schedule is daily, 00:00:00-UTC - 00:00:00-UTC
+20151109-13:07:13: Created session: FIX.4.4:CLIENT-Thomas->BTCC-PRO-EXCHANGE-SERVER
+20151109-13:07:15: Initiated logon request
+20151109-13:07:15: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20151109-13:07:15: Received logon
+20151109-13:07:15: Rejecting invalid message: quickfix.FieldException: invalid character value: 99: 8=FIX.4.49=24635=834=249=BTCC-PRO-EXCHANGE-SERVER52=20151109-13:07:16.56756=CLIENT-Thomas6=011=38b37f98-c90a-42d3-b796-9053feeb008414=017=1ee15bca-9200-4821-aee7-2b986d61b9ad37=-139=844=054=155=XBTCNY58=Position Excceeds Limit103=99150=8151=010=105
+20151109-13:07:15: Auto reset
+20151109-13:08:07: Session FIX.4.4:CLIENT-Thomas->BTCC-PRO-EXCHANGE-SERVER schedule is daily, 00:00:00-UTC - 00:00:00-UTC
+20151109-13:08:07: Created session: FIX.4.4:CLIENT-Thomas->BTCC-PRO-EXCHANGE-SERVER
+20151109-13:08:08: Initiated logon request
+20151109-13:08:08: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20151109-13:08:08: Received logon
+20151109-13:08:08: Rejecting invalid message: quickfix.FieldException: invalid character value: 99: 8=FIX.4.49=24635=834=249=BTCC-PRO-EXCHANGE-SERVER52=20151109-13:08:09.66456=CLIENT-Thomas6=011=2a6b7e6d-79c0-43d1-aeb4-3e3e410c21e314=017=23721243-3a76-4876-a3fb-95920e95947b37=-139=844=054=155=XBTCNY58=Position Excceeds Limit103=99150=8151=010=161
+20151109-13:08:08: Auto reset
+20151109-13:08:34: Session FIX.4.4:CLIENT-Thomas->BTCC-PRO-EXCHANGE-SERVER schedule is daily, 00:00:00-UTC - 00:00:00-UTC
+20151109-13:08:34: Created session: FIX.4.4:CLIENT-Thomas->BTCC-PRO-EXCHANGE-SERVER
+20151109-13:08:35: Initiated logon request
+20151109-13:08:35: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20151109-13:08:35: Received logon
+20151109-13:08:36: Rejecting invalid message: quickfix.FieldException: invalid character value: 99: 8=FIX.4.49=24635=834=249=BTCC-PRO-EXCHANGE-SERVER52=20151109-13:08:37.00956=CLIENT-Thomas6=011=392b4723-7d6c-4a9f-8505-daab12fba09c14=017=fa2a60c6-71c2-4bb3-8b75-f7b9b51273fb37=-139=844=054=155=XBTCNY58=Position Excceeds Limit103=99150=8151=010=225
+20151109-13:08:36: Auto reset
+20151109-13:09:38: Session FIX.4.4:CLIENT-Thomas->BTCC-PRO-EXCHANGE-SERVER schedule is daily, 00:00:00-UTC - 00:00:00-UTC
+20151109-13:09:38: Created session: FIX.4.4:CLIENT-Thomas->BTCC-PRO-EXCHANGE-SERVER
+20151109-13:09:39: Initiated logon request
+20151109-13:09:39: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20151109-13:09:39: Received logon
+20151109-13:09:40: Rejecting invalid message: quickfix.FieldException: invalid character value: 99: 8=FIX.4.49=24635=834=249=BTCC-PRO-EXCHANGE-SERVER52=20151109-13:09:41.07256=CLIENT-Thomas6=011=75f2bb10-646b-4c1a-87a2-35a93399e18414=017=091b7e64-8b17-415e-98ea-152c1364cc5337=-139=844=054=155=XBTCNY58=Position Excceeds Limit103=99150=8151=010=107
+20151109-13:09:40: Auto reset
+20151109-13:09:54: Session FIX.4.4:CLIENT-Thomas->BTCC-PRO-EXCHANGE-SERVER schedule is daily, 00:00:00-UTC - 00:00:00-UTC
+20151109-13:09:54: Created session: FIX.4.4:CLIENT-Thomas->BTCC-PRO-EXCHANGE-SERVER
+20151109-13:09:55: Initiated logon request
+20151109-13:09:55: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20151109-13:09:55: Received logon
+20151109-13:09:56: Rejecting invalid message: quickfix.FieldException: invalid character value: 99: 8=FIX.4.49=24635=834=249=BTCC-PRO-EXCHANGE-SERVER52=20151109-13:09:56.90856=CLIENT-Thomas6=011=17ec1bc0-7864-4b86-b2be-22b4628b60c714=017=bbe4f9f0-606b-43ee-8e1e-796d0b21428d37=-139=844=054=155=XBTCNY58=Position Excceeds Limit103=99150=8151=010=149
+20151109-13:09:56: Auto reset
+20151109-13:10:32: Session FIX.4.4:CLIENT-Thomas->BTCC-PRO-EXCHANGE-SERVER schedule is daily, 00:00:00-UTC - 00:00:00-UTC
+20151109-13:10:32: Created session: FIX.4.4:CLIENT-Thomas->BTCC-PRO-EXCHANGE-SERVER
+20151109-13:10:34: Initiated logon request
+20151109-13:10:34: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20151109-13:10:34: Received logon
+20151109-13:10:34: Rejecting invalid message: quickfix.FieldException: invalid character value: 99: 8=FIX.4.49=24635=834=249=BTCC-PRO-EXCHANGE-SERVER52=20151109-13:10:35.35456=CLIENT-Thomas6=011=5ebb9ceb-6071-426c-bf31-ba696663222814=017=5b4ee7e9-d2cc-4077-bb84-a416147f8c1937=-139=844=054=155=XBTCNY58=Position Excceeds Limit103=99150=8151=010=096
+20151109-13:10:34: Auto reset
+20151109-13:11:13: Session FIX.4.4:CLIENT-Thomas->BTCC-PRO-EXCHANGE-SERVER schedule is daily, 00:00:00-UTC - 00:00:00-UTC
+20151109-13:11:13: Created session: FIX.4.4:CLIENT-Thomas->BTCC-PRO-EXCHANGE-SERVER
+20151109-13:11:14: Initiated logon request
+20151109-13:11:14: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20151109-13:11:14: Received logon
+20151109-13:11:15: Rejecting invalid message: quickfix.FieldException: invalid character value: 99: 8=FIX.4.49=24635=834=249=BTCC-PRO-EXCHANGE-SERVER52=20151109-13:11:15.97956=CLIENT-Thomas6=011=b93f9b3a-e7b8-43c4-9d74-26b7c22b4aea14=017=2fc99514-7182-4bf0-93ba-3ec0a49eca6837=-139=844=054=155=XBTCNY58=Position Excceeds Limit103=99150=8151=010=250
+20151109-13:11:15: Auto reset
+20151109-13:11:50: Session FIX.4.4:CLIENT-Thomas->BTCC-PRO-EXCHANGE-SERVER schedule is daily, 00:00:00-UTC - 00:00:00-UTC
+20151109-13:11:50: Created session: FIX.4.4:CLIENT-Thomas->BTCC-PRO-EXCHANGE-SERVER
+20151109-13:11:51: Initiated logon request
+20151109-13:11:52: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20151109-13:11:52: Received logon
+20151109-13:11:52: Rejecting invalid message: quickfix.FieldException: invalid character value: 99: 8=FIX.4.49=24635=834=249=BTCC-PRO-EXCHANGE-SERVER52=20151109-13:11:53.12056=CLIENT-Thomas6=011=f92e1506-d785-4539-bef2-3301827b763f14=017=2f558b26-b177-4a77-8fd2-ee015745651037=-139=844=054=155=XBTCNY58=Position Excceeds Limit103=99150=8151=010=020
+20151109-13:11:52: Auto reset
+20151109-13:12:16: Session FIX.4.4:CLIENT-Thomas->BTCC-PRO-EXCHANGE-SERVER schedule is daily, 00:00:00-UTC - 00:00:00-UTC
+20151109-13:12:16: Created session: FIX.4.4:CLIENT-Thomas->BTCC-PRO-EXCHANGE-SERVER
+20151109-13:12:17: Initiated logon request
+20151109-13:12:17: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20151109-13:12:17: Received logon
+20151109-13:12:17: Rejecting invalid message: quickfix.FieldException: invalid character value: 99: 8=FIX.4.49=24635=834=249=BTCC-PRO-EXCHANGE-SERVER52=20151109-13:12:18.66856=CLIENT-Thomas6=011=93e73016-e705-4d73-8920-1fb6b1eb94d514=017=f244b6f9-edc2-408d-a35a-7ac7bddae82837=-139=844=054=255=XBTCNY58=Position Excceeds Limit103=99150=8151=010=204
+20151109-13:12:17: Auto reset
+20151109-13:12:45: Session FIX.4.4:CLIENT-Thomas->BTCC-PRO-EXCHANGE-SERVER schedule is daily, 00:00:00-UTC - 00:00:00-UTC
+20151109-13:12:45: Created session: FIX.4.4:CLIENT-Thomas->BTCC-PRO-EXCHANGE-SERVER
+20151109-13:12:46: Initiated logon request
+20151109-13:12:46: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20151109-13:12:46: Received logon
+20151109-13:12:46: Rejecting invalid message: quickfix.FieldException: invalid character value: 99: 8=FIX.4.49=24635=834=249=BTCC-PRO-EXCHANGE-SERVER52=20151109-13:12:47.77556=CLIENT-Thomas6=011=ee65cbad-6381-461e-8500-f13f70ba0db114=017=30c6fa38-0510-4bc6-90d8-e3463b50a73337=-139=844=054=255=XBTCNY58=Position Excceeds Limit103=99150=8151=010=020
+20151109-13:12:46: Auto reset
+20151109-13:13:40: Session FIX.4.4:CLIENT-Thomas->BTCC-PRO-EXCHANGE-SERVER schedule is daily, 00:00:00-UTC - 00:00:00-UTC
+20151109-13:13:40: Created session: FIX.4.4:CLIENT-Thomas->BTCC-PRO-EXCHANGE-SERVER
+20151109-13:13:42: Initiated logon request
+20151109-13:13:42: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20151109-13:13:42: Received logon
+20151109-13:13:42: Rejecting invalid message: quickfix.FieldException: invalid character value: 99: 8=FIX.4.49=24635=834=249=BTCC-PRO-EXCHANGE-SERVER52=20151109-13:13:43.50756=CLIENT-Thomas6=011=432225c9-2ced-47c9-b8c6-ba8c592d2ae914=017=069739ca-536d-473a-95d3-c6a1cc6957cf37=-139=844=054=255=XBTCNY58=Position Excceeds Limit103=99150=8151=010=163
+20151109-13:13:42: Auto reset
+20151109-13:16:56: Session FIX.4.4:CLIENT-Thomas->BTCC-PRO-EXCHANGE-SERVER schedule is daily, 00:00:00-UTC - 00:00:00-UTC
+20151109-13:16:56: Created session: FIX.4.4:CLIENT-Thomas->BTCC-PRO-EXCHANGE-SERVER
+20151109-13:16:57: Initiated logon request
+20151109-13:16:57: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20151109-13:16:57: Received logon
+20151109-13:16:58: Rejecting invalid message: quickfix.FieldException: invalid character value: 99: 8=FIX.4.49=24635=834=249=BTCC-PRO-EXCHANGE-SERVER52=20151109-13:16:58.99656=CLIENT-Thomas6=011=78a72af8-2e55-43b2-87ec-f9c00386988a14=017=b8aedc0e-1fe8-4194-b7a1-6247a274254b37=-139=844=054=255=XBTCNY58=Position Excceeds Limit103=99150=8151=010=081
+20151109-13:16:58: Auto reset
+20151109-13:17:48: Session FIX.4.4:CLIENT-Thomas->BTCC-PRO-EXCHANGE-SERVER schedule is daily, 00:00:00-UTC - 00:00:00-UTC
+20151109-13:17:48: Created session: FIX.4.4:CLIENT-Thomas->BTCC-PRO-EXCHANGE-SERVER
+20151109-13:17:49: Initiated logon request
+20151109-13:17:49: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20151109-13:17:49: Received logon
+20151109-13:17:50: Rejecting invalid message: quickfix.FieldException: invalid character value: 99: 8=FIX.4.49=24635=834=249=BTCC-PRO-EXCHANGE-SERVER52=20151109-13:17:51.20756=CLIENT-Thomas6=011=d4cc4533-b398-408d-8c68-2ed4b6ad97d714=017=880153b1-fc80-4f08-9ba2-52079197845637=-139=844=054=255=XBTCNY58=Position Excceeds Limit103=99150=8151=010=136
+20151109-13:17:50: Auto reset
+20151109-13:18:18: Session FIX.4.4:CLIENT-Thomas->BTCC-PRO-EXCHANGE-SERVER schedule is daily, 00:00:00-UTC - 00:00:00-UTC
+20151109-13:18:18: Created session: FIX.4.4:CLIENT-Thomas->BTCC-PRO-EXCHANGE-SERVER
+20151109-13:18:19: Initiated logon request
+20151109-13:18:19: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20151109-13:18:19: Received logon
+20151109-13:18:20: Rejecting invalid message: quickfix.FieldException: invalid character value: 99: 8=FIX.4.49=24635=834=249=BTCC-PRO-EXCHANGE-SERVER52=20151109-13:18:20.87756=CLIENT-Thomas6=011=02bd3c6f-4cf5-4154-86b4-163d43ea8a8714=017=8711d780-c4f0-4055-af86-bbf3aa3d44b437=-139=844=054=255=XBTCNY58=Position Excceeds Limit103=99150=8151=010=092
+20151109-13:18:20: Auto reset
+20151109-13:18:54: Session FIX.4.4:CLIENT-Thomas->BTCC-PRO-EXCHANGE-SERVER schedule is daily, 00:00:00-UTC - 00:00:00-UTC
+20151109-13:18:54: Created session: FIX.4.4:CLIENT-Thomas->BTCC-PRO-EXCHANGE-SERVER
+20151109-13:18:55: Initiated logon request
+20151109-13:18:55: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20151109-13:18:55: Received logon
+20151109-13:18:56: Rejecting invalid message: quickfix.FieldException: invalid character value: 99: 8=FIX.4.49=24635=834=249=BTCC-PRO-EXCHANGE-SERVER52=20151109-13:18:57.05256=CLIENT-Thomas6=011=d5040ee9-6e7d-46d5-8fba-07446d0263ef14=017=44421f2a-b991-40b0-9d9a-1ea887ae541837=-139=844=054=255=XBTCNY58=Position Excceeds Limit103=99150=8151=010=055
+20151109-13:18:56: Auto reset
+20151109-13:19:18: Session FIX.4.4:CLIENT-Thomas->BTCC-PRO-EXCHANGE-SERVER schedule is daily, 00:00:00-UTC - 00:00:00-UTC
+20151109-13:19:18: Created session: FIX.4.4:CLIENT-Thomas->BTCC-PRO-EXCHANGE-SERVER
+20151109-13:19:19: Initiated logon request
+20151109-13:19:19: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20151109-13:19:19: Received logon
+20151109-13:19:20: Rejecting invalid message: quickfix.FieldException: invalid character value: 99: 8=FIX.4.49=24635=834=249=BTCC-PRO-EXCHANGE-SERVER52=20151109-13:19:21.10356=CLIENT-Thomas6=011=053bc661-e5fa-4871-ae06-aaa23aab58f414=017=4e6cba5f-7186-4080-a93d-9a330c28660037=-139=844=054=255=XBTCNY58=Position Excceeds Limit103=99150=8151=010=061
+20151109-13:19:20: Auto reset
+20151109-13:21:20: Session FIX.4.4:CLIENT-Thomas->BTCC-PRO-EXCHANGE-SERVER schedule is daily, 00:00:00-UTC - 00:00:00-UTC
+20151109-13:21:20: Created session: FIX.4.4:CLIENT-Thomas->BTCC-PRO-EXCHANGE-SERVER
+20151109-13:21:22: Initiated logon request
+20151109-13:21:22: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20151109-13:21:22: Received logon
+20151109-13:21:22: Rejecting invalid message: quickfix.FieldException: invalid character value: 99: 8=FIX.4.49=24635=834=249=BTCC-PRO-EXCHANGE-SERVER52=20151109-13:21:23.29056=CLIENT-Thomas6=011=928123c3-102c-4157-8de1-992d2d72e5c514=017=9d82f55f-9279-4737-be50-fa04b81d17c637=-139=844=054=255=XBTCNY58=Position Excceeds Limit103=99150=8151=010=122
+20151109-13:21:22: Auto reset
+20151109-13:21:43: Session FIX.4.4:CLIENT-Thomas->BTCC-PRO-EXCHANGE-SERVER schedule is daily, 00:00:00-UTC - 00:00:00-UTC
+20151109-13:21:43: Created session: FIX.4.4:CLIENT-Thomas->BTCC-PRO-EXCHANGE-SERVER
+20151109-13:21:44: Initiated logon request
+20151109-13:21:44: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20151109-13:21:44: Received logon
+20151109-13:21:44: Rejecting invalid message: quickfix.FieldException: invalid character value: 99: 8=FIX.4.49=24635=834=249=BTCC-PRO-EXCHANGE-SERVER52=20151109-13:21:45.78356=CLIENT-Thomas6=011=68b6a159-f6a6-4735-944b-8f726593cf4b14=017=ba40c873-068d-4722-b03b-d7700d24d95037=-139=844=054=255=XBTCNY58=Position Excceeds Limit103=99150=8151=010=126
+20151109-13:21:44: Auto reset
+20151109-13:30:51: Session FIX.4.4:CLIENT-Thomas->BTCC-PRO-EXCHANGE-SERVER schedule is daily, 00:00:00-UTC - 00:00:00-UTC
+20151109-13:30:51: Created session: FIX.4.4:CLIENT-Thomas->BTCC-PRO-EXCHANGE-SERVER
+20151109-13:30:52: Initiated logon request
+20151109-13:30:52: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20151109-13:30:52: Received logon
+20151109-13:40:51: Session FIX.4.4:CLIENT-Thomas->BTCC-PRO-EXCHANGE-SERVER schedule is daily, 00:00:00-UTC - 00:00:00-UTC
+20151109-13:40:51: Created session: FIX.4.4:CLIENT-Thomas->BTCC-PRO-EXCHANGE-SERVER
+20151109-13:40:53: Initiated logon request
+20151109-13:40:53: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20151109-13:40:53: Received logon
+20151109-13:50:24: Session FIX.4.4:CLIENT-Thomas->BTCC-PRO-EXCHANGE-SERVER schedule is daily, 00:00:00-UTC - 00:00:00-UTC
+20151109-13:50:24: Created session: FIX.4.4:CLIENT-Thomas->BTCC-PRO-EXCHANGE-SERVER
+20151109-13:50:26: Initiated logon request
+20151109-13:50:26: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20151109-13:50:26: Received logon
+20151109-13:52:31: Session FIX.4.4:CLIENT-Thomas->BTCC-PRO-EXCHANGE-SERVER schedule is daily, 00:00:00-UTC - 00:00:00-UTC
+20151109-13:52:31: Created session: FIX.4.4:CLIENT-Thomas->BTCC-PRO-EXCHANGE-SERVER
+20151109-13:52:32: Initiated logon request
+20151109-13:52:32: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20151109-13:52:32: Received logon
+20151109-13:54:46: Session FIX.4.4:CLIENT-Thomas->BTCC-PRO-EXCHANGE-SERVER schedule is daily, 00:00:00-UTC - 00:00:00-UTC
+20151109-13:54:46: Created session: FIX.4.4:CLIENT-Thomas->BTCC-PRO-EXCHANGE-SERVER
+20151109-13:54:47: Initiated logon request
+20151109-13:54:48: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20151109-13:54:48: Received logon
+20151109-13:55:24: Session FIX.4.4:CLIENT-Thomas->BTCC-PRO-EXCHANGE-SERVER schedule is daily, 00:00:00-UTC - 00:00:00-UTC
+20151109-13:55:24: Created session: FIX.4.4:CLIENT-Thomas->BTCC-PRO-EXCHANGE-SERVER
+20151109-13:55:25: Initiated logon request
+20151109-13:55:25: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20151109-13:55:25: Received logon
+20151109-13:55:26: Initiated logout request
+20151109-13:55:43: Session FIX.4.4:CLIENT-Thomas->BTCC-PRO-EXCHANGE-SERVER schedule is daily, 00:00:00-UTC - 00:00:00-UTC
+20151109-13:55:43: Created session: FIX.4.4:CLIENT-Thomas->BTCC-PRO-EXCHANGE-SERVER
+20151109-13:55:44: Initiated logon request
+20151109-13:55:44: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20151109-13:55:44: Received logon
+20151109-13:55:44: Initiated logout request
+20151109-13:56:32: Session FIX.4.4:CLIENT-Thomas->BTCC-PRO-EXCHANGE-SERVER schedule is daily, 00:00:00-UTC - 00:00:00-UTC
+20151109-13:56:32: Created session: FIX.4.4:CLIENT-Thomas->BTCC-PRO-EXCHANGE-SERVER
+20151109-13:56:34: Initiated logon request
+20151109-13:56:34: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20151109-13:56:34: Received logon
+20151109-13:57:05: Session FIX.4.4:CLIENT-Thomas->BTCC-PRO-EXCHANGE-SERVER schedule is daily, 00:00:00-UTC - 00:00:00-UTC
+20151109-13:57:05: Created session: FIX.4.4:CLIENT-Thomas->BTCC-PRO-EXCHANGE-SERVER
+20151109-13:57:06: Initiated logon request
+20151109-13:57:07: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20151109-13:57:07: Received logon
+20151109-14:07:49: Session FIX.4.4:CLIENT-Thomas->BTCC-PRO-EXCHANGE-SERVER schedule is daily, 00:00:00-UTC - 00:00:00-UTC
+20151109-14:07:49: Created session: FIX.4.4:CLIENT-Thomas->BTCC-PRO-EXCHANGE-SERVER
+20151109-14:07:50: Initiated logon request
+20151109-14:07:50: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20151109-14:07:50: Received logon
+20151109-14:08:46: Session FIX.4.4:CLIENT-Thomas->BTCC-PRO-EXCHANGE-SERVER schedule is daily, 00:00:00-UTC - 00:00:00-UTC
+20151109-14:08:46: Created session: FIX.4.4:CLIENT-Thomas->BTCC-PRO-EXCHANGE-SERVER
+20151109-14:08:48: Initiated logon request
+20151109-14:08:48: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20151109-14:08:48: Received logon
+20151109-14:14:20: Session FIX.4.4:CLIENT-Thomas->BTCC-PRO-EXCHANGE-SERVER schedule is daily, 00:00:00-UTC - 00:00:00-UTC
+20151109-14:14:20: Created session: FIX.4.4:CLIENT-Thomas->BTCC-PRO-EXCHANGE-SERVER
+20151109-14:14:21: Initiated logon request
+20151109-14:14:22: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20151109-14:14:22: Received logon
+20151109-14:15:12: Session FIX.4.4:CLIENT-Thomas->BTCC-PRO-EXCHANGE-SERVER schedule is daily, 00:00:00-UTC - 00:00:00-UTC
+20151109-14:15:12: Created session: FIX.4.4:CLIENT-Thomas->BTCC-PRO-EXCHANGE-SERVER
+20151109-14:15:14: Initiated logon request
+20151109-14:15:14: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20151109-14:15:14: Received logon
+20151109-14:15:44: Session FIX.4.4:CLIENT-Thomas->BTCC-PRO-EXCHANGE-SERVER schedule is daily, 00:00:00-UTC - 00:00:00-UTC
+20151109-14:15:44: Created session: FIX.4.4:CLIENT-Thomas->BTCC-PRO-EXCHANGE-SERVER
+20151109-14:15:46: Initiated logon request
+20151109-14:15:46: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20151109-14:15:46: Received logon
+20151109-14:16:18: Session FIX.4.4:CLIENT-Thomas->BTCC-PRO-EXCHANGE-SERVER schedule is daily, 00:00:00-UTC - 00:00:00-UTC
+20151109-14:16:18: Created session: FIX.4.4:CLIENT-Thomas->BTCC-PRO-EXCHANGE-SERVER
+20151109-14:16:19: Initiated logon request
+20151109-14:16:19: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20151109-14:16:19: Received logon
+20151109-14:16:55: Session FIX.4.4:CLIENT-Thomas->BTCC-PRO-EXCHANGE-SERVER schedule is daily, 00:00:00-UTC - 00:00:00-UTC
+20151109-14:16:55: Created session: FIX.4.4:CLIENT-Thomas->BTCC-PRO-EXCHANGE-SERVER
+20151109-14:16:56: Initiated logon request
+20151109-14:16:56: Disconnecting: Socket exception (/172.20.13.222:9880): java.io.IOException: Connection reset by peer
+20151109-14:17:01: Initiated logon request
+20151109-14:17:01: Disconnecting: Socket exception (/172.20.13.222:9880): java.io.IOException: Connection reset by peer
+20151109-14:17:46: Session FIX.4.4:CLIENT-Thomas->BTCC-PRO-EXCHANGE-SERVER schedule is daily, 00:00:00-UTC - 00:00:00-UTC
+20151109-14:17:46: Created session: FIX.4.4:CLIENT-Thomas->BTCC-PRO-EXCHANGE-SERVER
+20151109-14:17:48: Initiated logon request
+20151109-14:17:48: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20151109-14:17:48: Received logon
+20151109-14:26:36: Session FIX.4.4:CLIENT-Thomas->BTCC-PRO-EXCHANGE-SERVER schedule is daily, 00:00:00-UTC - 00:00:00-UTC
+20151109-14:26:36: Created session: FIX.4.4:CLIENT-Thomas->BTCC-PRO-EXCHANGE-SERVER
+20151109-14:26:37: Initiated logon request
+20151109-14:26:37: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20151109-14:26:37: Received logon
+20151109-14:32:01: Session FIX.4.4:CLIENT-Thomas->BTCC-PRO-EXCHANGE-SERVER schedule is daily, 00:00:00-UTC - 00:00:00-UTC
+20151109-14:32:01: Created session: FIX.4.4:CLIENT-Thomas->BTCC-PRO-EXCHANGE-SERVER
+20151109-14:32:03: Initiated logon request
+20151109-14:32:03: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20151109-14:32:03: Received logon
+20151109-14:32:24: Session FIX.4.4:CLIENT-Thomas->BTCC-PRO-EXCHANGE-SERVER schedule is daily, 00:00:00-UTC - 00:00:00-UTC
+20151109-14:32:24: Created session: FIX.4.4:CLIENT-Thomas->BTCC-PRO-EXCHANGE-SERVER
+20151109-14:32:25: Initiated logon request
+20151109-14:32:25: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20151109-14:32:25: Received logon
+20151109-14:32:51: Session FIX.4.4:CLIENT-Thomas->BTCC-PRO-EXCHANGE-SERVER schedule is daily, 00:00:00-UTC - 00:00:00-UTC
+20151109-14:32:51: Created session: FIX.4.4:CLIENT-Thomas->BTCC-PRO-EXCHANGE-SERVER
+20151109-14:32:53: Initiated logon request
+20151109-14:32:53: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20151109-14:32:53: Received logon
+20151109-14:33:39: Session FIX.4.4:CLIENT-Thomas->BTCC-PRO-EXCHANGE-SERVER schedule is daily, 00:00:00-UTC - 00:00:00-UTC
+20151109-14:33:39: Created session: FIX.4.4:CLIENT-Thomas->BTCC-PRO-EXCHANGE-SERVER
+20151109-14:33:41: Initiated logon request
+20151109-14:33:41: Disconnecting: Socket exception (/172.20.13.222:9880): java.io.IOException: Connection reset by peer
+20151109-14:33:54: Session FIX.4.4:CLIENT-Thomas->BTCC-PRO-EXCHANGE-SERVER schedule is daily, 00:00:00-UTC - 00:00:00-UTC
+20151109-14:33:54: Created session: FIX.4.4:CLIENT-Thomas->BTCC-PRO-EXCHANGE-SERVER
+20151109-14:33:55: Initiated logon request
+20151109-14:33:55: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20151109-14:33:55: Received logon
+20151109-14:35:01: Session FIX.4.4:CLIENT-Thomas->BTCC-PRO-EXCHANGE-SERVER schedule is daily, 00:00:00-UTC - 00:00:00-UTC
+20151109-14:35:01: Created session: FIX.4.4:CLIENT-Thomas->BTCC-PRO-EXCHANGE-SERVER
+20151109-14:35:02: Initiated logon request
+20151109-14:35:02: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20151109-14:35:02: Received logon
+20151109-14:39:15: Session FIX.4.4:CLIENT-Thomas->BTCC-PRO-EXCHANGE-SERVER schedule is daily, 00:00:00-UTC - 00:00:00-UTC
+20151109-14:39:15: Created session: FIX.4.4:CLIENT-Thomas->BTCC-PRO-EXCHANGE-SERVER
+20151109-14:39:16: Initiated logon request
+20151109-14:39:16: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20151109-14:39:16: Received logon
+20151109-14:39:46: Session FIX.4.4:CLIENT-Thomas->BTCC-PRO-EXCHANGE-SERVER schedule is daily, 00:00:00-UTC - 00:00:00-UTC
+20151109-14:39:46: Created session: FIX.4.4:CLIENT-Thomas->BTCC-PRO-EXCHANGE-SERVER
+20151109-14:39:47: Initiated logon request
+20151109-14:39:47: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20151109-14:39:47: Received logon
+20151109-14:39:48: Rejecting invalid message: quickfix.IncorrectTagValue: Field [39] contains an incorrect tag value. field=39: 8=FIX.4.49=22335=834=1249=BTCC-PRO-EXCHANGE-SERVER52=20151109-14:39:49.57456=CLIENT-Thomas6=011=reqID129869909614=017=037=9244526421944b3fba0500c2afb7dbf538=039=G40=154=155=XBTCNY60=20151109-14:39:21.755150=I151=0912=N10=116
+20151109-14:39:48: Reject sent for Message 12: Value is incorrect (out of range) for this tag:39
+20151109-14:39:48: Rejecting invalid message: quickfix.IncorrectTagValue: Field [39] contains an incorrect tag value. field=39: 8=FIX.4.49=22335=834=1349=BTCC-PRO-EXCHANGE-SERVER52=20151109-14:39:49.57556=CLIENT-Thomas6=011=reqID129869909614=017=037=df6e76c4cbb8452a8993619c4252347b38=039=G40=154=155=XBTCNY60=20151109-14:39:21.661150=I151=0912=N10=098
+20151109-14:39:48: Reject sent for Message 13: Value is incorrect (out of range) for this tag:39
+20151109-14:39:48: Rejecting invalid message: quickfix.IncorrectTagValue: Field [39] contains an incorrect tag value. field=39: 8=FIX.4.49=22335=834=1449=BTCC-PRO-EXCHANGE-SERVER52=20151109-14:39:49.57556=CLIENT-Thomas6=011=reqID129869909614=017=037=34ffc3614a98432b8074bc51cc4e982338=039=G40=154=155=XBTCNY60=20151109-14:39:21.489150=I151=0912=N10=094
+20151109-14:39:48: Reject sent for Message 14: Value is incorrect (out of range) for this tag:39
+20151109-14:39:48: Rejecting invalid message: quickfix.IncorrectTagValue: Field [39] contains an incorrect tag value. field=39: 8=FIX.4.49=22335=834=1549=BTCC-PRO-EXCHANGE-SERVER52=20151109-14:39:49.57556=CLIENT-Thomas6=011=reqID129869909614=017=037=be0158947b584ef49f846235f4e632d638=039=G40=154=155=XBTCNY60=20151109-14:39:21.317150=I151=0912=N10=059
+20151109-14:39:48: Reject sent for Message 15: Value is incorrect (out of range) for this tag:39
+20151109-14:39:51: Rejecting invalid message: quickfix.IncorrectTagValue: Field [39] contains an incorrect tag value. field=39: 8=FIX.4.49=22435=834=85849=BTCC-PRO-EXCHANGE-SERVER52=20151109-14:39:52.02356=CLIENT-Thomas6=011=reqID129869909614=017=037=9244526421944b3fba0500c2afb7dbf538=039=G40=154=155=XBTCNY60=20151109-14:39:21.755150=I151=0912=N10=166
+20151109-14:39:51: Reject sent for Message 858: Value is incorrect (out of range) for this tag:39
+20151109-14:39:51: Rejecting invalid message: quickfix.IncorrectTagValue: Field [39] contains an incorrect tag value. field=39: 8=FIX.4.49=22435=834=85949=BTCC-PRO-EXCHANGE-SERVER52=20151109-14:39:52.02456=CLIENT-Thomas6=011=reqID129869909614=017=037=df6e76c4cbb8452a8993619c4252347b38=039=G40=154=155=XBTCNY60=20151109-14:39:21.661150=I151=0912=N10=148
+20151109-14:39:51: Reject sent for Message 859: Value is incorrect (out of range) for this tag:39
+20151109-14:39:51: Rejecting invalid message: quickfix.IncorrectTagValue: Field [39] contains an incorrect tag value. field=39: 8=FIX.4.49=22435=834=86049=BTCC-PRO-EXCHANGE-SERVER52=20151109-14:39:52.02456=CLIENT-Thomas6=011=reqID129869909614=017=037=34ffc3614a98432b8074bc51cc4e982338=039=G40=154=155=XBTCNY60=20151109-14:39:21.489150=I151=0912=N10=135
+20151109-14:39:51: Reject sent for Message 860: Value is incorrect (out of range) for this tag:39
+20151109-14:39:51: Rejecting invalid message: quickfix.IncorrectTagValue: Field [39] contains an incorrect tag value. field=39: 8=FIX.4.49=22435=834=86149=BTCC-PRO-EXCHANGE-SERVER52=20151109-14:39:52.02556=CLIENT-Thomas6=011=reqID129869909614=017=037=be0158947b584ef49f846235f4e632d638=039=G40=154=155=XBTCNY60=20151109-14:39:21.317150=I151=0912=N10=101
+20151109-14:39:51: Reject sent for Message 861: Value is incorrect (out of range) for this tag:39
+20151109-14:40:20: Session FIX.4.4:CLIENT-Thomas->BTCC-PRO-EXCHANGE-SERVER schedule is daily, 00:00:00-UTC - 00:00:00-UTC
+20151109-14:40:20: Created session: FIX.4.4:CLIENT-Thomas->BTCC-PRO-EXCHANGE-SERVER
+20151109-14:40:21: Initiated logon request
+20151109-14:40:21: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20151109-14:40:21: Received logon
+20151109-14:40:22: Rejecting invalid message: quickfix.IncorrectTagValue: Field [39] contains an incorrect tag value. field=39: 8=FIX.4.49=22335=834=1749=BTCC-PRO-EXCHANGE-SERVER52=20151109-14:40:23.63456=CLIENT-Thomas6=011=reqID129869909614=017=037=9244526421944b3fba0500c2afb7dbf538=039=G40=154=155=XBTCNY60=20151109-14:39:21.755150=I151=0912=N10=102
+20151109-14:40:22: Reject sent for Message 17: Value is incorrect (out of range) for this tag:39
+20151109-14:40:22: Rejecting invalid message: quickfix.IncorrectTagValue: Field [39] contains an incorrect tag value. field=39: 8=FIX.4.49=22335=834=1849=BTCC-PRO-EXCHANGE-SERVER52=20151109-14:40:23.63656=CLIENT-Thomas6=011=reqID129869909614=017=037=df6e76c4cbb8452a8993619c4252347b38=039=G40=154=155=XBTCNY60=20151109-14:39:21.661150=I151=0912=N10=085
+20151109-14:40:22: Reject sent for Message 18: Value is incorrect (out of range) for this tag:39
+20151109-14:40:22: Rejecting invalid message: quickfix.IncorrectTagValue: Field [39] contains an incorrect tag value. field=39: 8=FIX.4.49=22335=834=1949=BTCC-PRO-EXCHANGE-SERVER52=20151109-14:40:23.63656=CLIENT-Thomas6=011=reqID129869909614=017=037=34ffc3614a98432b8074bc51cc4e982338=039=G40=154=155=XBTCNY60=20151109-14:39:21.489150=I151=0912=N10=081
+20151109-14:40:22: Reject sent for Message 19: Value is incorrect (out of range) for this tag:39
+20151109-14:40:22: Rejecting invalid message: quickfix.IncorrectTagValue: Field [39] contains an incorrect tag value. field=39: 8=FIX.4.49=22335=834=2049=BTCC-PRO-EXCHANGE-SERVER52=20151109-14:40:23.63756=CLIENT-Thomas6=011=reqID129869909614=017=037=be0158947b584ef49f846235f4e632d638=039=G40=154=155=XBTCNY60=20151109-14:39:21.317150=I151=0912=N10=038
+20151109-14:40:22: Reject sent for Message 20: Value is incorrect (out of range) for this tag:39
+20151109-14:43:02: Session FIX.4.4:CLIENT-Thomas->BTCC-PRO-EXCHANGE-SERVER schedule is daily, 00:00:00-UTC - 00:00:00-UTC
+20151109-14:43:02: Created session: FIX.4.4:CLIENT-Thomas->BTCC-PRO-EXCHANGE-SERVER
+20151109-14:43:09: Session FIX.4.4:CLIENT-Thomas->BTCC-PRO-EXCHANGE-SERVER schedule is daily, 00:00:00-UTC - 00:00:00-UTC
+20151109-14:43:09: Created session: FIX.4.4:CLIENT-Thomas->BTCC-PRO-EXCHANGE-SERVER
+20151109-14:43:10: Initiated logon request
+20151109-14:43:10: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20151109-14:43:10: Received logon
+20151109-14:43:11: Rejecting invalid message: quickfix.IncorrectTagValue: Field [39] contains an incorrect tag value. field=39: 8=FIX.4.49=22335=834=2249=BTCC-PRO-EXCHANGE-SERVER52=20151109-14:43:12.28956=CLIENT-Thomas6=011=reqID129869909614=017=037=9244526421944b3fba0500c2afb7dbf538=039=G40=154=155=XBTCNY60=20151109-14:39:21.755150=I151=0912=N10=105
+20151109-14:43:11: Reject sent for Message 22: Value is incorrect (out of range) for this tag:39
+20151109-14:43:11: Rejecting invalid message: quickfix.IncorrectTagValue: Field [39] contains an incorrect tag value. field=39: 8=FIX.4.49=22335=834=2349=BTCC-PRO-EXCHANGE-SERVER52=20151109-14:43:12.28956=CLIENT-Thomas6=011=reqID129869909614=017=037=df6e76c4cbb8452a8993619c4252347b38=039=G40=154=155=XBTCNY60=20151109-14:39:21.661150=I151=0912=N10=086
+20151109-14:43:11: Reject sent for Message 23: Value is incorrect (out of range) for this tag:39
+20151109-14:43:11: Rejecting invalid message: quickfix.IncorrectTagValue: Field [39] contains an incorrect tag value. field=39: 8=FIX.4.49=22335=834=2449=BTCC-PRO-EXCHANGE-SERVER52=20151109-14:43:12.28956=CLIENT-Thomas6=011=reqID129869909614=017=037=34ffc3614a98432b8074bc51cc4e982338=039=G40=154=155=XBTCNY60=20151109-14:39:21.489150=I151=0912=N10=082
+20151109-14:43:11: Reject sent for Message 24: Value is incorrect (out of range) for this tag:39
+20151109-14:43:11: Rejecting invalid message: quickfix.IncorrectTagValue: Field [39] contains an incorrect tag value. field=39: 8=FIX.4.49=22335=834=2549=BTCC-PRO-EXCHANGE-SERVER52=20151109-14:43:12.28956=CLIENT-Thomas6=011=reqID129869909614=017=037=be0158947b584ef49f846235f4e632d638=039=G40=154=155=XBTCNY60=20151109-14:39:21.317150=I151=0912=N10=047
+20151109-14:43:11: Reject sent for Message 25: Value is incorrect (out of range) for this tag:39
+20151109-14:52:36: Session FIX.4.4:CLIENT-Thomas->BTCC-PRO-EXCHANGE-SERVER schedule is daily, 00:00:00-UTC - 00:00:00-UTC
+20151109-14:52:36: Created session: FIX.4.4:CLIENT-Thomas->BTCC-PRO-EXCHANGE-SERVER
+20151109-14:52:38: Initiated logon request
+20151109-14:52:38: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20151109-14:52:38: Received logon
+20151109-14:52:39: Rejecting invalid message: quickfix.IncorrectTagValue: Field [39] contains an incorrect tag value. field=39: 8=FIX.4.49=22335=834=2749=BTCC-PRO-EXCHANGE-SERVER52=20151109-14:52:40.25656=CLIENT-Thomas6=011=reqID129869909614=017=037=9244526421944b3fba0500c2afb7dbf538=039=G40=154=155=XBTCNY60=20151109-14:39:21.755150=I151=0912=N10=105
+20151109-14:52:39: Reject sent for Message 27: Value is incorrect (out of range) for this tag:39
+20151109-14:52:39: Rejecting invalid message: quickfix.IncorrectTagValue: Field [39] contains an incorrect tag value. field=39: 8=FIX.4.49=22335=834=2849=BTCC-PRO-EXCHANGE-SERVER52=20151109-14:52:40.25656=CLIENT-Thomas6=011=reqID129869909614=017=037=df6e76c4cbb8452a8993619c4252347b38=039=G40=154=155=XBTCNY60=20151109-14:39:21.661150=I151=0912=N10=086
+20151109-14:52:39: Reject sent for Message 28: Value is incorrect (out of range) for this tag:39
+20151109-14:52:39: Rejecting invalid message: quickfix.IncorrectTagValue: Field [39] contains an incorrect tag value. field=39: 8=FIX.4.49=22335=834=2949=BTCC-PRO-EXCHANGE-SERVER52=20151109-14:52:40.25656=CLIENT-Thomas6=011=reqID129869909614=017=037=34ffc3614a98432b8074bc51cc4e982338=039=G40=154=155=XBTCNY60=20151109-14:39:21.489150=I151=0912=N10=082
+20151109-14:52:39: Reject sent for Message 29: Value is incorrect (out of range) for this tag:39
+20151109-14:52:39: Rejecting invalid message: quickfix.IncorrectTagValue: Field [39] contains an incorrect tag value. field=39: 8=FIX.4.49=22335=834=3049=BTCC-PRO-EXCHANGE-SERVER52=20151109-14:52:40.27156=CLIENT-Thomas6=011=reqID129869909614=017=037=be0158947b584ef49f846235f4e632d638=039=G40=154=155=XBTCNY60=20151109-14:39:21.317150=I151=0912=N10=035
+20151109-14:52:39: Reject sent for Message 30: Value is incorrect (out of range) for this tag:39
+20151109-14:52:43: Rejecting invalid message: quickfix.IncorrectTagValue: Field [39] contains an incorrect tag value. field=39: 8=FIX.4.49=22435=834=91849=BTCC-PRO-EXCHANGE-SERVER52=20151109-14:52:44.09256=CLIENT-Thomas6=011=reqID129869909614=017=037=9244526421944b3fba0500c2afb7dbf538=039=G40=154=155=XBTCNY60=20151109-14:39:21.755150=I151=0912=N10=165
+20151109-14:52:43: Reject sent for Message 918: Value is incorrect (out of range) for this tag:39
+20151109-14:52:43: Rejecting invalid message: quickfix.IncorrectTagValue: Field [39] contains an incorrect tag value. field=39: 8=FIX.4.49=22435=834=91949=BTCC-PRO-EXCHANGE-SERVER52=20151109-14:52:44.09356=CLIENT-Thomas6=011=reqID129869909614=017=037=df6e76c4cbb8452a8993619c4252347b38=039=G40=154=155=XBTCNY60=20151109-14:39:21.661150=I151=0912=N10=147
+20151109-14:52:43: Reject sent for Message 919: Value is incorrect (out of range) for this tag:39
+20151109-14:52:43: Rejecting invalid message: quickfix.IncorrectTagValue: Field [39] contains an incorrect tag value. field=39: 8=FIX.4.49=22435=834=92049=BTCC-PRO-EXCHANGE-SERVER52=20151109-14:52:44.09356=CLIENT-Thomas6=011=reqID129869909614=017=037=34ffc3614a98432b8074bc51cc4e982338=039=G40=154=155=XBTCNY60=20151109-14:39:21.489150=I151=0912=N10=134
+20151109-14:52:43: Reject sent for Message 920: Value is incorrect (out of range) for this tag:39
+20151109-14:52:43: Rejecting invalid message: quickfix.IncorrectTagValue: Field [39] contains an incorrect tag value. field=39: 8=FIX.4.49=22435=834=92149=BTCC-PRO-EXCHANGE-SERVER52=20151109-14:52:44.09356=CLIENT-Thomas6=011=reqID129869909614=017=037=be0158947b584ef49f846235f4e632d638=039=G40=154=155=XBTCNY60=20151109-14:39:21.317150=I151=0912=N10=099
+20151109-14:52:43: Reject sent for Message 921: Value is incorrect (out of range) for this tag:39
+20151109-14:52:43: Initiated logout request
+20151109-14:53:03: Session FIX.4.4:CLIENT-Thomas->BTCC-PRO-EXCHANGE-SERVER schedule is daily, 00:00:00-UTC - 00:00:00-UTC
+20151109-14:53:03: Created session: FIX.4.4:CLIENT-Thomas->BTCC-PRO-EXCHANGE-SERVER
+20151109-14:53:04: Initiated logon request
+20151109-14:53:04: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20151109-14:53:04: Received logon
+20151109-14:53:06: Rejecting invalid message: quickfix.IncorrectTagValue: Field [39] contains an incorrect tag value. field=39: 8=FIX.4.49=22335=834=4049=BTCC-PRO-EXCHANGE-SERVER52=20151109-14:53:07.31156=CLIENT-Thomas6=011=reqID129869909614=017=037=9244526421944b3fba0500c2afb7dbf538=039=G40=154=155=XBTCNY60=20151109-14:39:21.755150=I151=0912=N10=096
+20151109-14:53:06: Reject sent for Message 40: Value is incorrect (out of range) for this tag:39
+20151109-14:53:06: Rejecting invalid message: quickfix.IncorrectTagValue: Field [39] contains an incorrect tag value. field=39: 8=FIX.4.49=22335=834=4149=BTCC-PRO-EXCHANGE-SERVER52=20151109-14:53:07.31656=CLIENT-Thomas6=011=reqID129869909614=017=037=df6e76c4cbb8452a8993619c4252347b38=039=G40=154=155=XBTCNY60=20151109-14:39:21.661150=I151=0912=N10=082
+20151109-14:53:06: Reject sent for Message 41: Value is incorrect (out of range) for this tag:39
+20151109-14:53:06: Rejecting invalid message: quickfix.IncorrectTagValue: Field [39] contains an incorrect tag value. field=39: 8=FIX.4.49=22335=834=4249=BTCC-PRO-EXCHANGE-SERVER52=20151109-14:53:07.31656=CLIENT-Thomas6=011=reqID129869909614=017=037=34ffc3614a98432b8074bc51cc4e982338=039=G40=154=155=XBTCNY60=20151109-14:39:21.489150=I151=0912=N10=078
+20151109-14:53:06: Reject sent for Message 42: Value is incorrect (out of range) for this tag:39
+20151109-14:53:06: Rejecting invalid message: quickfix.IncorrectTagValue: Field [39] contains an incorrect tag value. field=39: 8=FIX.4.49=22335=834=4349=BTCC-PRO-EXCHANGE-SERVER52=20151109-14:53:07.31756=CLIENT-Thomas6=011=reqID129869909614=017=037=be0158947b584ef49f846235f4e632d638=039=G40=154=155=XBTCNY60=20151109-14:39:21.317150=I151=0912=N10=044
+20151109-14:53:06: Reject sent for Message 43: Value is incorrect (out of range) for this tag:39
+20151109-14:53:23: Rejecting invalid message: quickfix.IncorrectTagValue: Field [39] contains an incorrect tag value. field=39: 8=FIX.4.49=22535=834=105949=BTCC-PRO-EXCHANGE-SERVER52=20151109-14:53:24.32056=CLIENT-Thomas6=011=reqID129869909614=017=037=9244526421944b3fba0500c2afb7dbf538=039=G40=154=155=XBTCNY60=20151109-14:39:21.755150=I151=0912=N10=204
+20151109-14:53:23: Reject sent for Message 1059: Value is incorrect (out of range) for this tag:39
+20151109-14:53:23: Initiated logout request
+20151109-14:53:23: Rejecting invalid message: quickfix.IncorrectTagValue: Field [39] contains an incorrect tag value. field=39: 8=FIX.4.49=22535=834=106049=BTCC-PRO-EXCHANGE-SERVER52=20151109-14:53:24.32056=CLIENT-Thomas6=011=reqID129869909614=017=037=df6e76c4cbb8452a8993619c4252347b38=039=G40=154=155=XBTCNY60=20151109-14:39:21.661150=I151=0912=N10=176
+20151109-14:53:23: Reject sent for Message 1060: Value is incorrect (out of range) for this tag:39
+20151109-14:53:23: Rejecting invalid message: quickfix.IncorrectTagValue: Field [39] contains an incorrect tag value. field=39: 8=FIX.4.49=22535=834=106149=BTCC-PRO-EXCHANGE-SERVER52=20151109-14:53:24.32056=CLIENT-Thomas6=011=reqID129869909614=017=037=34ffc3614a98432b8074bc51cc4e982338=039=G40=154=155=XBTCNY60=20151109-14:39:21.489150=I151=0912=N10=172
+20151109-14:53:23: Reject sent for Message 1061: Value is incorrect (out of range) for this tag:39
+20151109-14:53:23: Rejecting invalid message: quickfix.IncorrectTagValue: Field [39] contains an incorrect tag value. field=39: 8=FIX.4.49=22535=834=106249=BTCC-PRO-EXCHANGE-SERVER52=20151109-14:53:24.32156=CLIENT-Thomas6=011=reqID129869909614=017=037=be0158947b584ef49f846235f4e632d638=039=G40=154=155=XBTCNY60=20151109-14:39:21.317150=I151=0912=N10=138
+20151109-14:53:23: Reject sent for Message 1062: Value is incorrect (out of range) for this tag:39
+20151109-14:53:23: quickfix.SessionException Logon state is not valid for message (MsgType=8)
+20151109-14:53:23: Already disconnected: Verifying message failed: quickfix.SessionException: Logon state is not valid for message (MsgType=8)
+20151109-14:53:23: quickfix.SessionException Logon state is not valid for message (MsgType=8)
+20151109-14:53:23: Already disconnected: Verifying message failed: quickfix.SessionException: Logon state is not valid for message (MsgType=8)
+20151109-14:53:23: quickfix.SessionException Logon state is not valid for message (MsgType=8)
+20151109-14:53:23: Already disconnected: Verifying message failed: quickfix.SessionException: Logon state is not valid for message (MsgType=8)
+20151109-14:53:23: quickfix.SessionException Logon state is not valid for message (MsgType=8)
+20151109-14:53:23: Already disconnected: Verifying message failed: quickfix.SessionException: Logon state is not valid for message (MsgType=8)
+20151109-14:53:23: quickfix.SessionException Logon state is not valid for message (MsgType=8)
+20151109-14:53:23: Already disconnected: Verifying message failed: quickfix.SessionException: Logon state is not valid for message (MsgType=8)
+20151109-14:53:23: quickfix.SessionException Logon state is not valid for message (MsgType=8)
+20151109-14:53:23: Already disconnected: Verifying message failed: quickfix.SessionException: Logon state is not valid for message (MsgType=8)
+20151109-14:53:23: quickfix.SessionException Logon state is not valid for message (MsgType=8)
+20151109-14:53:23: Already disconnected: Verifying message failed: quickfix.SessionException: Logon state is not valid for message (MsgType=8)
+20151109-14:53:23: quickfix.SessionException Logon state is not valid for message (MsgType=8)
+20151109-14:53:23: Already disconnected: Verifying message failed: quickfix.SessionException: Logon state is not valid for message (MsgType=8)
+20151109-14:53:23: quickfix.SessionException Logon state is not valid for message (MsgType=8)
+20151109-14:53:23: Already disconnected: Verifying message failed: quickfix.SessionException: Logon state is not valid for message (MsgType=8)
+20151109-14:53:23: quickfix.SessionException Logon state is not valid for message (MsgType=8)
+20151109-14:53:23: Already disconnected: Verifying message failed: quickfix.SessionException: Logon state is not valid for message (MsgType=8)
+20151109-14:53:23: quickfix.SessionException Logon state is not valid for message (MsgType=8)
+20151109-14:53:23: Already disconnected: Verifying message failed: quickfix.SessionException: Logon state is not valid for message (MsgType=8)
+20151109-14:53:23: quickfix.SessionException Logon state is not valid for message (MsgType=8)
+20151109-14:53:23: Already disconnected: Verifying message failed: quickfix.SessionException: Logon state is not valid for message (MsgType=8)
+20151109-14:53:23: quickfix.SessionException Logon state is not valid for message (MsgType=8)
+20151109-14:53:23: Already disconnected: Verifying message failed: quickfix.SessionException: Logon state is not valid for message (MsgType=8)
+20151109-14:53:23: quickfix.SessionException Logon state is not valid for message (MsgType=8)
+20151109-14:53:23: Already disconnected: Verifying message failed: quickfix.SessionException: Logon state is not valid for message (MsgType=8)
+20151109-14:53:23: quickfix.SessionException Logon state is not valid for message (MsgType=8)
+20151109-14:53:23: Already disconnected: Verifying message failed: quickfix.SessionException: Logon state is not valid for message (MsgType=8)
+20151109-14:53:23: quickfix.SessionException Logon state is not valid for message (MsgType=8)
+20151109-14:53:23: Already disconnected: Verifying message failed: quickfix.SessionException: Logon state is not valid for message (MsgType=8)
+20151109-14:53:23: quickfix.SessionException Logon state is not valid for message (MsgType=8)
+20151109-14:53:23: Already disconnected: Verifying message failed: quickfix.SessionException: Logon state is not valid for message (MsgType=8)
+20151109-14:53:23: quickfix.SessionException Logon state is not valid for message (MsgType=8)
+20151109-14:53:23: Already disconnected: Verifying message failed: quickfix.SessionException: Logon state is not valid for message (MsgType=8)
+20151109-14:53:23: quickfix.SessionException Logon state is not valid for message (MsgType=8)
+20151109-14:53:23: Already disconnected: Verifying message failed: quickfix.SessionException: Logon state is not valid for message (MsgType=8)
+20151109-14:53:23: quickfix.SessionException Logon state is not valid for message (MsgType=8)
+20151109-14:53:23: Already disconnected: Verifying message failed: quickfix.SessionException: Logon state is not valid for message (MsgType=8)
+20151109-14:53:23: quickfix.SessionException Logon state is not valid for message (MsgType=8)
+20151109-14:53:23: Already disconnected: Verifying message failed: quickfix.SessionException: Logon state is not valid for message (MsgType=8)
+20151109-14:53:23: quickfix.SessionException Logon state is not valid for message (MsgType=8)
+20151109-14:53:23: Already disconnected: Verifying message failed: quickfix.SessionException: Logon state is not valid for message (MsgType=8)
+20151109-14:53:23: quickfix.SessionException Logon state is not valid for message (MsgType=8)
+20151109-14:53:23: Already disconnected: Verifying message failed: quickfix.SessionException: Logon state is not valid for message (MsgType=8)
+20151109-14:53:23: quickfix.SessionException Logon state is not valid for message (MsgType=8)
+20151109-14:53:23: Already disconnected: Verifying message failed: quickfix.SessionException: Logon state is not valid for message (MsgType=8)
+20151109-14:53:23: quickfix.SessionException Logon state is not valid for message (MsgType=8)
+20151109-14:53:23: Already disconnected: Verifying message failed: quickfix.SessionException: Logon state is not valid for message (MsgType=8)
+20151109-14:54:01: Session FIX.4.4:CLIENT-Thomas->BTCC-PRO-EXCHANGE-SERVER schedule is daily, 00:00:00-UTC - 00:00:00-UTC
+20151109-14:54:01: Created session: FIX.4.4:CLIENT-Thomas->BTCC-PRO-EXCHANGE-SERVER
+20151109-14:54:03: Initiated logon request
+20151109-14:54:03: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20151109-14:54:03: Received logon
+20151109-14:54:04: Rejecting invalid message: quickfix.IncorrectTagValue: Field [39] contains an incorrect tag value. field=39: 8=FIX.4.49=22335=834=4949=BTCC-PRO-EXCHANGE-SERVER52=20151109-14:54:05.54156=CLIENT-Thomas6=011=reqID129869909614=017=037=9244526421944b3fba0500c2afb7dbf538=039=G40=154=155=XBTCNY60=20151109-14:39:21.755150=I151=0912=N10=109
+20151109-14:54:04: Reject sent for Message 49: Value is incorrect (out of range) for this tag:39
+20151109-14:54:04: Rejecting invalid message: quickfix.IncorrectTagValue: Field [39] contains an incorrect tag value. field=39: 8=FIX.4.49=22335=834=5049=BTCC-PRO-EXCHANGE-SERVER52=20151109-14:54:05.54156=CLIENT-Thomas6=011=reqID129869909614=017=037=df6e76c4cbb8452a8993619c4252347b38=039=G40=154=155=XBTCNY60=20151109-14:39:21.661150=I151=0912=N10=081
+20151109-14:54:04: Reject sent for Message 50: Value is incorrect (out of range) for this tag:39
+20151109-14:54:04: Rejecting invalid message: quickfix.IncorrectTagValue: Field [39] contains an incorrect tag value. field=39: 8=FIX.4.49=22335=834=5149=BTCC-PRO-EXCHANGE-SERVER52=20151109-14:54:05.54256=CLIENT-Thomas6=011=reqID129869909614=017=037=34ffc3614a98432b8074bc51cc4e982338=039=G40=154=155=XBTCNY60=20151109-14:39:21.489150=I151=0912=N10=078
+20151109-14:54:04: Reject sent for Message 51: Value is incorrect (out of range) for this tag:39
+20151109-14:54:04: Rejecting invalid message: quickfix.IncorrectTagValue: Field [39] contains an incorrect tag value. field=39: 8=FIX.4.49=22335=834=5249=BTCC-PRO-EXCHANGE-SERVER52=20151109-14:54:05.54256=CLIENT-Thomas6=011=reqID129869909614=017=037=be0158947b584ef49f846235f4e632d638=039=G40=154=155=XBTCNY60=20151109-14:39:21.317150=I151=0912=N10=043
+20151109-14:54:04: Reject sent for Message 52: Value is incorrect (out of range) for this tag:39
+20151109-14:54:06: Initiated logout request
+20151109-14:54:55: Session FIX.4.4:CLIENT-Thomas->BTCC-PRO-EXCHANGE-SERVER schedule is daily, 00:00:00-UTC - 00:00:00-UTC
+20151109-14:54:55: Created session: FIX.4.4:CLIENT-Thomas->BTCC-PRO-EXCHANGE-SERVER
+20151109-14:54:56: Initiated logon request
+20151109-14:54:56: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20151109-14:54:56: Received logon
+20151109-14:54:58: Rejecting invalid message: quickfix.IncorrectTagValue: Field [39] contains an incorrect tag value. field=39: 8=FIX.4.49=22335=834=6049=BTCC-PRO-EXCHANGE-SERVER52=20151109-14:54:59.08056=CLIENT-Thomas6=011=reqID129869909614=017=037=9244526421944b3fba0500c2afb7dbf538=039=G40=154=155=XBTCNY60=20151109-14:39:21.755150=I151=0912=N10=109
+20151109-14:54:58: Reject sent for Message 60: Value is incorrect (out of range) for this tag:39
+20151109-14:54:58: Rejecting invalid message: quickfix.IncorrectTagValue: Field [39] contains an incorrect tag value. field=39: 8=FIX.4.49=22335=834=6149=BTCC-PRO-EXCHANGE-SERVER52=20151109-14:54:59.08056=CLIENT-Thomas6=011=reqID129869909614=017=037=df6e76c4cbb8452a8993619c4252347b38=039=G40=154=155=XBTCNY60=20151109-14:39:21.661150=I151=0912=N10=090
+20151109-14:54:58: Reject sent for Message 61: Value is incorrect (out of range) for this tag:39
+20151109-14:54:58: Rejecting invalid message: quickfix.IncorrectTagValue: Field [39] contains an incorrect tag value. field=39: 8=FIX.4.49=22335=834=6249=BTCC-PRO-EXCHANGE-SERVER52=20151109-14:54:59.08156=CLIENT-Thomas6=011=reqID129869909614=017=037=34ffc3614a98432b8074bc51cc4e982338=039=G40=154=155=XBTCNY60=20151109-14:39:21.489150=I151=0912=N10=087
+20151109-14:54:58: Reject sent for Message 62: Value is incorrect (out of range) for this tag:39
+20151109-14:54:58: Rejecting invalid message: quickfix.IncorrectTagValue: Field [39] contains an incorrect tag value. field=39: 8=FIX.4.49=22335=834=6349=BTCC-PRO-EXCHANGE-SERVER52=20151109-14:54:59.08156=CLIENT-Thomas6=011=reqID129869909614=017=037=be0158947b584ef49f846235f4e632d638=039=G40=154=155=XBTCNY60=20151109-14:39:21.317150=I151=0912=N10=052
+20151109-14:54:58: Reject sent for Message 63: Value is incorrect (out of range) for this tag:39
+20151109-14:54:59: Initiated logout request
+20151109-15:08:39: Session FIX.4.4:CLIENT-Thomas->BTCC-PRO-EXCHANGE-SERVER schedule is daily, 00:00:00-UTC - 00:00:00-UTC
+20151109-15:08:39: Created session: FIX.4.4:CLIENT-Thomas->BTCC-PRO-EXCHANGE-SERVER
+20151109-15:08:40: Initiated logon request
+20151109-15:08:40: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20151109-15:08:40: Received logon
+20151109-15:08:41: Rejecting invalid message: quickfix.IncorrectTagValue: Field [39] contains an incorrect tag value. field=39: 8=FIX.4.49=22335=834=5049=BTCC-PRO-EXCHANGE-SERVER52=20151109-15:08:42.02856=CLIENT-Thomas6=011=reqID129869909614=017=037=9244526421944b3fba0500c2afb7dbf538=039=G40=154=155=XBTCNY60=20151109-14:39:21.755150=I151=0912=N10=102
+20151109-15:08:41: Reject sent for Message 50: Value is incorrect (out of range) for this tag:39
+20151109-15:08:41: Rejecting invalid message: quickfix.IncorrectTagValue: Field [39] contains an incorrect tag value. field=39: 8=FIX.4.49=22335=834=5149=BTCC-PRO-EXCHANGE-SERVER52=20151109-15:08:42.02856=CLIENT-Thomas6=011=reqID129869909614=017=037=df6e76c4cbb8452a8993619c4252347b38=039=G40=154=155=XBTCNY60=20151109-14:39:21.661150=I151=0912=N10=083
+20151109-15:08:41: Reject sent for Message 51: Value is incorrect (out of range) for this tag:39
+20151109-15:08:41: Rejecting invalid message: quickfix.IncorrectTagValue: Field [39] contains an incorrect tag value. field=39: 8=FIX.4.49=22335=834=5249=BTCC-PRO-EXCHANGE-SERVER52=20151109-15:08:42.02856=CLIENT-Thomas6=011=reqID129869909614=017=037=34ffc3614a98432b8074bc51cc4e982338=039=G40=154=155=XBTCNY60=20151109-14:39:21.489150=I151=0912=N10=079
+20151109-15:08:41: Reject sent for Message 52: Value is incorrect (out of range) for this tag:39
+20151109-15:08:41: Rejecting invalid message: quickfix.IncorrectTagValue: Field [39] contains an incorrect tag value. field=39: 8=FIX.4.49=22335=834=5349=BTCC-PRO-EXCHANGE-SERVER52=20151109-15:08:42.02956=CLIENT-Thomas6=011=reqID129869909614=017=037=be0158947b584ef49f846235f4e632d638=039=G40=154=155=XBTCNY60=20151109-14:39:21.317150=I151=0912=N10=045
+20151109-15:08:41: Reject sent for Message 53: Value is incorrect (out of range) for this tag:39
+20151109-15:08:46: Rejecting invalid message: quickfix.IncorrectTagValue: Field [39] contains an incorrect tag value. field=39: 8=FIX.4.49=22435=834=91849=BTCC-PRO-EXCHANGE-SERVER52=20151109-15:08:47.42056=CLIENT-Thomas6=011=reqID129869909614=017=037=9244526421944b3fba0500c2afb7dbf538=039=G40=154=155=XBTCNY60=20151109-14:39:21.755150=I151=0912=N10=165
+20151109-15:08:46: Reject sent for Message 918: Value is incorrect (out of range) for this tag:39
+20151109-15:08:46: Rejecting invalid message: quickfix.IncorrectTagValue: Field [39] contains an incorrect tag value. field=39: 8=FIX.4.49=22435=834=91949=BTCC-PRO-EXCHANGE-SERVER52=20151109-15:08:47.42056=CLIENT-Thomas6=011=reqID129869909614=017=037=df6e76c4cbb8452a8993619c4252347b38=039=G40=154=155=XBTCNY60=20151109-14:39:21.661150=I151=0912=N10=146
+20151109-15:08:46: Reject sent for Message 919: Value is incorrect (out of range) for this tag:39
+20151109-15:08:46: Rejecting invalid message: quickfix.IncorrectTagValue: Field [39] contains an incorrect tag value. field=39: 8=FIX.4.49=22435=834=92049=BTCC-PRO-EXCHANGE-SERVER52=20151109-15:08:47.42056=CLIENT-Thomas6=011=reqID129869909614=017=037=34ffc3614a98432b8074bc51cc4e982338=039=G40=154=155=XBTCNY60=20151109-14:39:21.489150=I151=0912=N10=133
+20151109-15:08:46: Reject sent for Message 920: Value is incorrect (out of range) for this tag:39
+20151109-15:08:46: Rejecting invalid message: quickfix.IncorrectTagValue: Field [39] contains an incorrect tag value. field=39: 8=FIX.4.49=22435=834=92149=BTCC-PRO-EXCHANGE-SERVER52=20151109-15:08:47.42056=CLIENT-Thomas6=011=reqID129869909614=017=037=be0158947b584ef49f846235f4e632d638=039=G40=154=155=XBTCNY60=20151109-14:39:21.317150=I151=0912=N10=098
+20151109-15:08:46: Reject sent for Message 921: Value is incorrect (out of range) for this tag:39
+20151109-15:08:51: Rejecting invalid message: quickfix.IncorrectTagValue: Field [39] contains an incorrect tag value. field=39: 8=FIX.4.49=22535=834=178649=BTCC-PRO-EXCHANGE-SERVER52=20151109-15:08:52.73156=CLIENT-Thomas6=011=reqID129869909614=017=037=9244526421944b3fba0500c2afb7dbf538=039=G40=154=155=XBTCNY60=20151109-14:39:21.755150=I151=0912=N10=219
+20151109-15:08:51: Reject sent for Message 1786: Value is incorrect (out of range) for this tag:39
+20151109-15:08:51: Rejecting invalid message: quickfix.IncorrectTagValue: Field [39] contains an incorrect tag value. field=39: 8=FIX.4.49=22535=834=178749=BTCC-PRO-EXCHANGE-SERVER52=20151109-15:08:52.73156=CLIENT-Thomas6=011=reqID129869909614=017=037=df6e76c4cbb8452a8993619c4252347b38=039=G40=154=155=XBTCNY60=20151109-14:39:21.661150=I151=0912=N10=200
+20151109-15:08:51: Reject sent for Message 1787: Value is incorrect (out of range) for this tag:39
+20151109-15:08:51: Rejecting invalid message: quickfix.IncorrectTagValue: Field [39] contains an incorrect tag value. field=39: 8=FIX.4.49=22535=834=178849=BTCC-PRO-EXCHANGE-SERVER52=20151109-15:08:52.73156=CLIENT-Thomas6=011=reqID129869909614=017=037=34ffc3614a98432b8074bc51cc4e982338=039=G40=154=155=XBTCNY60=20151109-14:39:21.489150=I151=0912=N10=196
+20151109-15:08:51: Reject sent for Message 1788: Value is incorrect (out of range) for this tag:39
+20151109-15:08:52: Rejecting invalid message: quickfix.IncorrectTagValue: Field [39] contains an incorrect tag value. field=39: 8=FIX.4.49=22535=834=178949=BTCC-PRO-EXCHANGE-SERVER52=20151109-15:08:52.73156=CLIENT-Thomas6=011=reqID129869909614=017=037=be0158947b584ef49f846235f4e632d638=039=G40=154=155=XBTCNY60=20151109-14:39:21.317150=I151=0912=N10=161
+20151109-15:08:52: Reject sent for Message 1789: Value is incorrect (out of range) for this tag:39
+20151109-15:09:26: Session FIX.4.4:CLIENT-Thomas->BTCC-PRO-EXCHANGE-SERVER schedule is daily, 00:00:00-UTC - 00:00:00-UTC
+20151109-15:09:26: Created session: FIX.4.4:CLIENT-Thomas->BTCC-PRO-EXCHANGE-SERVER
+20151109-15:09:27: Initiated logon request
+20151109-15:09:28: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20151109-15:09:28: Received logon
+20151109-15:09:29: Rejecting invalid message: quickfix.IncorrectTagValue: Field [39] contains an incorrect tag value. field=39: 8=FIX.4.49=22335=834=6349=BTCC-PRO-EXCHANGE-SERVER52=20151109-15:09:30.08456=CLIENT-Thomas6=011=reqID129869909614=017=037=9244526421944b3fba0500c2afb7dbf538=039=G40=154=155=XBTCNY60=20151109-14:39:21.755150=I151=0912=N10=106
+20151109-15:09:29: Reject sent for Message 63: Value is incorrect (out of range) for this tag:39
+20151109-15:09:29: Rejecting invalid message: quickfix.IncorrectTagValue: Field [39] contains an incorrect tag value. field=39: 8=FIX.4.49=22335=834=6449=BTCC-PRO-EXCHANGE-SERVER52=20151109-15:09:30.08456=CLIENT-Thomas6=011=reqID129869909614=017=037=df6e76c4cbb8452a8993619c4252347b38=039=G40=154=155=XBTCNY60=20151109-14:39:21.661150=I151=0912=N10=087
+20151109-15:09:29: Reject sent for Message 64: Value is incorrect (out of range) for this tag:39
+20151109-15:09:29: Rejecting invalid message: quickfix.IncorrectTagValue: Field [39] contains an incorrect tag value. field=39: 8=FIX.4.49=22335=834=6549=BTCC-PRO-EXCHANGE-SERVER52=20151109-15:09:30.08456=CLIENT-Thomas6=011=reqID129869909614=017=037=34ffc3614a98432b8074bc51cc4e982338=039=G40=154=155=XBTCNY60=20151109-14:39:21.489150=I151=0912=N10=083
+20151109-15:09:29: Reject sent for Message 65: Value is incorrect (out of range) for this tag:39
+20151109-15:09:29: Rejecting invalid message: quickfix.IncorrectTagValue: Field [39] contains an incorrect tag value. field=39: 8=FIX.4.49=22335=834=6649=BTCC-PRO-EXCHANGE-SERVER52=20151109-15:09:30.08456=CLIENT-Thomas6=011=reqID129869909614=017=037=be0158947b584ef49f846235f4e632d638=039=G40=154=155=XBTCNY60=20151109-14:39:21.317150=I151=0912=N10=048
+20151109-15:09:29: Reject sent for Message 66: Value is incorrect (out of range) for this tag:39
+20151109-15:09:46: Initiated logout request
+20151109-15:09:46: Rejecting invalid message: quickfix.IncorrectTagValue: Field [39] contains an incorrect tag value. field=39: 8=FIX.4.49=22535=834=100549=BTCC-PRO-EXCHANGE-SERVER52=20151109-15:09:47.37356=CLIENT-Thomas6=011=reqID129869909614=017=037=9244526421944b3fba0500c2afb7dbf538=039=G40=154=155=XBTCNY60=20151109-14:39:21.755150=I151=0912=N10=210
+20151109-15:09:46: Reject sent for Message 1005: Value is incorrect (out of range) for this tag:39
+20151109-15:09:46: Rejecting invalid message: quickfix.IncorrectTagValue: Field [39] contains an incorrect tag value. field=39: 8=FIX.4.49=22535=834=100649=BTCC-PRO-EXCHANGE-SERVER52=20151109-15:09:47.37356=CLIENT-Thomas6=011=reqID129869909614=017=037=df6e76c4cbb8452a8993619c4252347b38=039=G40=154=155=XBTCNY60=20151109-14:39:21.661150=I151=0912=N10=191
+20151109-15:09:46: Reject sent for Message 1006: Value is incorrect (out of range) for this tag:39
+20151109-15:09:46: Rejecting invalid message: quickfix.IncorrectTagValue: Field [39] contains an incorrect tag value. field=39: 8=FIX.4.49=22535=834=100749=BTCC-PRO-EXCHANGE-SERVER52=20151109-15:09:47.37356=CLIENT-Thomas6=011=reqID129869909614=017=037=34ffc3614a98432b8074bc51cc4e982338=039=G40=154=155=XBTCNY60=20151109-14:39:21.489150=I151=0912=N10=187
+20151109-15:09:46: Reject sent for Message 1007: Value is incorrect (out of range) for this tag:39
+20151109-15:09:46: Rejecting invalid message: quickfix.IncorrectTagValue: Field [39] contains an incorrect tag value. field=39: 8=FIX.4.49=22535=834=100849=BTCC-PRO-EXCHANGE-SERVER52=20151109-15:09:47.37356=CLIENT-Thomas6=011=reqID129869909614=017=037=be0158947b584ef49f846235f4e632d638=039=G40=154=155=XBTCNY60=20151109-14:39:21.317150=I151=0912=N10=152
+20151109-15:09:46: Reject sent for Message 1008: Value is incorrect (out of range) for this tag:39
+20151109-15:10:01: Session FIX.4.4:CLIENT-Thomas->BTCC-PRO-EXCHANGE-SERVER schedule is daily, 00:00:00-UTC - 00:00:00-UTC
+20151109-15:10:01: Created session: FIX.4.4:CLIENT-Thomas->BTCC-PRO-EXCHANGE-SERVER
+20151109-15:10:02: Initiated logon request
+20151109-15:10:02: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20151109-15:10:02: Received logon
+20151109-15:10:04: Rejecting invalid message: quickfix.IncorrectTagValue: Field [39] contains an incorrect tag value. field=39: 8=FIX.4.49=22335=834=7049=BTCC-PRO-EXCHANGE-SERVER52=20151109-15:10:05.52256=CLIENT-Thomas6=011=reqID129869909614=017=037=9244526421944b3fba0500c2afb7dbf538=039=G40=154=155=XBTCNY60=20151109-14:39:21.755150=I151=0912=N10=095
+20151109-15:10:04: Reject sent for Message 70: Value is incorrect (out of range) for this tag:39
+20151109-15:10:04: Rejecting invalid message: quickfix.IncorrectTagValue: Field [39] contains an incorrect tag value. field=39: 8=FIX.4.49=22335=834=7149=BTCC-PRO-EXCHANGE-SERVER52=20151109-15:10:05.52256=CLIENT-Thomas6=011=reqID129869909614=017=037=df6e76c4cbb8452a8993619c4252347b38=039=G40=154=155=XBTCNY60=20151109-14:39:21.661150=I151=0912=N10=076
+20151109-15:10:04: Reject sent for Message 71: Value is incorrect (out of range) for this tag:39
+20151109-15:10:04: Rejecting invalid message: quickfix.IncorrectTagValue: Field [39] contains an incorrect tag value. field=39: 8=FIX.4.49=22335=834=7249=BTCC-PRO-EXCHANGE-SERVER52=20151109-15:10:05.52256=CLIENT-Thomas6=011=reqID129869909614=017=037=34ffc3614a98432b8074bc51cc4e982338=039=G40=154=155=XBTCNY60=20151109-14:39:21.489150=I151=0912=N10=072
+20151109-15:10:04: Reject sent for Message 72: Value is incorrect (out of range) for this tag:39
+20151109-15:10:04: Rejecting invalid message: quickfix.IncorrectTagValue: Field [39] contains an incorrect tag value. field=39: 8=FIX.4.49=22335=834=7349=BTCC-PRO-EXCHANGE-SERVER52=20151109-15:10:05.52256=CLIENT-Thomas6=011=reqID129869909614=017=037=be0158947b584ef49f846235f4e632d638=039=G40=154=155=XBTCNY60=20151109-14:39:21.317150=I151=0912=N10=037
+20151109-15:10:04: Reject sent for Message 73: Value is incorrect (out of range) for this tag:39
+20151109-15:12:28: Session FIX.4.4:CLIENT-Thomas->BTCC-PRO-EXCHANGE-SERVER schedule is daily, 00:00:00-UTC - 00:00:00-UTC
+20151109-15:12:28: Created session: FIX.4.4:CLIENT-Thomas->BTCC-PRO-EXCHANGE-SERVER
+20151109-15:12:29: Initiated logon request
+20151109-15:12:29: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20151109-15:12:29: Received logon
+20151109-15:12:30: Rejecting invalid message: quickfix.IncorrectTagValue: Field [39] contains an incorrect tag value. field=39: 8=FIX.4.49=22335=834=6449=BTCC-PRO-EXCHANGE-SERVER52=20151109-15:12:30.98856=CLIENT-Thomas6=011=reqID129869909614=017=037=9244526421944b3fba0500c2afb7dbf538=039=G40=154=155=XBTCNY60=20151109-14:39:21.755150=I151=0912=N10=114
+20151109-15:12:30: Reject sent for Message 64: Value is incorrect (out of range) for this tag:39
+20151109-15:12:30: Rejecting invalid message: quickfix.IncorrectTagValue: Field [39] contains an incorrect tag value. field=39: 8=FIX.4.49=22335=834=6549=BTCC-PRO-EXCHANGE-SERVER52=20151109-15:12:30.98856=CLIENT-Thomas6=011=reqID129869909614=017=037=df6e76c4cbb8452a8993619c4252347b38=039=G40=154=155=XBTCNY60=20151109-14:39:21.661150=I151=0912=N10=095
+20151109-15:12:30: Reject sent for Message 65: Value is incorrect (out of range) for this tag:39
+20151109-15:12:30: Rejecting invalid message: quickfix.IncorrectTagValue: Field [39] contains an incorrect tag value. field=39: 8=FIX.4.49=22335=834=6649=BTCC-PRO-EXCHANGE-SERVER52=20151109-15:12:30.98856=CLIENT-Thomas6=011=reqID129869909614=017=037=34ffc3614a98432b8074bc51cc4e982338=039=G40=154=155=XBTCNY60=20151109-14:39:21.489150=I151=0912=N10=091
+20151109-15:12:30: Reject sent for Message 66: Value is incorrect (out of range) for this tag:39
+20151109-15:12:30: Rejecting invalid message: quickfix.IncorrectTagValue: Field [39] contains an incorrect tag value. field=39: 8=FIX.4.49=22335=834=6749=BTCC-PRO-EXCHANGE-SERVER52=20151109-15:12:30.98956=CLIENT-Thomas6=011=reqID129869909614=017=037=be0158947b584ef49f846235f4e632d638=039=G40=154=155=XBTCNY60=20151109-14:39:21.317150=I151=0912=N10=057
+20151109-15:12:30: Reject sent for Message 67: Value is incorrect (out of range) for this tag:39
+20151109-15:20:58: Session FIX.4.4:CLIENT-Thomas->BTCC-PRO-EXCHANGE-SERVER schedule is daily, 00:00:00-UTC - 00:00:00-UTC
+20151109-15:20:58: Created session: FIX.4.4:CLIENT-Thomas->BTCC-PRO-EXCHANGE-SERVER
+20151109-15:20:59: Initiated logon request
+20151109-15:21:00: Disconnecting: Socket exception (/172.20.13.222:9880): java.io.IOException: Connection reset by peer
+20151109-15:21:07: Session FIX.4.4:CLIENT-Thomas->BTCC-PRO-EXCHANGE-SERVER schedule is daily, 00:00:00-UTC - 00:00:00-UTC
+20151109-15:21:07: Created session: FIX.4.4:CLIENT-Thomas->BTCC-PRO-EXCHANGE-SERVER
+20151109-15:21:08: Initiated logon request
+20151109-15:21:08: Disconnecting: Socket exception (/172.20.13.222:9880): java.io.IOException: Connection reset by peer
+20151109-15:22:16: Session FIX.4.4:CLIENT-Thomas->BTCC-PRO-EXCHANGE-SERVER schedule is daily, 00:00:00-UTC - 00:00:00-UTC
+20151109-15:22:16: Created session: FIX.4.4:CLIENT-Thomas->BTCC-PRO-EXCHANGE-SERVER
+20151109-15:22:17: Initiated logon request
+20151109-15:22:17: Disconnecting: Socket exception (/172.20.13.222:9880): java.io.IOException: Connection reset by peer
+20151109-15:23:06: Session FIX.4.4:CLIENT-Thomas->BTCC-PRO-EXCHANGE-SERVER schedule is daily, 00:00:00-UTC - 00:00:00-UTC
+20151109-15:23:06: Created session: FIX.4.4:CLIENT-Thomas->BTCC-PRO-EXCHANGE-SERVER
+20151109-15:23:07: Initiated logon request
+20151109-15:23:07: Disconnecting: Socket exception (/172.20.13.222:9880): java.io.IOException: Connection reset by peer
+20151109-15:23:20: Session FIX.4.4:CLIENT-Thomas->BTCC-PRO-EXCHANGE-SERVER schedule is daily, 00:00:00-UTC - 00:00:00-UTC
+20151109-15:23:20: Created session: FIX.4.4:CLIENT-Thomas->BTCC-PRO-EXCHANGE-SERVER
+20151109-15:23:22: Initiated logon request
+20151109-15:23:22: Disconnecting: Socket exception (/172.20.13.222:9880): java.io.IOException: Connection reset by peer
+20151109-15:23:32: Session FIX.4.4:CLIENT-Thomas->BTCC-PRO-EXCHANGE-SERVER schedule is daily, 00:00:00-UTC - 00:00:00-UTC
+20151109-15:23:32: Created session: FIX.4.4:CLIENT-Thomas->BTCC-PRO-EXCHANGE-SERVER
+20151109-15:23:33: Initiated logon request
+20151109-15:23:33: Disconnecting: Socket exception (/172.20.13.222:9880): java.io.IOException: Connection reset by peer
+20151109-15:24:10: Session FIX.4.4:CLIENT-Thomas->BTCC-PRO-EXCHANGE-SERVER schedule is daily, 00:00:00-UTC - 00:00:00-UTC
+20151109-15:24:10: Created session: FIX.4.4:CLIENT-Thomas->BTCC-PRO-EXCHANGE-SERVER
+20151109-15:24:12: Initiated logon request
+20151109-15:24:12: Disconnecting: Socket exception (/172.20.13.222:9880): java.io.IOException: Connection reset by peer
+20151109-15:24:43: Session FIX.4.4:CLIENT-Thomas->BTCC-PRO-EXCHANGE-SERVER schedule is daily, 00:00:00-UTC - 00:00:00-UTC
+20151109-15:24:43: Created session: FIX.4.4:CLIENT-Thomas->BTCC-PRO-EXCHANGE-SERVER
+20151109-15:24:45: Initiated logon request
+20151109-15:24:45: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20151109-15:24:45: Received logon
+20151109-15:24:46: Rejecting invalid message: quickfix.IncorrectTagValue: Field [39] contains an incorrect tag value. field=39: 8=FIX.4.49=22335=834=7749=BTCC-PRO-EXCHANGE-SERVER52=20151109-15:24:47.28456=CLIENT-Thomas6=011=reqID129869909614=017=037=9244526421944b3fba0500c2afb7dbf538=039=G40=154=155=XBTCNY60=20151109-14:39:21.755150=I151=0912=N10=118
+20151109-15:24:46: Reject sent for Message 77: Value is incorrect (out of range) for this tag:39
+20151109-15:24:46: Rejecting invalid message: quickfix.IncorrectTagValue: Field [39] contains an incorrect tag value. field=39: 8=FIX.4.49=22335=834=7849=BTCC-PRO-EXCHANGE-SERVER52=20151109-15:24:47.28456=CLIENT-Thomas6=011=reqID129869909614=017=037=df6e76c4cbb8452a8993619c4252347b38=039=G40=154=155=XBTCNY60=20151109-14:39:21.661150=I151=0912=N10=099
+20151109-15:24:46: Reject sent for Message 78: Value is incorrect (out of range) for this tag:39
+20151109-15:24:46: Rejecting invalid message: quickfix.IncorrectTagValue: Field [39] contains an incorrect tag value. field=39: 8=FIX.4.49=22335=834=7949=BTCC-PRO-EXCHANGE-SERVER52=20151109-15:24:47.28456=CLIENT-Thomas6=011=reqID129869909614=017=037=34ffc3614a98432b8074bc51cc4e982338=039=G40=154=155=XBTCNY60=20151109-14:39:21.489150=I151=0912=N10=095
+20151109-15:24:46: Reject sent for Message 79: Value is incorrect (out of range) for this tag:39
+20151109-15:24:46: Rejecting invalid message: quickfix.IncorrectTagValue: Field [39] contains an incorrect tag value. field=39: 8=FIX.4.49=22335=834=8049=BTCC-PRO-EXCHANGE-SERVER52=20151109-15:24:47.28456=CLIENT-Thomas6=011=reqID129869909614=017=037=be0158947b584ef49f846235f4e632d638=039=G40=154=155=XBTCNY60=20151109-14:39:21.317150=I151=0912=N10=051
+20151109-15:24:46: Reject sent for Message 80: Value is incorrect (out of range) for this tag:39
+20151109-15:24:58: Session FIX.4.4:CLIENT-Thomas->BTCC-PRO-EXCHANGE-SERVER schedule is daily, 00:00:00-UTC - 00:00:00-UTC
+20151109-15:24:58: Created session: FIX.4.4:CLIENT-Thomas->BTCC-PRO-EXCHANGE-SERVER
+20151109-15:24:59: Initiated logon request
+20151109-15:24:59: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20151109-15:24:59: Received logon
+20151109-15:25:01: Rejecting invalid message: quickfix.IncorrectTagValue: Field [39] contains an incorrect tag value. field=39: 8=FIX.4.49=22335=834=8849=BTCC-PRO-EXCHANGE-SERVER52=20151109-15:25:02.39056=CLIENT-Thomas6=011=reqID129869909614=017=037=9244526421944b3fba0500c2afb7dbf538=039=G40=154=155=XBTCNY60=20151109-14:39:21.755150=I151=0912=N10=110
+20151109-15:25:01: Reject sent for Message 88: Value is incorrect (out of range) for this tag:39
+20151109-15:25:01: Rejecting invalid message: quickfix.IncorrectTagValue: Field [39] contains an incorrect tag value. field=39: 8=FIX.4.49=22335=834=8949=BTCC-PRO-EXCHANGE-SERVER52=20151109-15:25:02.39056=CLIENT-Thomas6=011=reqID129869909614=017=037=df6e76c4cbb8452a8993619c4252347b38=039=G40=154=155=XBTCNY60=20151109-14:39:21.661150=I151=0912=N10=091
+20151109-15:25:01: Reject sent for Message 89: Value is incorrect (out of range) for this tag:39
+20151109-15:25:01: Rejecting invalid message: quickfix.IncorrectTagValue: Field [39] contains an incorrect tag value. field=39: 8=FIX.4.49=22335=834=9049=BTCC-PRO-EXCHANGE-SERVER52=20151109-15:25:02.39056=CLIENT-Thomas6=011=reqID129869909614=017=037=34ffc3614a98432b8074bc51cc4e982338=039=G40=154=155=XBTCNY60=20151109-14:39:21.489150=I151=0912=N10=078
+20151109-15:25:01: Reject sent for Message 90: Value is incorrect (out of range) for this tag:39
+20151109-15:25:01: Rejecting invalid message: quickfix.IncorrectTagValue: Field [39] contains an incorrect tag value. field=39: 8=FIX.4.49=22335=834=9149=BTCC-PRO-EXCHANGE-SERVER52=20151109-15:25:02.39156=CLIENT-Thomas6=011=reqID129869909614=017=037=be0158947b584ef49f846235f4e632d638=039=G40=154=155=XBTCNY60=20151109-14:39:21.317150=I151=0912=N10=044
+20151109-15:25:01: Reject sent for Message 91: Value is incorrect (out of range) for this tag:39
+20151109-15:25:04: Rejecting invalid message: quickfix.IncorrectTagValue: Field [39] contains an incorrect tag value. field=39: 8=FIX.4.49=22535=834=100649=BTCC-PRO-EXCHANGE-SERVER52=20151109-15:25:03.72656=CLIENT-Thomas6=011=reqID129869909614=017=037=9244526421944b3fba0500c2afb7dbf538=039=G40=154=155=XBTCNY60=20151109-14:39:21.755150=I151=0912=N10=203
+20151109-15:25:04: Reject sent for Message 1006: Value is incorrect (out of range) for this tag:39
+20151109-15:25:04: Rejecting invalid message: quickfix.IncorrectTagValue: Field [39] contains an incorrect tag value. field=39: 8=FIX.4.49=22535=834=100749=BTCC-PRO-EXCHANGE-SERVER52=20151109-15:25:03.72656=CLIENT-Thomas6=011=reqID129869909614=017=037=df6e76c4cbb8452a8993619c4252347b38=039=G40=154=155=XBTCNY60=20151109-14:39:21.661150=I151=0912=N10=184
+20151109-15:25:04: Reject sent for Message 1007: Value is incorrect (out of range) for this tag:39
+20151109-15:25:04: Rejecting invalid message: quickfix.IncorrectTagValue: Field [39] contains an incorrect tag value. field=39: 8=FIX.4.49=22535=834=100849=BTCC-PRO-EXCHANGE-SERVER52=20151109-15:25:03.72656=CLIENT-Thomas6=011=reqID129869909614=017=037=34ffc3614a98432b8074bc51cc4e982338=039=G40=154=155=XBTCNY60=20151109-14:39:21.489150=I151=0912=N10=180
+20151109-15:25:04: Reject sent for Message 1008: Value is incorrect (out of range) for this tag:39
+20151109-15:25:04: Rejecting invalid message: quickfix.IncorrectTagValue: Field [39] contains an incorrect tag value. field=39: 8=FIX.4.49=22535=834=100949=BTCC-PRO-EXCHANGE-SERVER52=20151109-15:25:03.72656=CLIENT-Thomas6=011=reqID129869909614=017=037=be0158947b584ef49f846235f4e632d638=039=G40=154=155=XBTCNY60=20151109-14:39:21.317150=I151=0912=N10=145
+20151109-15:25:04: Reject sent for Message 1009: Value is incorrect (out of range) for this tag:39
+20151109-15:25:21: Rejecting invalid message: quickfix.IncorrectTagValue: Field [39] contains an incorrect tag value. field=39: 8=FIX.4.49=22535=834=742349=BTCC-PRO-EXCHANGE-SERVER52=20151109-15:25:16.50956=CLIENT-Thomas6=011=reqID129869909614=017=037=9244526421944b3fba0500c2afb7dbf538=039=G40=154=155=XBTCNY60=20151109-14:39:21.755150=I151=0912=N10=215
+20151109-15:25:22: Reject sent for Message 7423: Value is incorrect (out of range) for this tag:39
+20151109-15:25:22: Rejecting invalid message: quickfix.IncorrectTagValue: Field [39] contains an incorrect tag value. field=39: 8=FIX.4.49=22535=834=742449=BTCC-PRO-EXCHANGE-SERVER52=20151109-15:25:16.51956=CLIENT-Thomas6=011=reqID129869909614=017=037=df6e76c4cbb8452a8993619c4252347b38=039=G40=154=155=XBTCNY60=20151109-14:39:21.661150=I151=0912=N10=197
+20151109-15:25:22: Reject sent for Message 7424: Value is incorrect (out of range) for this tag:39
+20151109-15:25:22: Rejecting invalid message: quickfix.IncorrectTagValue: Field [39] contains an incorrect tag value. field=39: 8=FIX.4.49=22535=834=742549=BTCC-PRO-EXCHANGE-SERVER52=20151109-15:25:16.55856=CLIENT-Thomas6=011=reqID129869909614=017=037=34ffc3614a98432b8074bc51cc4e982338=039=G40=154=155=XBTCNY60=20151109-14:39:21.489150=I151=0912=N10=196
+20151109-15:25:22: Reject sent for Message 7425: Value is incorrect (out of range) for this tag:39
+20151109-15:25:22: Rejecting invalid message: quickfix.IncorrectTagValue: Field [39] contains an incorrect tag value. field=39: 8=FIX.4.49=22535=834=742649=BTCC-PRO-EXCHANGE-SERVER52=20151109-15:25:16.61356=CLIENT-Thomas6=011=reqID129869909614=017=037=be0158947b584ef49f846235f4e632d638=039=G40=154=155=XBTCNY60=20151109-14:39:21.317150=I151=0912=N10=153
+20151109-15:25:22: Reject sent for Message 7426: Value is incorrect (out of range) for this tag:39
+20151109-15:26:03: Session FIX.4.4:CLIENT-Thomas->BTCC-PRO-EXCHANGE-SERVER schedule is daily, 00:00:00-UTC - 00:00:00-UTC
+20151109-15:26:03: Created session: FIX.4.4:CLIENT-Thomas->BTCC-PRO-EXCHANGE-SERVER
+20151109-15:26:04: Initiated logon request
+20151109-15:26:04: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20151109-15:26:04: Received logon
+20151109-15:26:07: Rejecting invalid message: quickfix.IncorrectTagValue: Field [39] contains an incorrect tag value. field=39: 8=FIX.4.49=22435=834=35349=BTCC-PRO-EXCHANGE-SERVER52=20151109-15:26:07.36156=CLIENT-Thomas6=011=reqID129869909614=017=037=9244526421944b3fba0500c2afb7dbf538=039=G40=154=155=XBTCNY60=20151109-14:39:21.755150=I151=0912=N10=158
+20151109-15:26:07: Reject sent for Message 353: Value is incorrect (out of range) for this tag:39
+20151109-15:26:07: Rejecting invalid message: quickfix.IncorrectTagValue: Field [39] contains an incorrect tag value. field=39: 8=FIX.4.49=22435=834=35449=BTCC-PRO-EXCHANGE-SERVER52=20151109-15:26:07.36156=CLIENT-Thomas6=011=reqID129869909614=017=037=df6e76c4cbb8452a8993619c4252347b38=039=G40=154=155=XBTCNY60=20151109-14:39:21.661150=I151=0912=N10=139
+20151109-15:26:07: Reject sent for Message 354: Value is incorrect (out of range) for this tag:39
+20151109-15:26:07: Rejecting invalid message: quickfix.IncorrectTagValue: Field [39] contains an incorrect tag value. field=39: 8=FIX.4.49=22435=834=35549=BTCC-PRO-EXCHANGE-SERVER52=20151109-15:26:07.36256=CLIENT-Thomas6=011=reqID129869909614=017=037=34ffc3614a98432b8074bc51cc4e982338=039=G40=154=155=XBTCNY60=20151109-14:39:21.489150=I151=0912=N10=136
+20151109-15:26:07: Reject sent for Message 355: Value is incorrect (out of range) for this tag:39
+20151109-15:26:07: Rejecting invalid message: quickfix.IncorrectTagValue: Field [39] contains an incorrect tag value. field=39: 8=FIX.4.49=22435=834=35649=BTCC-PRO-EXCHANGE-SERVER52=20151109-15:26:07.36256=CLIENT-Thomas6=011=reqID129869909614=017=037=be0158947b584ef49f846235f4e632d638=039=G40=154=155=XBTCNY60=20151109-14:39:21.317150=I151=0912=N10=101
+20151109-15:26:07: Reject sent for Message 356: Value is incorrect (out of range) for this tag:39
+20151109-15:26:08: Initiated logout request
+20151109-15:26:23: Session FIX.4.4:CLIENT-Thomas->BTCC-PRO-EXCHANGE-SERVER schedule is daily, 00:00:00-UTC - 00:00:00-UTC
+20151109-15:26:23: Created session: FIX.4.4:CLIENT-Thomas->BTCC-PRO-EXCHANGE-SERVER
+20151109-15:26:24: Initiated logon request
+20151109-15:26:24: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20151109-15:26:24: Received logon
+20151109-15:26:26: Rejecting invalid message: quickfix.IncorrectTagValue: Field [39] contains an incorrect tag value. field=39: 8=FIX.4.49=22435=834=36049=BTCC-PRO-EXCHANGE-SERVER52=20151109-15:26:26.84056=CLIENT-Thomas6=011=reqID129869909614=017=037=9244526421944b3fba0500c2afb7dbf538=039=G40=154=155=XBTCNY60=20151109-14:39:21.755150=I151=0912=N10=159
+20151109-15:26:26: Reject sent for Message 360: Value is incorrect (out of range) for this tag:39
+20151109-15:26:26: Rejecting invalid message: quickfix.IncorrectTagValue: Field [39] contains an incorrect tag value. field=39: 8=FIX.4.49=22435=834=36149=BTCC-PRO-EXCHANGE-SERVER52=20151109-15:26:26.84056=CLIENT-Thomas6=011=reqID129869909614=017=037=df6e76c4cbb8452a8993619c4252347b38=039=G40=154=155=XBTCNY60=20151109-14:39:21.661150=I151=0912=N10=140
+20151109-15:26:26: Reject sent for Message 361: Value is incorrect (out of range) for this tag:39
+20151109-15:26:26: Rejecting invalid message: quickfix.IncorrectTagValue: Field [39] contains an incorrect tag value. field=39: 8=FIX.4.49=22435=834=36249=BTCC-PRO-EXCHANGE-SERVER52=20151109-15:26:26.84056=CLIENT-Thomas6=011=reqID129869909614=017=037=34ffc3614a98432b8074bc51cc4e982338=039=G40=154=155=XBTCNY60=20151109-14:39:21.489150=I151=0912=N10=136
+20151109-15:26:26: Reject sent for Message 362: Value is incorrect (out of range) for this tag:39
+20151109-15:26:26: Rejecting invalid message: quickfix.IncorrectTagValue: Field [39] contains an incorrect tag value. field=39: 8=FIX.4.49=22435=834=36349=BTCC-PRO-EXCHANGE-SERVER52=20151109-15:26:26.84056=CLIENT-Thomas6=011=reqID129869909614=017=037=be0158947b584ef49f846235f4e632d638=039=G40=154=155=XBTCNY60=20151109-14:39:21.317150=I151=0912=N10=101
+20151109-15:26:26: Reject sent for Message 363: Value is incorrect (out of range) for this tag:39
+20151109-15:27:04: Session FIX.4.4:CLIENT-Thomas->BTCC-PRO-EXCHANGE-SERVER schedule is daily, 00:00:00-UTC - 00:00:00-UTC
+20151109-15:27:04: Created session: FIX.4.4:CLIENT-Thomas->BTCC-PRO-EXCHANGE-SERVER
+20151109-15:27:11: Session FIX.4.4:CLIENT-Thomas->BTCC-PRO-EXCHANGE-SERVER schedule is daily, 00:00:00-UTC - 00:00:00-UTC
+20151109-15:27:11: Created session: FIX.4.4:CLIENT-Thomas->BTCC-PRO-EXCHANGE-SERVER
+20151109-15:27:12: Initiated logon request
+20151109-15:27:12: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20151109-15:27:12: Received logon
+20151109-15:27:15: Rejecting invalid message: quickfix.IncorrectTagValue: Field [39] contains an incorrect tag value. field=39: 8=FIX.4.49=22435=834=36749=BTCC-PRO-EXCHANGE-SERVER52=20151109-15:27:15.18156=CLIENT-Thomas6=011=reqID129869909614=017=037=9244526421944b3fba0500c2afb7dbf538=039=G40=154=155=XBTCNY60=20151109-14:39:21.755150=I151=0912=N10=163
+20151109-15:27:15: Reject sent for Message 367: Value is incorrect (out of range) for this tag:39
+20151109-15:27:15: Rejecting invalid message: quickfix.IncorrectTagValue: Field [39] contains an incorrect tag value. field=39: 8=FIX.4.49=22435=834=36849=BTCC-PRO-EXCHANGE-SERVER52=20151109-15:27:15.18156=CLIENT-Thomas6=011=reqID129869909614=017=037=df6e76c4cbb8452a8993619c4252347b38=039=G40=154=155=XBTCNY60=20151109-14:39:21.661150=I151=0912=N10=144
+20151109-15:27:15: Reject sent for Message 368: Value is incorrect (out of range) for this tag:39
+20151109-15:27:15: Rejecting invalid message: quickfix.IncorrectTagValue: Field [39] contains an incorrect tag value. field=39: 8=FIX.4.49=22435=834=36949=BTCC-PRO-EXCHANGE-SERVER52=20151109-15:27:15.18156=CLIENT-Thomas6=011=reqID129869909614=017=037=34ffc3614a98432b8074bc51cc4e982338=039=G40=154=155=XBTCNY60=20151109-14:39:21.489150=I151=0912=N10=140
+20151109-15:27:15: Reject sent for Message 369: Value is incorrect (out of range) for this tag:39
+20151109-15:27:15: Rejecting invalid message: quickfix.IncorrectTagValue: Field [39] contains an incorrect tag value. field=39: 8=FIX.4.49=22435=834=37049=BTCC-PRO-EXCHANGE-SERVER52=20151109-15:27:15.18156=CLIENT-Thomas6=011=reqID129869909614=017=037=be0158947b584ef49f846235f4e632d638=039=G40=154=155=XBTCNY60=20151109-14:39:21.317150=I151=0912=N10=096
+20151109-15:27:15: Reject sent for Message 370: Value is incorrect (out of range) for this tag:39
+20151109-15:27:57: Initiated logout request
+20151109-15:28:06: Session FIX.4.4:CLIENT-Thomas->BTCC-PRO-EXCHANGE-SERVER schedule is daily, 00:00:00-UTC - 00:00:00-UTC
+20151109-15:28:06: Created session: FIX.4.4:CLIENT-Thomas->BTCC-PRO-EXCHANGE-SERVER
+20151109-15:28:07: Initiated logon request
+20151109-15:28:07: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20151109-15:28:07: Received logon
+20151109-15:28:10: Rejecting invalid message: quickfix.IncorrectTagValue: Field [39] contains an incorrect tag value. field=39: 8=FIX.4.49=22435=834=37449=BTCC-PRO-EXCHANGE-SERVER52=20151109-15:28:10.27556=CLIENT-Thomas6=011=reqID129869909614=017=037=9244526421944b3fba0500c2afb7dbf538=039=G40=154=155=XBTCNY60=20151109-14:39:21.755150=I151=0912=N10=161
+20151109-15:28:10: Reject sent for Message 374: Value is incorrect (out of range) for this tag:39
+20151109-15:28:10: Rejecting invalid message: quickfix.IncorrectTagValue: Field [39] contains an incorrect tag value. field=39: 8=FIX.4.49=22435=834=37549=BTCC-PRO-EXCHANGE-SERVER52=20151109-15:28:10.27556=CLIENT-Thomas6=011=reqID129869909614=017=037=df6e76c4cbb8452a8993619c4252347b38=039=G40=154=155=XBTCNY60=20151109-14:39:21.661150=I151=0912=N10=142
+20151109-15:28:10: Reject sent for Message 375: Value is incorrect (out of range) for this tag:39
+20151109-15:28:10: Rejecting invalid message: quickfix.IncorrectTagValue: Field [39] contains an incorrect tag value. field=39: 8=FIX.4.49=22435=834=37649=BTCC-PRO-EXCHANGE-SERVER52=20151109-15:28:10.27556=CLIENT-Thomas6=011=reqID129869909614=017=037=34ffc3614a98432b8074bc51cc4e982338=039=G40=154=155=XBTCNY60=20151109-14:39:21.489150=I151=0912=N10=138
+20151109-15:28:10: Reject sent for Message 376: Value is incorrect (out of range) for this tag:39
+20151109-15:28:10: Rejecting invalid message: quickfix.IncorrectTagValue: Field [39] contains an incorrect tag value. field=39: 8=FIX.4.49=22435=834=37749=BTCC-PRO-EXCHANGE-SERVER52=20151109-15:28:10.27656=CLIENT-Thomas6=011=reqID129869909614=017=037=be0158947b584ef49f846235f4e632d638=039=G40=154=155=XBTCNY60=20151109-14:39:21.317150=I151=0912=N10=104
+20151109-15:28:10: Reject sent for Message 377: Value is incorrect (out of range) for this tag:39
+20151109-15:28:31: quickfix.SessionException Logon state is not valid for message (MsgType=8)
+20151109-15:28:31: Already disconnected: Verifying message failed: quickfix.SessionException: Logon state is not valid for message (MsgType=8)
+20151109-15:29:04: Session FIX.4.4:CLIENT-Thomas->BTCC-PRO-EXCHANGE-SERVER schedule is daily, 00:00:00-UTC - 00:00:00-UTC
+20151109-15:29:04: Created session: FIX.4.4:CLIENT-Thomas->BTCC-PRO-EXCHANGE-SERVER
+20151109-15:29:06: Initiated logon request
+20151109-15:29:06: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20151109-15:29:06: Received logon
+20151109-15:29:09: Rejecting invalid message: quickfix.IncorrectTagValue: Field [39] contains an incorrect tag value. field=39: 8=FIX.4.49=22435=834=38149=BTCC-PRO-EXCHANGE-SERVER52=20151109-15:29:08.73756=CLIENT-Thomas6=011=reqID129869909614=017=037=9244526421944b3fba0500c2afb7dbf538=039=G40=154=155=XBTCNY60=20151109-14:39:21.755150=I151=0912=N10=170
+20151109-15:29:09: Reject sent for Message 381: Value is incorrect (out of range) for this tag:39
+20151109-15:29:09: Rejecting invalid message: quickfix.IncorrectTagValue: Field [39] contains an incorrect tag value. field=39: 8=FIX.4.49=22435=834=38249=BTCC-PRO-EXCHANGE-SERVER52=20151109-15:29:08.73756=CLIENT-Thomas6=011=reqID129869909614=017=037=df6e76c4cbb8452a8993619c4252347b38=039=G40=154=155=XBTCNY60=20151109-14:39:21.661150=I151=0912=N10=151
+20151109-15:29:09: Reject sent for Message 382: Value is incorrect (out of range) for this tag:39
+20151109-15:29:09: Rejecting invalid message: quickfix.IncorrectTagValue: Field [39] contains an incorrect tag value. field=39: 8=FIX.4.49=22435=834=38349=BTCC-PRO-EXCHANGE-SERVER52=20151109-15:29:08.73756=CLIENT-Thomas6=011=reqID129869909614=017=037=34ffc3614a98432b8074bc51cc4e982338=039=G40=154=155=XBTCNY60=20151109-14:39:21.489150=I151=0912=N10=147
+20151109-15:29:09: Reject sent for Message 383: Value is incorrect (out of range) for this tag:39
+20151109-15:29:09: Rejecting invalid message: quickfix.IncorrectTagValue: Field [39] contains an incorrect tag value. field=39: 8=FIX.4.49=22435=834=38449=BTCC-PRO-EXCHANGE-SERVER52=20151109-15:29:08.73756=CLIENT-Thomas6=011=reqID129869909614=017=037=be0158947b584ef49f846235f4e632d638=039=G40=154=155=XBTCNY60=20151109-14:39:21.317150=I151=0912=N10=112
+20151109-15:29:09: Reject sent for Message 384: Value is incorrect (out of range) for this tag:39
+20151109-15:31:23: Session FIX.4.4:CLIENT-Thomas->BTCC-PRO-EXCHANGE-SERVER schedule is daily, 00:00:00-UTC - 00:00:00-UTC
+20151109-15:31:23: Created session: FIX.4.4:CLIENT-Thomas->BTCC-PRO-EXCHANGE-SERVER
+20151109-15:31:24: Initiated logon request
+20151109-15:31:24: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20151109-15:31:24: Received logon
+20151109-15:31:26: Rejecting invalid message: quickfix.IncorrectTagValue: Field [39] contains an incorrect tag value. field=39: 8=FIX.4.49=22435=834=37449=BTCC-PRO-EXCHANGE-SERVER52=20151109-15:31:26.27156=CLIENT-Thomas6=011=reqID129869909614=017=037=9244526421944b3fba0500c2afb7dbf538=039=G40=154=155=XBTCNY60=20151109-14:39:21.755150=I151=0912=N10=158
+20151109-15:31:26: Reject sent for Message 374: Value is incorrect (out of range) for this tag:39
+20151109-15:31:26: Rejecting invalid message: quickfix.IncorrectTagValue: Field [39] contains an incorrect tag value. field=39: 8=FIX.4.49=22435=834=37549=BTCC-PRO-EXCHANGE-SERVER52=20151109-15:31:26.27156=CLIENT-Thomas6=011=reqID129869909614=017=037=df6e76c4cbb8452a8993619c4252347b38=039=G40=154=155=XBTCNY60=20151109-14:39:21.661150=I151=0912=N10=139
+20151109-15:31:26: Reject sent for Message 375: Value is incorrect (out of range) for this tag:39
+20151109-15:31:26: Rejecting invalid message: quickfix.IncorrectTagValue: Field [39] contains an incorrect tag value. field=39: 8=FIX.4.49=22435=834=37649=BTCC-PRO-EXCHANGE-SERVER52=20151109-15:31:26.27156=CLIENT-Thomas6=011=reqID129869909614=017=037=34ffc3614a98432b8074bc51cc4e982338=039=G40=154=155=XBTCNY60=20151109-14:39:21.489150=I151=0912=N10=135
+20151109-15:31:26: Reject sent for Message 376: Value is incorrect (out of range) for this tag:39
+20151109-15:31:26: Rejecting invalid message: quickfix.IncorrectTagValue: Field [39] contains an incorrect tag value. field=39: 8=FIX.4.49=22435=834=37749=BTCC-PRO-EXCHANGE-SERVER52=20151109-15:31:26.27156=CLIENT-Thomas6=011=reqID129869909614=017=037=be0158947b584ef49f846235f4e632d638=039=G40=154=155=XBTCNY60=20151109-14:39:21.317150=I151=0912=N10=100
+20151109-15:31:26: Reject sent for Message 377: Value is incorrect (out of range) for this tag:39
+20151109-15:31:56: Session FIX.4.4:CLIENT-Thomas->BTCC-PRO-EXCHANGE-SERVER schedule is daily, 00:00:00-UTC - 00:00:00-UTC
+20151109-15:31:56: Created session: FIX.4.4:CLIENT-Thomas->BTCC-PRO-EXCHANGE-SERVER
+20151109-15:31:57: Initiated logon request
+20151109-15:31:58: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20151109-15:31:58: Received logon
+20151109-15:32:00: Rejecting invalid message: quickfix.IncorrectTagValue: Field [39] contains an incorrect tag value. field=39: 8=FIX.4.49=22435=834=37449=BTCC-PRO-EXCHANGE-SERVER52=20151109-15:31:59.38556=CLIENT-Thomas6=011=reqID129869909614=017=037=9244526421944b3fba0500c2afb7dbf538=039=G40=154=155=XBTCNY60=20151109-14:39:21.755150=I151=0912=N10=170
+20151109-15:32:00: Reject sent for Message 374: Value is incorrect (out of range) for this tag:39
+20151109-15:32:00: Rejecting invalid message: quickfix.IncorrectTagValue: Field [39] contains an incorrect tag value. field=39: 8=FIX.4.49=22435=834=37549=BTCC-PRO-EXCHANGE-SERVER52=20151109-15:31:59.38556=CLIENT-Thomas6=011=reqID129869909614=017=037=df6e76c4cbb8452a8993619c4252347b38=039=G40=154=155=XBTCNY60=20151109-14:39:21.661150=I151=0912=N10=151
+20151109-15:32:00: Reject sent for Message 375: Value is incorrect (out of range) for this tag:39
+20151109-15:32:00: Rejecting invalid message: quickfix.IncorrectTagValue: Field [39] contains an incorrect tag value. field=39: 8=FIX.4.49=22435=834=37649=BTCC-PRO-EXCHANGE-SERVER52=20151109-15:31:59.38556=CLIENT-Thomas6=011=reqID129869909614=017=037=34ffc3614a98432b8074bc51cc4e982338=039=G40=154=155=XBTCNY60=20151109-14:39:21.489150=I151=0912=N10=147
+20151109-15:32:00: Reject sent for Message 376: Value is incorrect (out of range) for this tag:39
+20151109-15:32:00: Rejecting invalid message: quickfix.IncorrectTagValue: Field [39] contains an incorrect tag value. field=39: 8=FIX.4.49=22435=834=37749=BTCC-PRO-EXCHANGE-SERVER52=20151109-15:31:59.38556=CLIENT-Thomas6=011=reqID129869909614=017=037=be0158947b584ef49f846235f4e632d638=039=G40=154=155=XBTCNY60=20151109-14:39:21.317150=I151=0912=N10=112
+20151109-15:32:00: Reject sent for Message 377: Value is incorrect (out of range) for this tag:39
+20151109-15:32:17: Rejecting invalid message: quickfix.IncorrectTagValue: Field [39] contains an incorrect tag value. field=39: 8=FIX.4.49=22535=834=163249=BTCC-PRO-EXCHANGE-SERVER52=20151109-15:32:17.56156=CLIENT-Thomas6=011=reqID129869909614=017=037=9244526421944b3fba0500c2afb7dbf538=039=G40=154=155=XBTCNY60=20151109-14:39:21.755150=I151=0912=N10=208
+20151109-15:32:17: Reject sent for Message 1632: Value is incorrect (out of range) for this tag:39
+20151109-15:32:17: Rejecting invalid message: quickfix.IncorrectTagValue: Field [39] contains an incorrect tag value. field=39: 8=FIX.4.49=22535=834=163349=BTCC-PRO-EXCHANGE-SERVER52=20151109-15:32:17.56156=CLIENT-Thomas6=011=reqID129869909614=017=037=df6e76c4cbb8452a8993619c4252347b38=039=G40=154=155=XBTCNY60=20151109-14:39:21.661150=I151=0912=N10=189
+20151109-15:32:17: Reject sent for Message 1633: Value is incorrect (out of range) for this tag:39
+20151109-15:32:17: Rejecting invalid message: quickfix.IncorrectTagValue: Field [39] contains an incorrect tag value. field=39: 8=FIX.4.49=22535=834=163449=BTCC-PRO-EXCHANGE-SERVER52=20151109-15:32:17.56156=CLIENT-Thomas6=011=reqID129869909614=017=037=34ffc3614a98432b8074bc51cc4e982338=039=G40=154=155=XBTCNY60=20151109-14:39:21.489150=I151=0912=N10=185
+20151109-15:32:17: Reject sent for Message 1634: Value is incorrect (out of range) for this tag:39
+20151109-15:32:17: Rejecting invalid message: quickfix.IncorrectTagValue: Field [39] contains an incorrect tag value. field=39: 8=FIX.4.49=22535=834=163549=BTCC-PRO-EXCHANGE-SERVER52=20151109-15:32:17.56156=CLIENT-Thomas6=011=reqID129869909614=017=037=be0158947b584ef49f846235f4e632d638=039=G40=154=155=XBTCNY60=20151109-14:39:21.317150=I151=0912=N10=150
+20151109-15:32:17: Reject sent for Message 1635: Value is incorrect (out of range) for this tag:39
+20151109-15:36:07: Session FIX.4.4:CLIENT-Thomas->BTCC-PRO-EXCHANGE-SERVER schedule is daily, 00:00:00-UTC - 00:00:00-UTC
+20151109-15:36:07: Created session: FIX.4.4:CLIENT-Thomas->BTCC-PRO-EXCHANGE-SERVER
+20151109-15:36:08: Initiated logon request
+20151109-15:36:09: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20151109-15:36:09: Received logon
+20151109-15:36:10: Rejecting invalid message: quickfix.IncorrectTagValue: Field [39] contains an incorrect tag value. field=39: 8=FIX.4.49=22435=834=37449=BTCC-PRO-EXCHANGE-SERVER52=20151109-15:36:10.47656=CLIENT-Thomas6=011=reqID129869909614=017=037=9244526421944b3fba0500c2afb7dbf538=039=G40=154=155=XBTCNY60=20151109-14:39:21.755150=I151=0912=N10=163
+20151109-15:36:10: Reject sent for Message 374: Value is incorrect (out of range) for this tag:39
+20151109-15:36:10: Rejecting invalid message: quickfix.IncorrectTagValue: Field [39] contains an incorrect tag value. field=39: 8=FIX.4.49=22435=834=37549=BTCC-PRO-EXCHANGE-SERVER52=20151109-15:36:10.47656=CLIENT-Thomas6=011=reqID129869909614=017=037=df6e76c4cbb8452a8993619c4252347b38=039=G40=154=155=XBTCNY60=20151109-14:39:21.661150=I151=0912=N10=144
+20151109-15:36:10: Reject sent for Message 375: Value is incorrect (out of range) for this tag:39
+20151109-15:36:10: Rejecting invalid message: quickfix.IncorrectTagValue: Field [39] contains an incorrect tag value. field=39: 8=FIX.4.49=22435=834=37649=BTCC-PRO-EXCHANGE-SERVER52=20151109-15:36:10.47656=CLIENT-Thomas6=011=reqID129869909614=017=037=34ffc3614a98432b8074bc51cc4e982338=039=G40=154=155=XBTCNY60=20151109-14:39:21.489150=I151=0912=N10=140
+20151109-15:36:10: Reject sent for Message 376: Value is incorrect (out of range) for this tag:39
+20151109-15:36:10: Rejecting invalid message: quickfix.IncorrectTagValue: Field [39] contains an incorrect tag value. field=39: 8=FIX.4.49=22435=834=37749=BTCC-PRO-EXCHANGE-SERVER52=20151109-15:36:10.47756=CLIENT-Thomas6=011=reqID129869909614=017=037=be0158947b584ef49f846235f4e632d638=039=G40=154=155=XBTCNY60=20151109-14:39:21.317150=I151=0912=N10=106
+20151109-15:36:10: Reject sent for Message 377: Value is incorrect (out of range) for this tag:39
+20151109-15:37:58: Session FIX.4.4:CLIENT-Thomas->BTCC-PRO-EXCHANGE-SERVER schedule is daily, 00:00:00-UTC - 00:00:00-UTC
+20151109-15:37:58: Created session: FIX.4.4:CLIENT-Thomas->BTCC-PRO-EXCHANGE-SERVER
+20151109-15:38:00: Initiated logon request
+20151109-15:38:00: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20151109-15:38:00: Received logon
+20151109-15:38:01: Rejecting invalid message: quickfix.IncorrectTagValue: Field [39] contains an incorrect tag value. field=39: 8=FIX.4.49=22435=834=37449=BTCC-PRO-EXCHANGE-SERVER52=20151109-15:38:01.47756=CLIENT-Thomas6=011=reqID129869909614=017=037=9244526421944b3fba0500c2afb7dbf538=039=G40=154=155=XBTCNY60=20151109-14:39:21.755150=I151=0912=N10=166
+20151109-15:38:01: Reject sent for Message 374: Value is incorrect (out of range) for this tag:39
+20151109-15:38:01: Rejecting invalid message: quickfix.IncorrectTagValue: Field [39] contains an incorrect tag value. field=39: 8=FIX.4.49=22435=834=37549=BTCC-PRO-EXCHANGE-SERVER52=20151109-15:38:01.47756=CLIENT-Thomas6=011=reqID129869909614=017=037=df6e76c4cbb8452a8993619c4252347b38=039=G40=154=155=XBTCNY60=20151109-14:39:21.661150=I151=0912=N10=147
+20151109-15:38:01: Reject sent for Message 375: Value is incorrect (out of range) for this tag:39
+20151109-15:38:01: Rejecting invalid message: quickfix.IncorrectTagValue: Field [39] contains an incorrect tag value. field=39: 8=FIX.4.49=22435=834=37649=BTCC-PRO-EXCHANGE-SERVER52=20151109-15:38:01.47756=CLIENT-Thomas6=011=reqID129869909614=017=037=34ffc3614a98432b8074bc51cc4e982338=039=G40=154=155=XBTCNY60=20151109-14:39:21.489150=I151=0912=N10=143
+20151109-15:38:01: Reject sent for Message 376: Value is incorrect (out of range) for this tag:39
+20151109-15:38:01: Rejecting invalid message: quickfix.IncorrectTagValue: Field [39] contains an incorrect tag value. field=39: 8=FIX.4.49=22435=834=37749=BTCC-PRO-EXCHANGE-SERVER52=20151109-15:38:01.47756=CLIENT-Thomas6=011=reqID129869909614=017=037=be0158947b584ef49f846235f4e632d638=039=G40=154=155=XBTCNY60=20151109-14:39:21.317150=I151=0912=N10=108
+20151109-15:38:01: Reject sent for Message 377: Value is incorrect (out of range) for this tag:39
+20151109-15:38:30: Session FIX.4.4:CLIENT-Thomas->BTCC-PRO-EXCHANGE-SERVER schedule is daily, 00:00:00-UTC - 00:00:00-UTC
+20151109-15:38:30: Created session: FIX.4.4:CLIENT-Thomas->BTCC-PRO-EXCHANGE-SERVER
+20151109-15:38:32: Initiated logon request
+20151109-15:38:32: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20151109-15:38:32: Received logon
+20151109-15:38:33: Rejecting invalid message: quickfix.IncorrectTagValue: Field [39] contains an incorrect tag value. field=39: 8=FIX.4.49=22435=834=37449=BTCC-PRO-EXCHANGE-SERVER52=20151109-15:38:33.51856=CLIENT-Thomas6=011=reqID129869909614=017=037=9244526421944b3fba0500c2afb7dbf538=039=G40=154=155=XBTCNY60=20151109-14:39:21.755150=I151=0912=N10=167
+20151109-15:38:33: Reject sent for Message 374: Value is incorrect (out of range) for this tag:39
+20151109-15:38:33: Rejecting invalid message: quickfix.IncorrectTagValue: Field [39] contains an incorrect tag value. field=39: 8=FIX.4.49=22435=834=37549=BTCC-PRO-EXCHANGE-SERVER52=20151109-15:38:33.51856=CLIENT-Thomas6=011=reqID129869909614=017=037=df6e76c4cbb8452a8993619c4252347b38=039=G40=154=155=XBTCNY60=20151109-14:39:21.661150=I151=0912=N10=148
+20151109-15:38:33: Reject sent for Message 375: Value is incorrect (out of range) for this tag:39
+20151109-15:38:33: Rejecting invalid message: quickfix.IncorrectTagValue: Field [39] contains an incorrect tag value. field=39: 8=FIX.4.49=22435=834=37649=BTCC-PRO-EXCHANGE-SERVER52=20151109-15:38:33.52256=CLIENT-Thomas6=011=reqID129869909614=017=037=34ffc3614a98432b8074bc51cc4e982338=039=G40=154=155=XBTCNY60=20151109-14:39:21.489150=I151=0912=N10=139
+20151109-15:38:33: Reject sent for Message 376: Value is incorrect (out of range) for this tag:39
+20151109-15:38:33: Rejecting invalid message: quickfix.IncorrectTagValue: Field [39] contains an incorrect tag value. field=39: 8=FIX.4.49=22435=834=37749=BTCC-PRO-EXCHANGE-SERVER52=20151109-15:38:33.52256=CLIENT-Thomas6=011=reqID129869909614=017=037=be0158947b584ef49f846235f4e632d638=039=G40=154=155=XBTCNY60=20151109-14:39:21.317150=I151=0912=N10=104
+20151109-15:38:33: Reject sent for Message 377: Value is incorrect (out of range) for this tag:39
+20151109-15:39:29: Session FIX.4.4:CLIENT-Thomas->BTCC-PRO-EXCHANGE-SERVER schedule is daily, 00:00:00-UTC - 00:00:00-UTC
+20151109-15:39:29: Created session: FIX.4.4:CLIENT-Thomas->BTCC-PRO-EXCHANGE-SERVER
+20151109-15:39:30: Initiated logon request
+20151109-15:39:30: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20151109-15:39:30: Received logon
+20151109-15:39:31: Rejecting invalid message: quickfix.IncorrectTagValue: Field [39] contains an incorrect tag value. field=39: 8=FIX.4.49=22435=834=37449=BTCC-PRO-EXCHANGE-SERVER52=20151109-15:39:31.99556=CLIENT-Thomas6=011=reqID129869909614=017=037=9244526421944b3fba0500c2afb7dbf538=039=G40=154=155=XBTCNY60=20151109-14:39:21.755150=I151=0912=N10=175
+20151109-15:39:31: Reject sent for Message 374: Value is incorrect (out of range) for this tag:39
+20151109-15:39:31: Rejecting invalid message: quickfix.IncorrectTagValue: Field [39] contains an incorrect tag value. field=39: 8=FIX.4.49=22435=834=37549=BTCC-PRO-EXCHANGE-SERVER52=20151109-15:39:31.99556=CLIENT-Thomas6=011=reqID129869909614=017=037=df6e76c4cbb8452a8993619c4252347b38=039=G40=154=155=XBTCNY60=20151109-14:39:21.661150=I151=0912=N10=156
+20151109-15:39:31: Reject sent for Message 375: Value is incorrect (out of range) for this tag:39
+20151109-15:39:31: Rejecting invalid message: quickfix.IncorrectTagValue: Field [39] contains an incorrect tag value. field=39: 8=FIX.4.49=22435=834=37649=BTCC-PRO-EXCHANGE-SERVER52=20151109-15:39:31.99556=CLIENT-Thomas6=011=reqID129869909614=017=037=34ffc3614a98432b8074bc51cc4e982338=039=G40=154=155=XBTCNY60=20151109-14:39:21.489150=I151=0912=N10=152
+20151109-15:39:31: Reject sent for Message 376: Value is incorrect (out of range) for this tag:39
+20151109-15:39:31: Rejecting invalid message: quickfix.IncorrectTagValue: Field [39] contains an incorrect tag value. field=39: 8=FIX.4.49=22435=834=37749=BTCC-PRO-EXCHANGE-SERVER52=20151109-15:39:31.99556=CLIENT-Thomas6=011=reqID129869909614=017=037=be0158947b584ef49f846235f4e632d638=039=G40=154=155=XBTCNY60=20151109-14:39:21.317150=I151=0912=N10=117
+20151109-15:39:31: Reject sent for Message 377: Value is incorrect (out of range) for this tag:39
+20151109-15:41:59: Rejecting invalid message: quickfix.IncorrectTagValue: Field [39] contains an incorrect tag value. field=39: 8=FIX.4.49=22535=834=283549=BTCC-PRO-EXCHANGE-SERVER52=20151109-15:42:00.04456=CLIENT-Thomas6=011=reqID129869909614=017=037=9244526421944b3fba0500c2afb7dbf538=039=G40=154=155=XBTCNY60=20151109-14:39:21.755150=I151=0912=N10=203
+20151109-15:41:59: Reject sent for Message 2835: Value is incorrect (out of range) for this tag:39
+20151109-15:41:59: Rejecting invalid message: quickfix.IncorrectTagValue: Field [39] contains an incorrect tag value. field=39: 8=FIX.4.49=22535=834=283649=BTCC-PRO-EXCHANGE-SERVER52=20151109-15:42:00.04556=CLIENT-Thomas6=011=reqID129869909614=017=037=df6e76c4cbb8452a8993619c4252347b38=039=G40=154=155=XBTCNY60=20151109-14:39:21.661150=I151=0912=N10=185
+20151109-15:41:59: Reject sent for Message 2836: Value is incorrect (out of range) for this tag:39
+20151109-15:41:59: Rejecting invalid message: quickfix.IncorrectTagValue: Field [39] contains an incorrect tag value. field=39: 8=FIX.4.49=22535=834=283749=BTCC-PRO-EXCHANGE-SERVER52=20151109-15:42:00.04556=CLIENT-Thomas6=011=reqID129869909614=017=037=34ffc3614a98432b8074bc51cc4e982338=039=G40=154=155=XBTCNY60=20151109-14:39:21.489150=I151=0912=N10=181
+20151109-15:41:59: Reject sent for Message 2837: Value is incorrect (out of range) for this tag:39
+20151109-15:41:59: Rejecting invalid message: quickfix.IncorrectTagValue: Field [39] contains an incorrect tag value. field=39: 8=FIX.4.49=22535=834=283849=BTCC-PRO-EXCHANGE-SERVER52=20151109-15:42:00.04556=CLIENT-Thomas6=011=reqID129869909614=017=037=be0158947b584ef49f846235f4e632d638=039=G40=154=155=XBTCNY60=20151109-14:39:21.317150=I151=0912=N10=146
+20151109-15:41:59: Reject sent for Message 2838: Value is incorrect (out of range) for this tag:39
+20151109-15:42:28: Session FIX.4.4:CLIENT-Thomas->BTCC-PRO-EXCHANGE-SERVER schedule is daily, 00:00:00-UTC - 00:00:00-UTC
+20151109-15:42:28: Created session: FIX.4.4:CLIENT-Thomas->BTCC-PRO-EXCHANGE-SERVER
+20151109-15:42:29: Initiated logon request
+20151109-15:42:29: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20151109-15:42:29: Received logon
+20151109-15:42:31: Rejecting invalid message: quickfix.IncorrectTagValue: Field [39] contains an incorrect tag value. field=39: 8=FIX.4.49=22435=834=37449=BTCC-PRO-EXCHANGE-SERVER52=20151109-15:42:31.19656=CLIENT-Thomas6=011=reqID129869909614=017=037=9244526421944b3fba0500c2afb7dbf538=039=G40=154=155=XBTCNY60=20151109-14:39:21.755150=I151=0912=N10=162
+20151109-15:42:31: Reject sent for Message 374: Value is incorrect (out of range) for this tag:39
+20151109-15:42:31: Rejecting invalid message: quickfix.IncorrectTagValue: Field [39] contains an incorrect tag value. field=39: 8=FIX.4.49=22435=834=37549=BTCC-PRO-EXCHANGE-SERVER52=20151109-15:42:31.19656=CLIENT-Thomas6=011=reqID129869909614=017=037=df6e76c4cbb8452a8993619c4252347b38=039=G40=154=155=XBTCNY60=20151109-14:39:21.661150=I151=0912=N10=143
+20151109-15:42:31: Reject sent for Message 375: Value is incorrect (out of range) for this tag:39
+20151109-15:42:31: Rejecting invalid message: quickfix.IncorrectTagValue: Field [39] contains an incorrect tag value. field=39: 8=FIX.4.49=22435=834=37649=BTCC-PRO-EXCHANGE-SERVER52=20151109-15:42:31.19656=CLIENT-Thomas6=011=reqID129869909614=017=037=34ffc3614a98432b8074bc51cc4e982338=039=G40=154=155=XBTCNY60=20151109-14:39:21.489150=I151=0912=N10=139
+20151109-15:42:31: Reject sent for Message 376: Value is incorrect (out of range) for this tag:39
+20151109-15:42:31: Rejecting invalid message: quickfix.IncorrectTagValue: Field [39] contains an incorrect tag value. field=39: 8=FIX.4.49=22435=834=37749=BTCC-PRO-EXCHANGE-SERVER52=20151109-15:42:31.19656=CLIENT-Thomas6=011=reqID129869909614=017=037=be0158947b584ef49f846235f4e632d638=039=G40=154=155=XBTCNY60=20151109-14:39:21.317150=I151=0912=N10=104
+20151109-15:42:31: Reject sent for Message 377: Value is incorrect (out of range) for this tag:39
+20151109-15:42:41: Rejecting invalid message: quickfix.IncorrectTagValue: Field [39] contains an incorrect tag value. field=39: 8=FIX.4.49=22535=834=156949=BTCC-PRO-EXCHANGE-SERVER52=20151109-15:42:41.96556=CLIENT-Thomas6=011=reqID129869909614=017=037=9244526421944b3fba0500c2afb7dbf538=039=G40=154=155=XBTCNY60=20151109-14:39:21.755150=I151=0912=N10=223
+20151109-15:42:41: Reject sent for Message 1569: Value is incorrect (out of range) for this tag:39
+20151109-15:42:41: Rejecting invalid message: quickfix.IncorrectTagValue: Field [39] contains an incorrect tag value. field=39: 8=FIX.4.49=22535=834=157049=BTCC-PRO-EXCHANGE-SERVER52=20151109-15:42:41.96556=CLIENT-Thomas6=011=reqID129869909614=017=037=df6e76c4cbb8452a8993619c4252347b38=039=G40=154=155=XBTCNY60=20151109-14:39:21.661150=I151=0912=N10=195
+20151109-15:42:41: Reject sent for Message 1570: Value is incorrect (out of range) for this tag:39
+20151109-15:42:41: Rejecting invalid message: quickfix.IncorrectTagValue: Field [39] contains an incorrect tag value. field=39: 8=FIX.4.49=22535=834=157149=BTCC-PRO-EXCHANGE-SERVER52=20151109-15:42:41.96556=CLIENT-Thomas6=011=reqID129869909614=017=037=34ffc3614a98432b8074bc51cc4e982338=039=G40=154=155=XBTCNY60=20151109-14:39:21.489150=I151=0912=N10=191
+20151109-15:42:41: Reject sent for Message 1571: Value is incorrect (out of range) for this tag:39
+20151109-15:42:41: Rejecting invalid message: quickfix.IncorrectTagValue: Field [39] contains an incorrect tag value. field=39: 8=FIX.4.49=22535=834=157249=BTCC-PRO-EXCHANGE-SERVER52=20151109-15:42:41.96656=CLIENT-Thomas6=011=reqID129869909614=017=037=be0158947b584ef49f846235f4e632d638=039=G40=154=155=XBTCNY60=20151109-14:39:21.317150=I151=0912=N10=157
+20151109-15:42:41: Reject sent for Message 1572: Value is incorrect (out of range) for this tag:39
+20151109-15:43:11: Session FIX.4.4:CLIENT-Thomas->BTCC-PRO-EXCHANGE-SERVER schedule is daily, 00:00:00-UTC - 00:00:00-UTC
+20151109-15:43:11: Created session: FIX.4.4:CLIENT-Thomas->BTCC-PRO-EXCHANGE-SERVER
+20151109-15:43:13: Initiated logon request
+20151109-15:43:13: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20151109-15:43:13: Received logon
+20151109-15:43:15: Rejecting invalid message: quickfix.IncorrectTagValue: Field [39] contains an incorrect tag value. field=39: 8=FIX.4.49=22435=834=40449=BTCC-PRO-EXCHANGE-SERVER52=20151109-15:43:15.28656=CLIENT-Thomas6=011=reqID129869909614=017=037=9244526421944b3fba0500c2afb7dbf538=039=G40=154=155=XBTCNY60=20151109-14:39:21.755150=I151=0912=N10=159
+20151109-15:43:15: Reject sent for Message 404: Value is incorrect (out of range) for this tag:39
+20151109-15:43:15: Rejecting invalid message: quickfix.IncorrectTagValue: Field [39] contains an incorrect tag value. field=39: 8=FIX.4.49=22435=834=40549=BTCC-PRO-EXCHANGE-SERVER52=20151109-15:43:15.28656=CLIENT-Thomas6=011=reqID129869909614=017=037=df6e76c4cbb8452a8993619c4252347b38=039=G40=154=155=XBTCNY60=20151109-14:39:21.661150=I151=0912=N10=140
+20151109-15:43:15: Reject sent for Message 405: Value is incorrect (out of range) for this tag:39
+20151109-15:43:15: Rejecting invalid message: quickfix.IncorrectTagValue: Field [39] contains an incorrect tag value. field=39: 8=FIX.4.49=22435=834=40649=BTCC-PRO-EXCHANGE-SERVER52=20151109-15:43:15.28656=CLIENT-Thomas6=011=reqID129869909614=017=037=34ffc3614a98432b8074bc51cc4e982338=039=G40=154=155=XBTCNY60=20151109-14:39:21.489150=I151=0912=N10=136
+20151109-15:43:15: Reject sent for Message 406: Value is incorrect (out of range) for this tag:39
+20151109-15:43:15: Rejecting invalid message: quickfix.IncorrectTagValue: Field [39] contains an incorrect tag value. field=39: 8=FIX.4.49=22435=834=40749=BTCC-PRO-EXCHANGE-SERVER52=20151109-15:43:15.28656=CLIENT-Thomas6=011=reqID129869909614=017=037=be0158947b584ef49f846235f4e632d638=039=G40=154=155=XBTCNY60=20151109-14:39:21.317150=I151=0912=N10=101
+20151109-15:43:15: Reject sent for Message 407: Value is incorrect (out of range) for this tag:39
+20151109-15:43:16: Rejecting invalid message: quickfix.IncorrectTagValue: Field [39] contains an incorrect tag value. field=39: 8=FIX.4.49=22535=834=151349=BTCC-PRO-EXCHANGE-SERVER52=20151109-15:43:15.54556=CLIENT-Thomas6=011=reqID129869909614=017=037=9244526421944b3fba0500c2afb7dbf538=039=G40=154=155=XBTCNY60=20151109-14:39:21.755150=I151=0912=N10=208
+20151109-15:43:16: Reject sent for Message 1513: Value is incorrect (out of range) for this tag:39
+20151109-15:43:16: Rejecting invalid message: quickfix.IncorrectTagValue: Field [39] contains an incorrect tag value. field=39: 8=FIX.4.49=22535=834=151449=BTCC-PRO-EXCHANGE-SERVER52=20151109-15:43:15.54556=CLIENT-Thomas6=011=reqID129869909614=017=037=df6e76c4cbb8452a8993619c4252347b38=039=G40=154=155=XBTCNY60=20151109-14:39:21.661150=I151=0912=N10=189
+20151109-15:43:16: Reject sent for Message 1514: Value is incorrect (out of range) for this tag:39
+20151109-15:43:16: Rejecting invalid message: quickfix.IncorrectTagValue: Field [39] contains an incorrect tag value. field=39: 8=FIX.4.49=22535=834=151549=BTCC-PRO-EXCHANGE-SERVER52=20151109-15:43:15.54556=CLIENT-Thomas6=011=reqID129869909614=017=037=34ffc3614a98432b8074bc51cc4e982338=039=G40=154=155=XBTCNY60=20151109-14:39:21.489150=I151=0912=N10=185
+20151109-15:43:16: Reject sent for Message 1515: Value is incorrect (out of range) for this tag:39
+20151109-15:43:16: Rejecting invalid message: quickfix.IncorrectTagValue: Field [39] contains an incorrect tag value. field=39: 8=FIX.4.49=22535=834=151649=BTCC-PRO-EXCHANGE-SERVER52=20151109-15:43:15.54556=CLIENT-Thomas6=011=reqID129869909614=017=037=be0158947b584ef49f846235f4e632d638=039=G40=154=155=XBTCNY60=20151109-14:39:21.317150=I151=0912=N10=150
+20151109-15:43:16: Reject sent for Message 1516: Value is incorrect (out of range) for this tag:39
+20151109-15:43:21: Rejecting invalid message: quickfix.IncorrectTagValue: Field [39] contains an incorrect tag value. field=39: 8=FIX.4.49=22535=834=248149=BTCC-PRO-EXCHANGE-SERVER52=20151109-15:43:21.99656=CLIENT-Thomas6=011=reqID129869909614=017=037=9244526421944b3fba0500c2afb7dbf538=039=G40=154=155=XBTCNY60=20151109-14:39:21.755150=I151=0912=N10=220
+20151109-15:43:21: Reject sent for Message 2481: Value is incorrect (out of range) for this tag:39
+20151109-15:43:21: Rejecting invalid message: quickfix.IncorrectTagValue: Field [39] contains an incorrect tag value. field=39: 8=FIX.4.49=22535=834=248249=BTCC-PRO-EXCHANGE-SERVER52=20151109-15:43:21.99756=CLIENT-Thomas6=011=reqID129869909614=017=037=df6e76c4cbb8452a8993619c4252347b38=039=G40=154=155=XBTCNY60=20151109-14:39:21.661150=I151=0912=N10=202
+20151109-15:43:21: Reject sent for Message 2482: Value is incorrect (out of range) for this tag:39
+20151109-15:43:21: Rejecting invalid message: quickfix.IncorrectTagValue: Field [39] contains an incorrect tag value. field=39: 8=FIX.4.49=22535=834=248349=BTCC-PRO-EXCHANGE-SERVER52=20151109-15:43:21.99756=CLIENT-Thomas6=011=reqID129869909614=017=037=34ffc3614a98432b8074bc51cc4e982338=039=G40=154=155=XBTCNY60=20151109-14:39:21.489150=I151=0912=N10=198
+20151109-15:43:21: Reject sent for Message 2483: Value is incorrect (out of range) for this tag:39
+20151109-15:43:21: Rejecting invalid message: quickfix.IncorrectTagValue: Field [39] contains an incorrect tag value. field=39: 8=FIX.4.49=22535=834=248449=BTCC-PRO-EXCHANGE-SERVER52=20151109-15:43:21.99756=CLIENT-Thomas6=011=reqID129869909614=017=037=be0158947b584ef49f846235f4e632d638=039=G40=154=155=XBTCNY60=20151109-14:39:21.317150=I151=0912=N10=163
+20151109-15:43:21: Reject sent for Message 2484: Value is incorrect (out of range) for this tag:39
+20151109-15:43:25: Rejecting invalid message: quickfix.IncorrectTagValue: Field [39] contains an incorrect tag value. field=39: 8=FIX.4.49=22535=834=335649=BTCC-PRO-EXCHANGE-SERVER52=20151109-15:43:25.76956=CLIENT-Thomas6=011=reqID129869909614=017=037=9244526421944b3fba0500c2afb7dbf538=039=G40=154=155=XBTCNY60=20151109-14:39:21.755150=I151=0912=N10=224
+20151109-15:43:25: Reject sent for Message 3356: Value is incorrect (out of range) for this tag:39
+20151109-15:43:25: Rejecting invalid message: quickfix.IncorrectTagValue: Field [39] contains an incorrect tag value. field=39: 8=FIX.4.49=22535=834=335749=BTCC-PRO-EXCHANGE-SERVER52=20151109-15:43:25.77056=CLIENT-Thomas6=011=reqID129869909614=017=037=df6e76c4cbb8452a8993619c4252347b38=039=G40=154=155=XBTCNY60=20151109-14:39:21.661150=I151=0912=N10=197
+20151109-15:43:25: Reject sent for Message 3357: Value is incorrect (out of range) for this tag:39
+20151109-15:43:25: Rejecting invalid message: quickfix.IncorrectTagValue: Field [39] contains an incorrect tag value. field=39: 8=FIX.4.49=22535=834=335849=BTCC-PRO-EXCHANGE-SERVER52=20151109-15:43:25.77056=CLIENT-Thomas6=011=reqID129869909614=017=037=34ffc3614a98432b8074bc51cc4e982338=039=G40=154=155=XBTCNY60=20151109-14:39:21.489150=I151=0912=N10=193
+20151109-15:43:25: Reject sent for Message 3358: Value is incorrect (out of range) for this tag:39
+20151109-15:43:25: Rejecting invalid message: quickfix.IncorrectTagValue: Field [39] contains an incorrect tag value. field=39: 8=FIX.4.49=22535=834=335949=BTCC-PRO-EXCHANGE-SERVER52=20151109-15:43:25.77056=CLIENT-Thomas6=011=reqID129869909614=017=037=be0158947b584ef49f846235f4e632d638=039=G40=154=155=XBTCNY60=20151109-14:39:21.317150=I151=0912=N10=158
+20151109-15:43:25: Reject sent for Message 3359: Value is incorrect (out of range) for this tag:39
+20151109-15:43:31: Rejecting invalid message: quickfix.IncorrectTagValue: Field [39] contains an incorrect tag value. field=39: 8=FIX.4.49=22535=834=528149=BTCC-PRO-EXCHANGE-SERVER52=20151109-15:43:31.76256=CLIENT-Thomas6=011=reqID129869909614=017=037=9244526421944b3fba0500c2afb7dbf538=039=G40=154=155=XBTCNY60=20151109-14:39:21.755150=I151=0912=N10=213
+20151109-15:43:31: Reject sent for Message 5281: Value is incorrect (out of range) for this tag:39
+20151109-15:43:31: Rejecting invalid message: quickfix.IncorrectTagValue: Field [39] contains an incorrect tag value. field=39: 8=FIX.4.49=22535=834=528249=BTCC-PRO-EXCHANGE-SERVER52=20151109-15:43:31.76256=CLIENT-Thomas6=011=reqID129869909614=017=037=df6e76c4cbb8452a8993619c4252347b38=039=G40=154=155=XBTCNY60=20151109-14:39:21.661150=I151=0912=N10=194
+20151109-15:43:31: Reject sent for Message 5282: Value is incorrect (out of range) for this tag:39
+20151109-15:43:31: Rejecting invalid message: quickfix.IncorrectTagValue: Field [39] contains an incorrect tag value. field=39: 8=FIX.4.49=22535=834=528349=BTCC-PRO-EXCHANGE-SERVER52=20151109-15:43:31.76356=CLIENT-Thomas6=011=reqID129869909614=017=037=34ffc3614a98432b8074bc51cc4e982338=039=G40=154=155=XBTCNY60=20151109-14:39:21.489150=I151=0912=N10=191
+20151109-15:43:31: Reject sent for Message 5283: Value is incorrect (out of range) for this tag:39
+20151109-15:43:31: Rejecting invalid message: quickfix.IncorrectTagValue: Field [39] contains an incorrect tag value. field=39: 8=FIX.4.49=22535=834=528449=BTCC-PRO-EXCHANGE-SERVER52=20151109-15:43:31.76356=CLIENT-Thomas6=011=reqID129869909614=017=037=be0158947b584ef49f846235f4e632d638=039=G40=154=155=XBTCNY60=20151109-14:39:21.317150=I151=0912=N10=156
+20151109-15:43:31: Reject sent for Message 5284: Value is incorrect (out of range) for this tag:39
+20151109-15:43:32: Rejecting invalid message: quickfix.IncorrectTagValue: Field [39] contains an incorrect tag value. field=39: 8=FIX.4.49=22535=834=629849=BTCC-PRO-EXCHANGE-SERVER52=20151109-15:43:32.58756=CLIENT-Thomas6=011=reqID129869909614=017=037=9244526421944b3fba0500c2afb7dbf538=039=G40=154=155=XBTCNY60=20151109-14:39:21.755150=I151=0912=N10=228
+20151109-15:43:32: Reject sent for Message 6298: Value is incorrect (out of range) for this tag:39
+20151109-15:43:32: Rejecting invalid message: quickfix.IncorrectTagValue: Field [39] contains an incorrect tag value. field=39: 8=FIX.4.49=22535=834=629949=BTCC-PRO-EXCHANGE-SERVER52=20151109-15:43:32.58756=CLIENT-Thomas6=011=reqID129869909614=017=037=df6e76c4cbb8452a8993619c4252347b38=039=G40=154=155=XBTCNY60=20151109-14:39:21.661150=I151=0912=N10=209
+20151109-15:43:32: Reject sent for Message 6299: Value is incorrect (out of range) for this tag:39
+20151109-15:43:32: Rejecting invalid message: quickfix.IncorrectTagValue: Field [39] contains an incorrect tag value. field=39: 8=FIX.4.49=22535=834=630049=BTCC-PRO-EXCHANGE-SERVER52=20151109-15:43:32.58756=CLIENT-Thomas6=011=reqID129869909614=017=037=34ffc3614a98432b8074bc51cc4e982338=039=G40=154=155=XBTCNY60=20151109-14:39:21.489150=I151=0912=N10=187
+20151109-15:43:32: Reject sent for Message 6300: Value is incorrect (out of range) for this tag:39
+20151109-15:43:32: Rejecting invalid message: quickfix.IncorrectTagValue: Field [39] contains an incorrect tag value. field=39: 8=FIX.4.49=22535=834=630149=BTCC-PRO-EXCHANGE-SERVER52=20151109-15:43:32.58856=CLIENT-Thomas6=011=reqID129869909614=017=037=be0158947b584ef49f846235f4e632d638=039=G40=154=155=XBTCNY60=20151109-14:39:21.317150=I151=0912=N10=153
+20151109-15:43:32: Reject sent for Message 6301: Value is incorrect (out of range) for this tag:39
+20151109-15:43:33: Rejecting invalid message: quickfix.IncorrectTagValue: Field [39] contains an incorrect tag value. field=39: 8=FIX.4.49=22535=834=727849=BTCC-PRO-EXCHANGE-SERVER52=20151109-15:43:34.06756=CLIENT-Thomas6=011=reqID129869909614=017=037=9244526421944b3fba0500c2afb7dbf538=039=G40=154=155=XBTCNY60=20151109-14:39:21.755150=I151=0912=N10=222
+20151109-15:43:33: Reject sent for Message 7278: Value is incorrect (out of range) for this tag:39
+20151109-15:43:33: Rejecting invalid message: quickfix.IncorrectTagValue: Field [39] contains an incorrect tag value. field=39: 8=FIX.4.49=22535=834=727949=BTCC-PRO-EXCHANGE-SERVER52=20151109-15:43:34.06756=CLIENT-Thomas6=011=reqID129869909614=017=037=df6e76c4cbb8452a8993619c4252347b38=039=G40=154=155=XBTCNY60=20151109-14:39:21.661150=I151=0912=N10=203
+20151109-15:43:33: Reject sent for Message 7279: Value is incorrect (out of range) for this tag:39
+20151109-15:43:33: Rejecting invalid message: quickfix.IncorrectTagValue: Field [39] contains an incorrect tag value. field=39: 8=FIX.4.49=22535=834=728049=BTCC-PRO-EXCHANGE-SERVER52=20151109-15:43:34.06856=CLIENT-Thomas6=011=reqID129869909614=017=037=34ffc3614a98432b8074bc51cc4e982338=039=G40=154=155=XBTCNY60=20151109-14:39:21.489150=I151=0912=N10=191
+20151109-15:43:33: Reject sent for Message 7280: Value is incorrect (out of range) for this tag:39
+20151109-15:43:33: Rejecting invalid message: quickfix.IncorrectTagValue: Field [39] contains an incorrect tag value. field=39: 8=FIX.4.49=22535=834=728149=BTCC-PRO-EXCHANGE-SERVER52=20151109-15:43:34.06856=CLIENT-Thomas6=011=reqID129869909614=017=037=be0158947b584ef49f846235f4e632d638=039=G40=154=155=XBTCNY60=20151109-14:39:21.317150=I151=0912=N10=156
+20151109-15:43:33: Reject sent for Message 7281: Value is incorrect (out of range) for this tag:39
+20151109-15:44:23: Session FIX.4.4:CLIENT-Thomas->BTCC-PRO-EXCHANGE-SERVER schedule is daily, 00:00:00-UTC - 00:00:00-UTC
+20151109-15:44:23: Created session: FIX.4.4:CLIENT-Thomas->BTCC-PRO-EXCHANGE-SERVER
+20151109-15:44:24: Initiated logon request
+20151109-15:44:24: Disconnecting: Socket exception (/172.20.13.222:9880): java.io.IOException: Connection reset by peer
+20151109-15:44:37: Session FIX.4.4:CLIENT-Thomas->BTCC-PRO-EXCHANGE-SERVER schedule is daily, 00:00:00-UTC - 00:00:00-UTC
+20151109-15:44:37: Created session: FIX.4.4:CLIENT-Thomas->BTCC-PRO-EXCHANGE-SERVER
+20151109-15:44:38: Initiated logon request
+20151109-15:44:38: Disconnecting: Socket exception (/172.20.13.222:9880): java.io.IOException: Connection reset by peer
+20151109-15:45:46: Session FIX.4.4:CLIENT-Thomas->BTCC-PRO-EXCHANGE-SERVER schedule is daily, 00:00:00-UTC - 00:00:00-UTC
+20151109-15:45:46: Created session: FIX.4.4:CLIENT-Thomas->BTCC-PRO-EXCHANGE-SERVER
+20151109-15:45:47: Initiated logon request
+20151109-15:45:48: Disconnecting: Socket exception (/172.20.13.222:9880): java.io.IOException: Connection reset by peer
+20151109-15:45:52: Initiated logon request
+20151109-15:45:53: Disconnecting: Socket exception (/172.20.13.222:9880): java.io.IOException: Connection reset by peer
+20151109-15:45:57: Initiated logon request
+20151109-15:45:58: Disconnecting: Socket exception (/172.20.13.222:9880): java.io.IOException: Connection reset by peer
+20151109-15:46:17: Session FIX.4.4:CLIENT-Thomas->BTCC-PRO-EXCHANGE-SERVER schedule is daily, 00:00:00-UTC - 00:00:00-UTC
+20151109-15:46:17: Created session: FIX.4.4:CLIENT-Thomas->BTCC-PRO-EXCHANGE-SERVER
+20151109-15:46:18: Initiated logon request
+20151109-15:46:18: Disconnecting: Socket exception (/172.20.13.222:9880): java.io.IOException: Connection reset by peer
+20151109-15:46:28: Session FIX.4.4:CLIENT-Thomas->BTCC-PRO-EXCHANGE-SERVER schedule is daily, 00:00:00-UTC - 00:00:00-UTC
+20151109-15:46:28: Created session: FIX.4.4:CLIENT-Thomas->BTCC-PRO-EXCHANGE-SERVER
+20151109-15:46:29: Initiated logon request
+20151109-15:46:29: Disconnecting: Socket exception (/172.20.13.222:9880): java.io.IOException: Connection reset by peer
+20151109-15:46:34: Initiated logon request
+20151109-15:46:34: Disconnecting: Socket exception (/172.20.13.222:9880): java.io.IOException: Connection reset by peer
+20151109-15:46:57: Session FIX.4.4:CLIENT-Thomas->BTCC-PRO-EXCHANGE-SERVER schedule is daily, 00:00:00-UTC - 00:00:00-UTC
+20151109-15:46:57: Created session: FIX.4.4:CLIENT-Thomas->BTCC-PRO-EXCHANGE-SERVER
+20151109-15:46:58: Initiated logon request
+20151109-15:46:58: Disconnecting: Socket exception (/172.20.13.222:9880): java.io.IOException: Connection reset by peer
+20151109-15:47:03: Initiated logon request
+20151109-15:47:03: Disconnecting: Socket exception (/172.20.13.222:9880): java.io.IOException: Connection reset by peer
+20151109-15:47:08: Initiated logon request
+20151109-15:47:08: Disconnecting: Socket exception (/172.20.13.222:9880): java.io.IOException: Connection reset by peer
+20151109-15:47:15: Session FIX.4.4:CLIENT-Thomas->BTCC-PRO-EXCHANGE-SERVER schedule is daily, 00:00:00-UTC - 00:00:00-UTC
+20151109-15:47:15: Created session: FIX.4.4:CLIENT-Thomas->BTCC-PRO-EXCHANGE-SERVER
+20151109-15:47:17: Initiated logon request
+20151109-15:47:17: Disconnecting: Socket exception (/172.20.13.222:9880): java.io.IOException: Connection reset by peer
+20151109-15:47:22: Initiated logon request
+20151109-15:47:22: Disconnecting: Socket exception (/172.20.13.222:9880): java.io.IOException: Connection reset by peer
+20151109-15:47:27: Initiated logon request

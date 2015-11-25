@@ -1,0 +1,362 @@
+20151109-15:47:54: Session FIX.4.4:CLIENT-ThomasToday->BTCC-PRO-EXCHANGE-SERVER schedule is daily, 00:00:00-UTC - 00:00:00-UTC
+20151109-15:47:54: Created session: FIX.4.4:CLIENT-ThomasToday->BTCC-PRO-EXCHANGE-SERVER
+20151109-15:47:55: Initiated logon request
+20151109-15:47:55: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20151109-15:47:55: Received logon
+20151109-15:47:57: Rejecting invalid message: quickfix.IncorrectTagValue: Field [39] contains an incorrect tag value. field=39: 8=FIX.4.49=22935=834=77649=BTCC-PRO-EXCHANGE-SERVER52=20151109-15:47:57.48456=CLIENT-ThomasToday6=011=reqID129869909614=017=037=9244526421944b3fba0500c2afb7dbf538=039=G40=154=155=XBTCNY60=20151109-14:39:21.755150=I151=0912=N10=187
+20151109-15:47:57: Reject sent for Message 776: Value is incorrect (out of range) for this tag:39
+20151109-15:47:57: Rejecting invalid message: quickfix.IncorrectTagValue: Field [39] contains an incorrect tag value. field=39: 8=FIX.4.49=22935=834=77749=BTCC-PRO-EXCHANGE-SERVER52=20151109-15:47:57.48556=CLIENT-ThomasToday6=011=reqID129869909614=017=037=df6e76c4cbb8452a8993619c4252347b38=039=G40=154=155=XBTCNY60=20151109-14:39:21.661150=I151=0912=N10=169
+20151109-15:47:57: Reject sent for Message 777: Value is incorrect (out of range) for this tag:39
+20151109-15:47:57: Rejecting invalid message: quickfix.IncorrectTagValue: Field [39] contains an incorrect tag value. field=39: 8=FIX.4.49=22935=834=77849=BTCC-PRO-EXCHANGE-SERVER52=20151109-15:47:57.48556=CLIENT-ThomasToday6=011=reqID129869909614=017=037=34ffc3614a98432b8074bc51cc4e982338=039=G40=154=155=XBTCNY60=20151109-14:39:21.489150=I151=0912=N10=165
+20151109-15:47:57: Reject sent for Message 778: Value is incorrect (out of range) for this tag:39
+20151109-15:47:57: Rejecting invalid message: quickfix.IncorrectTagValue: Field [39] contains an incorrect tag value. field=39: 8=FIX.4.49=22935=834=77949=BTCC-PRO-EXCHANGE-SERVER52=20151109-15:47:57.48556=CLIENT-ThomasToday6=011=reqID129869909614=017=037=be0158947b584ef49f846235f4e632d638=039=G40=154=155=XBTCNY60=20151109-14:39:21.317150=I151=0912=N10=130
+20151109-15:47:57: Reject sent for Message 779: Value is incorrect (out of range) for this tag:39
+20151109-15:50:11: Session FIX.4.4:CLIENT-ThomasToday->BTCC-PRO-EXCHANGE-SERVER schedule is daily, 00:00:00-UTC - 00:00:00-UTC
+20151109-15:50:11: Created session: FIX.4.4:CLIENT-ThomasToday->BTCC-PRO-EXCHANGE-SERVER
+20151109-15:50:12: Initiated logon request
+20151109-15:50:12: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20151109-15:50:12: Received logon
+20151109-15:50:16: Rejecting invalid message: quickfix.IncorrectTagValue: Field [39] contains an incorrect tag value. field=39: 8=FIX.4.49=22935=834=81049=BTCC-PRO-EXCHANGE-SERVER52=20151109-15:50:17.58956=CLIENT-ThomasToday6=011=reqID129869909614=017=037=9244526421944b3fba0500c2afb7dbf538=039=G40=154=155=XBTCNY60=20151109-14:39:21.755150=I151=0912=N10=172
+20151109-15:50:16: Reject sent for Message 810: Value is incorrect (out of range) for this tag:39
+20151109-15:50:16: Rejecting invalid message: quickfix.IncorrectTagValue: Field [39] contains an incorrect tag value. field=39: 8=FIX.4.49=22935=834=81149=BTCC-PRO-EXCHANGE-SERVER52=20151109-15:50:17.59056=CLIENT-ThomasToday6=011=reqID129869909614=017=037=df6e76c4cbb8452a8993619c4252347b38=039=G40=154=155=XBTCNY60=20151109-14:39:21.661150=I151=0912=N10=145
+20151109-15:50:16: Reject sent for Message 811: Value is incorrect (out of range) for this tag:39
+20151109-15:50:16: Rejecting invalid message: quickfix.IncorrectTagValue: Field [39] contains an incorrect tag value. field=39: 8=FIX.4.49=22935=834=81249=BTCC-PRO-EXCHANGE-SERVER52=20151109-15:50:17.59156=CLIENT-ThomasToday6=011=reqID129869909614=017=037=34ffc3614a98432b8074bc51cc4e982338=039=G40=154=155=XBTCNY60=20151109-14:39:21.489150=I151=0912=N10=142
+20151109-15:50:16: Reject sent for Message 812: Value is incorrect (out of range) for this tag:39
+20151109-15:50:16: Rejecting invalid message: quickfix.IncorrectTagValue: Field [39] contains an incorrect tag value. field=39: 8=FIX.4.49=22935=834=81349=BTCC-PRO-EXCHANGE-SERVER52=20151109-15:50:17.59156=CLIENT-ThomasToday6=011=reqID129869909614=017=037=be0158947b584ef49f846235f4e632d638=039=G40=154=155=XBTCNY60=20151109-14:39:21.317150=I151=0912=N10=107
+20151109-15:50:16: Reject sent for Message 813: Value is incorrect (out of range) for this tag:39
+20151109-15:50:19: Rejecting invalid message: quickfix.IncorrectTagValue: Field [39] contains an incorrect tag value. field=39: 8=FIX.4.49=23035=834=198749=BTCC-PRO-EXCHANGE-SERVER52=20151109-15:50:20.26256=CLIENT-ThomasToday6=011=reqID129869909614=017=037=9244526421944b3fba0500c2afb7dbf538=039=G40=154=155=XBTCNY60=20151109-14:39:21.755150=I151=0912=N10=210
+20151109-15:50:19: Reject sent for Message 1987: Value is incorrect (out of range) for this tag:39
+20151109-15:50:19: Rejecting invalid message: quickfix.IncorrectTagValue: Field [39] contains an incorrect tag value. field=39: 8=FIX.4.49=23035=834=198849=BTCC-PRO-EXCHANGE-SERVER52=20151109-15:50:20.26256=CLIENT-ThomasToday6=011=reqID129869909614=017=037=df6e76c4cbb8452a8993619c4252347b38=039=G40=154=155=XBTCNY60=20151109-14:39:21.661150=I151=0912=N10=191
+20151109-15:50:19: Reject sent for Message 1988: Value is incorrect (out of range) for this tag:39
+20151109-15:50:19: Rejecting invalid message: quickfix.IncorrectTagValue: Field [39] contains an incorrect tag value. field=39: 8=FIX.4.49=23035=834=198949=BTCC-PRO-EXCHANGE-SERVER52=20151109-15:50:20.27656=CLIENT-ThomasToday6=011=reqID129869909614=017=037=34ffc3614a98432b8074bc51cc4e982338=039=G40=154=155=XBTCNY60=20151109-14:39:21.489150=I151=0912=N10=192
+20151109-15:50:19: Reject sent for Message 1989: Value is incorrect (out of range) for this tag:39
+20151109-15:50:19: Rejecting invalid message: quickfix.IncorrectTagValue: Field [39] contains an incorrect tag value. field=39: 8=FIX.4.49=23035=834=199049=BTCC-PRO-EXCHANGE-SERVER52=20151109-15:50:20.27756=CLIENT-ThomasToday6=011=reqID129869909614=017=037=be0158947b584ef49f846235f4e632d638=039=G40=154=155=XBTCNY60=20151109-14:39:21.317150=I151=0912=N10=149
+20151109-15:50:19: Reject sent for Message 1990: Value is incorrect (out of range) for this tag:39
+20151109-15:56:24: Session FIX.4.4:CLIENT-ThomasToday->BTCC-PRO-EXCHANGE-SERVER schedule is daily, 00:00:00-UTC - 00:00:00-UTC
+20151109-15:56:24: Created session: FIX.4.4:CLIENT-ThomasToday->BTCC-PRO-EXCHANGE-SERVER
+20151109-15:56:25: Initiated logon request
+20151109-15:56:25: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20151109-15:56:25: Received logon
+20151109-15:56:29: Rejecting invalid message: quickfix.IncorrectTagValue: Field [39] contains an incorrect tag value. field=39: 8=FIX.4.49=22935=834=98449=BTCC-PRO-EXCHANGE-SERVER52=20151109-15:56:28.81656=CLIENT-ThomasToday6=011=reqID129869909614=017=037=9244526421944b3fba0500c2afb7dbf538=039=G40=154=155=XBTCNY60=20151109-14:39:21.755150=I151=0912=N10=185
+20151109-15:56:29: Reject sent for Message 984: Value is incorrect (out of range) for this tag:39
+20151109-15:56:29: Rejecting invalid message: quickfix.IncorrectTagValue: Field [39] contains an incorrect tag value. field=39: 8=FIX.4.49=22935=834=98549=BTCC-PRO-EXCHANGE-SERVER52=20151109-15:56:28.81756=CLIENT-ThomasToday6=011=reqID129869909614=017=037=df6e76c4cbb8452a8993619c4252347b38=039=G40=154=155=XBTCNY60=20151109-14:39:21.661150=I151=0912=N10=167
+20151109-15:56:29: Reject sent for Message 985: Value is incorrect (out of range) for this tag:39
+20151109-15:56:29: Rejecting invalid message: quickfix.IncorrectTagValue: Field [39] contains an incorrect tag value. field=39: 8=FIX.4.49=22935=834=98649=BTCC-PRO-EXCHANGE-SERVER52=20151109-15:56:28.81756=CLIENT-ThomasToday6=011=reqID129869909614=017=037=34ffc3614a98432b8074bc51cc4e982338=039=G40=154=155=XBTCNY60=20151109-14:39:21.489150=I151=0912=N10=163
+20151109-15:56:29: Reject sent for Message 986: Value is incorrect (out of range) for this tag:39
+20151109-15:56:29: Rejecting invalid message: quickfix.IncorrectTagValue: Field [39] contains an incorrect tag value. field=39: 8=FIX.4.49=22935=834=98749=BTCC-PRO-EXCHANGE-SERVER52=20151109-15:56:28.81756=CLIENT-ThomasToday6=011=reqID129869909614=017=037=be0158947b584ef49f846235f4e632d638=039=G40=154=155=XBTCNY60=20151109-14:39:21.317150=I151=0912=N10=128
+20151109-15:56:29: Reject sent for Message 987: Value is incorrect (out of range) for this tag:39
+20151109-15:56:31: Rejecting invalid message: quickfix.IncorrectTagValue: Field [39] contains an incorrect tag value. field=39: 8=FIX.4.49=23035=834=278649=BTCC-PRO-EXCHANGE-SERVER52=20151109-15:56:31.23656=CLIENT-ThomasToday6=011=reqID129869909614=017=037=9244526421944b3fba0500c2afb7dbf538=039=G40=154=155=XBTCNY60=20151109-14:39:21.755150=I151=0912=N10=217
+20151109-15:56:31: Reject sent for Message 2786: Value is incorrect (out of range) for this tag:39
+20151109-15:56:31: Rejecting invalid message: quickfix.IncorrectTagValue: Field [39] contains an incorrect tag value. field=39: 8=FIX.4.49=23035=834=278749=BTCC-PRO-EXCHANGE-SERVER52=20151109-15:56:31.23656=CLIENT-ThomasToday6=011=reqID129869909614=017=037=df6e76c4cbb8452a8993619c4252347b38=039=G40=154=155=XBTCNY60=20151109-14:39:21.661150=I151=0912=N10=198
+20151109-15:56:31: Reject sent for Message 2787: Value is incorrect (out of range) for this tag:39
+20151109-15:56:31: Rejecting invalid message: quickfix.IncorrectTagValue: Field [39] contains an incorrect tag value. field=39: 8=FIX.4.49=23035=834=278849=BTCC-PRO-EXCHANGE-SERVER52=20151109-15:56:31.23656=CLIENT-ThomasToday6=011=reqID129869909614=017=037=34ffc3614a98432b8074bc51cc4e982338=039=G40=154=155=XBTCNY60=20151109-14:39:21.489150=I151=0912=N10=194
+20151109-15:56:31: Reject sent for Message 2788: Value is incorrect (out of range) for this tag:39
+20151109-15:56:31: Rejecting invalid message: quickfix.IncorrectTagValue: Field [39] contains an incorrect tag value. field=39: 8=FIX.4.49=23035=834=278949=BTCC-PRO-EXCHANGE-SERVER52=20151109-15:56:31.23656=CLIENT-ThomasToday6=011=reqID129869909614=017=037=be0158947b584ef49f846235f4e632d638=039=G40=154=155=XBTCNY60=20151109-14:39:21.317150=I151=0912=N10=159
+20151109-15:56:31: Reject sent for Message 2789: Value is incorrect (out of range) for this tag:39
+20151109-15:56:45: Session FIX.4.4:CLIENT-ThomasToday->BTCC-PRO-EXCHANGE-SERVER schedule is daily, 00:00:00-UTC - 00:00:00-UTC
+20151109-15:56:45: Created session: FIX.4.4:CLIENT-ThomasToday->BTCC-PRO-EXCHANGE-SERVER
+20151109-15:56:46: Initiated logon request
+20151109-15:56:46: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20151109-15:56:46: Received logon
+20151109-15:56:48: Rejecting invalid message: quickfix.IncorrectTagValue: Field [39] contains an incorrect tag value. field=39: 8=FIX.4.49=23035=834=100249=BTCC-PRO-EXCHANGE-SERVER52=20151109-15:56:48.87756=CLIENT-ThomasToday6=011=reqID129869909614=017=037=9244526421944b3fba0500c2afb7dbf538=039=G40=154=155=XBTCNY60=20151109-14:39:21.755150=I151=0912=N10=216
+20151109-15:56:48: Reject sent for Message 1002: Value is incorrect (out of range) for this tag:39
+20151109-15:56:48: Rejecting invalid message: quickfix.IncorrectTagValue: Field [39] contains an incorrect tag value. field=39: 8=FIX.4.49=23035=834=100349=BTCC-PRO-EXCHANGE-SERVER52=20151109-15:56:48.87756=CLIENT-ThomasToday6=011=reqID129869909614=017=037=df6e76c4cbb8452a8993619c4252347b38=039=G40=154=155=XBTCNY60=20151109-14:39:21.661150=I151=0912=N10=197
+20151109-15:56:48: Reject sent for Message 1003: Value is incorrect (out of range) for this tag:39
+20151109-15:56:48: Rejecting invalid message: quickfix.IncorrectTagValue: Field [39] contains an incorrect tag value. field=39: 8=FIX.4.49=23035=834=100449=BTCC-PRO-EXCHANGE-SERVER52=20151109-15:56:48.87756=CLIENT-ThomasToday6=011=reqID129869909614=017=037=34ffc3614a98432b8074bc51cc4e982338=039=G40=154=155=XBTCNY60=20151109-14:39:21.489150=I151=0912=N10=193
+20151109-15:56:48: Reject sent for Message 1004: Value is incorrect (out of range) for this tag:39
+20151109-15:56:48: Rejecting invalid message: quickfix.IncorrectTagValue: Field [39] contains an incorrect tag value. field=39: 8=FIX.4.49=23035=834=100549=BTCC-PRO-EXCHANGE-SERVER52=20151109-15:56:48.87756=CLIENT-ThomasToday6=011=reqID129869909614=017=037=be0158947b584ef49f846235f4e632d638=039=G40=154=155=XBTCNY60=20151109-14:39:21.317150=I151=0912=N10=158
+20151109-15:56:48: Reject sent for Message 1005: Value is incorrect (out of range) for this tag:39
+20151109-15:58:04: Session FIX.4.4:CLIENT-ThomasToday->BTCC-PRO-EXCHANGE-SERVER schedule is daily, 00:00:00-UTC - 00:00:00-UTC
+20151109-15:58:04: Created session: FIX.4.4:CLIENT-ThomasToday->BTCC-PRO-EXCHANGE-SERVER
+20151109-15:58:05: Initiated logon request
+20151109-15:58:05: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20151109-15:58:05: Received logon
+20151109-15:58:08: Rejecting invalid message: quickfix.IncorrectTagValue: Field [39] contains an incorrect tag value. field=39: 8=FIX.4.49=23035=834=100249=BTCC-PRO-EXCHANGE-SERVER52=20151109-15:58:08.19656=CLIENT-ThomasToday6=011=reqID129869909614=017=037=9244526421944b3fba0500c2afb7dbf538=039=G40=154=155=XBTCNY60=20151109-14:39:21.755150=I151=0912=N10=208
+20151109-15:58:08: Reject sent for Message 1002: Value is incorrect (out of range) for this tag:39
+20151109-15:58:08: Rejecting invalid message: quickfix.IncorrectTagValue: Field [39] contains an incorrect tag value. field=39: 8=FIX.4.49=23035=834=100349=BTCC-PRO-EXCHANGE-SERVER52=20151109-15:58:08.19656=CLIENT-ThomasToday6=011=reqID129869909614=017=037=df6e76c4cbb8452a8993619c4252347b38=039=G40=154=155=XBTCNY60=20151109-14:39:21.661150=I151=0912=N10=189
+20151109-15:58:08: Reject sent for Message 1003: Value is incorrect (out of range) for this tag:39
+20151109-15:58:08: Rejecting invalid message: quickfix.IncorrectTagValue: Field [39] contains an incorrect tag value. field=39: 8=FIX.4.49=23035=834=100449=BTCC-PRO-EXCHANGE-SERVER52=20151109-15:58:08.19656=CLIENT-ThomasToday6=011=reqID129869909614=017=037=34ffc3614a98432b8074bc51cc4e982338=039=G40=154=155=XBTCNY60=20151109-14:39:21.489150=I151=0912=N10=185
+20151109-15:58:08: Reject sent for Message 1004: Value is incorrect (out of range) for this tag:39
+20151109-15:58:08: Rejecting invalid message: quickfix.IncorrectTagValue: Field [39] contains an incorrect tag value. field=39: 8=FIX.4.49=23035=834=100549=BTCC-PRO-EXCHANGE-SERVER52=20151109-15:58:08.19656=CLIENT-ThomasToday6=011=reqID129869909614=017=037=be0158947b584ef49f846235f4e632d638=039=G40=154=155=XBTCNY60=20151109-14:39:21.317150=I151=0912=N10=150
+20151109-15:58:08: Reject sent for Message 1005: Value is incorrect (out of range) for this tag:39
+20151109-15:58:21: Session FIX.4.4:CLIENT-ThomasToday->BTCC-PRO-EXCHANGE-SERVER schedule is daily, 00:00:00-UTC - 00:00:00-UTC
+20151109-15:58:21: Created session: FIX.4.4:CLIENT-ThomasToday->BTCC-PRO-EXCHANGE-SERVER
+20151109-15:58:22: Initiated logon request
+20151109-15:58:22: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20151109-15:58:22: Received logon
+20151109-15:58:26: Rejecting invalid message: quickfix.IncorrectTagValue: Field [39] contains an incorrect tag value. field=39: 8=FIX.4.49=23035=834=102049=BTCC-PRO-EXCHANGE-SERVER52=20151109-15:58:26.60956=CLIENT-ThomasToday6=011=reqID129869909614=017=037=9244526421944b3fba0500c2afb7dbf538=039=G40=154=155=XBTCNY60=20151109-14:39:21.755150=I151=0912=N10=207
+20151109-15:58:26: Reject sent for Message 1020: Value is incorrect (out of range) for this tag:39
+20151109-15:58:26: Rejecting invalid message: quickfix.IncorrectTagValue: Field [39] contains an incorrect tag value. field=39: 8=FIX.4.49=23035=834=102149=BTCC-PRO-EXCHANGE-SERVER52=20151109-15:58:26.61056=CLIENT-ThomasToday6=011=reqID129869909614=017=037=df6e76c4cbb8452a8993619c4252347b38=039=G40=154=155=XBTCNY60=20151109-14:39:21.661150=I151=0912=N10=180
+20151109-15:58:26: Reject sent for Message 1021: Value is incorrect (out of range) for this tag:39
+20151109-15:58:26: Rejecting invalid message: quickfix.IncorrectTagValue: Field [39] contains an incorrect tag value. field=39: 8=FIX.4.49=23035=834=102249=BTCC-PRO-EXCHANGE-SERVER52=20151109-15:58:26.61056=CLIENT-ThomasToday6=011=reqID129869909614=017=037=34ffc3614a98432b8074bc51cc4e982338=039=G40=154=155=XBTCNY60=20151109-14:39:21.489150=I151=0912=N10=176
+20151109-15:58:26: Reject sent for Message 1022: Value is incorrect (out of range) for this tag:39
+20151109-15:58:26: Rejecting invalid message: quickfix.IncorrectTagValue: Field [39] contains an incorrect tag value. field=39: 8=FIX.4.49=23035=834=102349=BTCC-PRO-EXCHANGE-SERVER52=20151109-15:58:26.61056=CLIENT-ThomasToday6=011=reqID129869909614=017=037=be0158947b584ef49f846235f4e632d638=039=G40=154=155=XBTCNY60=20151109-14:39:21.317150=I151=0912=N10=141
+20151109-15:58:26: Reject sent for Message 1023: Value is incorrect (out of range) for this tag:39
+20151109-15:58:28: Rejecting invalid message: quickfix.IncorrectTagValue: Field [39] contains an incorrect tag value. field=39: 8=FIX.4.49=23035=834=286149=BTCC-PRO-EXCHANGE-SERVER52=20151109-15:58:28.88556=CLIENT-ThomasToday6=011=reqID129869909614=017=037=9244526421944b3fba0500c2afb7dbf538=039=G40=154=155=XBTCNY60=20151109-14:39:21.755150=I151=0912=N10=229
+20151109-15:58:28: Reject sent for Message 2861: Value is incorrect (out of range) for this tag:39
+20151109-15:58:28: Rejecting invalid message: quickfix.IncorrectTagValue: Field [39] contains an incorrect tag value. field=39: 8=FIX.4.49=23035=834=286249=BTCC-PRO-EXCHANGE-SERVER52=20151109-15:58:28.88556=CLIENT-ThomasToday6=011=reqID129869909614=017=037=df6e76c4cbb8452a8993619c4252347b38=039=G40=154=155=XBTCNY60=20151109-14:39:21.661150=I151=0912=N10=210
+20151109-15:58:28: Reject sent for Message 2862: Value is incorrect (out of range) for this tag:39
+20151109-15:58:28: Rejecting invalid message: quickfix.IncorrectTagValue: Field [39] contains an incorrect tag value. field=39: 8=FIX.4.49=23035=834=286349=BTCC-PRO-EXCHANGE-SERVER52=20151109-15:58:28.88556=CLIENT-ThomasToday6=011=reqID129869909614=017=037=34ffc3614a98432b8074bc51cc4e982338=039=G40=154=155=XBTCNY60=20151109-14:39:21.489150=I151=0912=N10=206
+20151109-15:58:28: Reject sent for Message 2863: Value is incorrect (out of range) for this tag:39
+20151109-15:58:28: Rejecting invalid message: quickfix.IncorrectTagValue: Field [39] contains an incorrect tag value. field=39: 8=FIX.4.49=23035=834=286449=BTCC-PRO-EXCHANGE-SERVER52=20151109-15:58:28.88556=CLIENT-ThomasToday6=011=reqID129869909614=017=037=be0158947b584ef49f846235f4e632d638=039=G40=154=155=XBTCNY60=20151109-14:39:21.317150=I151=0912=N10=171
+20151109-15:58:28: Reject sent for Message 2864: Value is incorrect (out of range) for this tag:39
+20151109-15:58:31: Rejecting invalid message: quickfix.IncorrectTagValue: Field [39] contains an incorrect tag value. field=39: 8=FIX.4.49=23035=834=470849=BTCC-PRO-EXCHANGE-SERVER52=20151109-15:58:31.59056=CLIENT-ThomasToday6=011=reqID129869909614=017=037=9244526421944b3fba0500c2afb7dbf538=039=G40=154=155=XBTCNY60=20151109-14:39:21.755150=I151=0912=N10=218
+20151109-15:58:31: Reject sent for Message 4708: Value is incorrect (out of range) for this tag:39
+20151109-15:58:31: Rejecting invalid message: quickfix.IncorrectTagValue: Field [39] contains an incorrect tag value. field=39: 8=FIX.4.49=23035=834=470949=BTCC-PRO-EXCHANGE-SERVER52=20151109-15:58:31.59056=CLIENT-ThomasToday6=011=reqID129869909614=017=037=df6e76c4cbb8452a8993619c4252347b38=039=G40=154=155=XBTCNY60=20151109-14:39:21.661150=I151=0912=N10=199
+20151109-15:58:31: Reject sent for Message 4709: Value is incorrect (out of range) for this tag:39
+20151109-15:58:31: Rejecting invalid message: quickfix.IncorrectTagValue: Field [39] contains an incorrect tag value. field=39: 8=FIX.4.49=23035=834=471049=BTCC-PRO-EXCHANGE-SERVER52=20151109-15:58:31.59056=CLIENT-ThomasToday6=011=reqID129869909614=017=037=34ffc3614a98432b8074bc51cc4e982338=039=G40=154=155=XBTCNY60=20151109-14:39:21.489150=I151=0912=N10=186
+20151109-15:58:31: Reject sent for Message 4710: Value is incorrect (out of range) for this tag:39
+20151109-15:58:31: Rejecting invalid message: quickfix.IncorrectTagValue: Field [39] contains an incorrect tag value. field=39: 8=FIX.4.49=23035=834=471149=BTCC-PRO-EXCHANGE-SERVER52=20151109-15:58:31.59156=CLIENT-ThomasToday6=011=reqID129869909614=017=037=be0158947b584ef49f846235f4e632d638=039=G40=154=155=XBTCNY60=20151109-14:39:21.317150=I151=0912=N10=152
+20151109-15:58:31: Reject sent for Message 4711: Value is incorrect (out of range) for this tag:39
+20151109-15:58:31: Rejecting invalid message: quickfix.IncorrectTagValue: Field [39] contains an incorrect tag value. field=39: 8=FIX.4.49=23035=834=553849=BTCC-PRO-EXCHANGE-SERVER52=20151109-15:58:32.31156=CLIENT-ThomasToday6=011=reqID129869909614=017=037=9244526421944b3fba0500c2afb7dbf538=039=G40=154=155=XBTCNY60=20151109-14:39:21.755150=I151=0912=N10=212
+20151109-15:58:31: Reject sent for Message 5538: Value is incorrect (out of range) for this tag:39
+20151109-15:58:31: Rejecting invalid message: quickfix.IncorrectTagValue: Field [39] contains an incorrect tag value. field=39: 8=FIX.4.49=23035=834=553949=BTCC-PRO-EXCHANGE-SERVER52=20151109-15:58:32.31156=CLIENT-ThomasToday6=011=reqID129869909614=017=037=df6e76c4cbb8452a8993619c4252347b38=039=G40=154=155=XBTCNY60=20151109-14:39:21.661150=I151=0912=N10=193
+20151109-15:58:31: Reject sent for Message 5539: Value is incorrect (out of range) for this tag:39
+20151109-15:58:31: Rejecting invalid message: quickfix.IncorrectTagValue: Field [39] contains an incorrect tag value. field=39: 8=FIX.4.49=23035=834=554049=BTCC-PRO-EXCHANGE-SERVER52=20151109-15:58:32.31156=CLIENT-ThomasToday6=011=reqID129869909614=017=037=34ffc3614a98432b8074bc51cc4e982338=039=G40=154=155=XBTCNY60=20151109-14:39:21.489150=I151=0912=N10=180
+20151109-15:58:31: Reject sent for Message 5540: Value is incorrect (out of range) for this tag:39
+20151109-15:58:31: Rejecting invalid message: quickfix.IncorrectTagValue: Field [39] contains an incorrect tag value. field=39: 8=FIX.4.49=23035=834=554149=BTCC-PRO-EXCHANGE-SERVER52=20151109-15:58:32.31256=CLIENT-ThomasToday6=011=reqID129869909614=017=037=be0158947b584ef49f846235f4e632d638=039=G40=154=155=XBTCNY60=20151109-14:39:21.317150=I151=0912=N10=146
+20151109-15:58:31: Reject sent for Message 5541: Value is incorrect (out of range) for this tag:39
+20151109-15:58:36: Rejecting invalid message: quickfix.IncorrectTagValue: Field [39] contains an incorrect tag value. field=39: 8=FIX.4.49=23035=834=743049=BTCC-PRO-EXCHANGE-SERVER52=20151109-15:58:37.66056=CLIENT-ThomasToday6=011=reqID129869909614=017=037=9244526421944b3fba0500c2afb7dbf538=039=G40=154=155=XBTCNY60=20151109-14:39:21.755150=I151=0912=N10=217
+20151109-15:58:36: Reject sent for Message 7430: Value is incorrect (out of range) for this tag:39
+20151109-15:58:36: Rejecting invalid message: quickfix.IncorrectTagValue: Field [39] contains an incorrect tag value. field=39: 8=FIX.4.49=23035=834=743149=BTCC-PRO-EXCHANGE-SERVER52=20151109-15:58:37.66156=CLIENT-ThomasToday6=011=reqID129869909614=017=037=df6e76c4cbb8452a8993619c4252347b38=039=G40=154=155=XBTCNY60=20151109-14:39:21.661150=I151=0912=N10=199
+20151109-15:58:36: Reject sent for Message 7431: Value is incorrect (out of range) for this tag:39
+20151109-15:58:36: Rejecting invalid message: quickfix.IncorrectTagValue: Field [39] contains an incorrect tag value. field=39: 8=FIX.4.49=23035=834=743249=BTCC-PRO-EXCHANGE-SERVER52=20151109-15:58:37.66156=CLIENT-ThomasToday6=011=reqID129869909614=017=037=34ffc3614a98432b8074bc51cc4e982338=039=G40=154=155=XBTCNY60=20151109-14:39:21.489150=I151=0912=N10=195
+20151109-15:58:36: Reject sent for Message 7432: Value is incorrect (out of range) for this tag:39
+20151109-15:58:36: Rejecting invalid message: quickfix.IncorrectTagValue: Field [39] contains an incorrect tag value. field=39: 8=FIX.4.49=23035=834=743349=BTCC-PRO-EXCHANGE-SERVER52=20151109-15:58:37.66156=CLIENT-ThomasToday6=011=reqID129869909614=017=037=be0158947b584ef49f846235f4e632d638=039=G40=154=155=XBTCNY60=20151109-14:39:21.317150=I151=0912=N10=160
+20151109-15:58:36: Reject sent for Message 7433: Value is incorrect (out of range) for this tag:39
+20151109-15:59:10: Session FIX.4.4:CLIENT-ThomasToday->BTCC-PRO-EXCHANGE-SERVER schedule is daily, 00:00:00-UTC - 00:00:00-UTC
+20151109-15:59:10: Created session: FIX.4.4:CLIENT-ThomasToday->BTCC-PRO-EXCHANGE-SERVER
+20151109-15:59:11: Initiated logon request
+20151109-15:59:11: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20151109-15:59:11: Received logon
+20151109-15:59:22: Session FIX.4.4:CLIENT-ThomasToday->BTCC-PRO-EXCHANGE-SERVER schedule is daily, 00:00:00-UTC - 00:00:00-UTC
+20151109-15:59:22: Created session: FIX.4.4:CLIENT-ThomasToday->BTCC-PRO-EXCHANGE-SERVER
+20151109-15:59:23: Initiated logon request
+20151109-15:59:24: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20151109-15:59:24: Received logon
+20151109-15:59:38: Rejecting invalid message: quickfix.IncorrectTagValue: Field [39] contains an incorrect tag value. field=39: 8=FIX.4.49=23035=834=104849=BTCC-PRO-EXCHANGE-SERVER52=20151109-15:59:38.19356=CLIENT-ThomasToday6=011=reqID129869909614=017=037=9244526421944b3fba0500c2afb7dbf538=039=G40=154=155=XBTCNY60=20151109-14:39:21.755150=I151=0912=N10=219
+20151109-15:59:38: Reject sent for Message 1048: Value is incorrect (out of range) for this tag:39
+20151109-15:59:38: Rejecting invalid message: quickfix.IncorrectTagValue: Field [39] contains an incorrect tag value. field=39: 8=FIX.4.49=23035=834=104949=BTCC-PRO-EXCHANGE-SERVER52=20151109-15:59:38.19356=CLIENT-ThomasToday6=011=reqID129869909614=017=037=df6e76c4cbb8452a8993619c4252347b38=039=G40=154=155=XBTCNY60=20151109-14:39:21.661150=I151=0912=N10=200
+20151109-15:59:38: Reject sent for Message 1049: Value is incorrect (out of range) for this tag:39
+20151109-15:59:38: Rejecting invalid message: quickfix.IncorrectTagValue: Field [39] contains an incorrect tag value. field=39: 8=FIX.4.49=23035=834=105049=BTCC-PRO-EXCHANGE-SERVER52=20151109-15:59:38.19356=CLIENT-ThomasToday6=011=reqID129869909614=017=037=34ffc3614a98432b8074bc51cc4e982338=039=G40=154=155=XBTCNY60=20151109-14:39:21.489150=I151=0912=N10=187
+20151109-15:59:38: Reject sent for Message 1050: Value is incorrect (out of range) for this tag:39
+20151109-15:59:38: Rejecting invalid message: quickfix.IncorrectTagValue: Field [39] contains an incorrect tag value. field=39: 8=FIX.4.49=23035=834=105149=BTCC-PRO-EXCHANGE-SERVER52=20151109-15:59:38.19356=CLIENT-ThomasToday6=011=reqID129869909614=017=037=be0158947b584ef49f846235f4e632d638=039=G40=154=155=XBTCNY60=20151109-14:39:21.317150=I151=0912=N10=152
+20151109-15:59:38: Reject sent for Message 1051: Value is incorrect (out of range) for this tag:39
+20151109-15:59:46: Rejecting invalid message: quickfix.IncorrectTagValue: Field [39] contains an incorrect tag value. field=39: 8=FIX.4.49=23035=834=293249=BTCC-PRO-EXCHANGE-SERVER52=20151109-15:59:46.99656=CLIENT-ThomasToday6=011=reqID129869909614=017=037=9244526421944b3fba0500c2afb7dbf538=039=G40=154=155=XBTCNY60=20151109-14:39:21.755150=I151=0912=N10=232
+20151109-15:59:46: Reject sent for Message 2932: Value is incorrect (out of range) for this tag:39
+20151109-15:59:46: Rejecting invalid message: quickfix.IncorrectTagValue: Field [39] contains an incorrect tag value. field=39: 8=FIX.4.49=23035=834=293349=BTCC-PRO-EXCHANGE-SERVER52=20151109-15:59:46.99756=CLIENT-ThomasToday6=011=reqID129869909614=017=037=df6e76c4cbb8452a8993619c4252347b38=039=G40=154=155=XBTCNY60=20151109-14:39:21.661150=I151=0912=N10=214
+20151109-15:59:46: Reject sent for Message 2933: Value is incorrect (out of range) for this tag:39
+20151109-15:59:46: Rejecting invalid message: quickfix.IncorrectTagValue: Field [39] contains an incorrect tag value. field=39: 8=FIX.4.49=23035=834=293449=BTCC-PRO-EXCHANGE-SERVER52=20151109-15:59:46.99756=CLIENT-ThomasToday6=011=reqID129869909614=017=037=34ffc3614a98432b8074bc51cc4e982338=039=G40=154=155=XBTCNY60=20151109-14:39:21.489150=I151=0912=N10=210
+20151109-15:59:46: Reject sent for Message 2934: Value is incorrect (out of range) for this tag:39
+20151109-15:59:46: Rejecting invalid message: quickfix.IncorrectTagValue: Field [39] contains an incorrect tag value. field=39: 8=FIX.4.49=23035=834=293549=BTCC-PRO-EXCHANGE-SERVER52=20151109-15:59:46.99756=CLIENT-ThomasToday6=011=reqID129869909614=017=037=be0158947b584ef49f846235f4e632d638=039=G40=154=155=XBTCNY60=20151109-14:39:21.317150=I151=0912=N10=175
+20151109-15:59:46: Reject sent for Message 2935: Value is incorrect (out of range) for this tag:39
+20151109-16:00:11: Session FIX.4.4:CLIENT-ThomasToday->BTCC-PRO-EXCHANGE-SERVER schedule is daily, 00:00:00-UTC - 00:00:00-UTC
+20151109-16:00:11: Created session: FIX.4.4:CLIENT-ThomasToday->BTCC-PRO-EXCHANGE-SERVER
+20151109-16:00:12: Initiated logon request
+20151109-16:00:12: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20151109-16:00:12: Received logon
+20151109-16:00:16: Rejecting invalid message: quickfix.IncorrectTagValue: Field [39] contains an incorrect tag value. field=39: 8=FIX.4.49=23035=834=105749=BTCC-PRO-EXCHANGE-SERVER52=20151109-16:00:16.59256=CLIENT-ThomasToday6=011=reqID129869909614=017=037=9244526421944b3fba0500c2afb7dbf538=039=G40=154=155=XBTCNY60=20151109-14:39:21.755150=I151=0912=N10=205
+20151109-16:00:16: Reject sent for Message 1057: Value is incorrect (out of range) for this tag:39
+20151109-16:00:16: Rejecting invalid message: quickfix.IncorrectTagValue: Field [39] contains an incorrect tag value. field=39: 8=FIX.4.49=23035=834=105849=BTCC-PRO-EXCHANGE-SERVER52=20151109-16:00:16.59256=CLIENT-ThomasToday6=011=reqID129869909614=017=037=df6e76c4cbb8452a8993619c4252347b38=039=G40=154=155=XBTCNY60=20151109-14:39:21.661150=I151=0912=N10=186
+20151109-16:00:16: Reject sent for Message 1058: Value is incorrect (out of range) for this tag:39
+20151109-16:00:16: Rejecting invalid message: quickfix.IncorrectTagValue: Field [39] contains an incorrect tag value. field=39: 8=FIX.4.49=23035=834=105949=BTCC-PRO-EXCHANGE-SERVER52=20151109-16:00:16.59256=CLIENT-ThomasToday6=011=reqID129869909614=017=037=34ffc3614a98432b8074bc51cc4e982338=039=G40=154=155=XBTCNY60=20151109-14:39:21.489150=I151=0912=N10=182
+20151109-16:00:16: Reject sent for Message 1059: Value is incorrect (out of range) for this tag:39
+20151109-16:00:16: Rejecting invalid message: quickfix.IncorrectTagValue: Field [39] contains an incorrect tag value. field=39: 8=FIX.4.49=23035=834=106049=BTCC-PRO-EXCHANGE-SERVER52=20151109-16:00:16.59256=CLIENT-ThomasToday6=011=reqID129869909614=017=037=be0158947b584ef49f846235f4e632d638=039=G40=154=155=XBTCNY60=20151109-14:39:21.317150=I151=0912=N10=138
+20151109-16:00:16: Reject sent for Message 1060: Value is incorrect (out of range) for this tag:39
+20151109-16:00:24: Rejecting invalid message: quickfix.IncorrectTagValue: Field [39] contains an incorrect tag value. field=39: 8=FIX.4.49=23035=834=295049=BTCC-PRO-EXCHANGE-SERVER52=20151109-16:00:25.28056=CLIENT-ThomasToday6=011=reqID129869909614=017=037=9244526421944b3fba0500c2afb7dbf538=039=G40=154=155=XBTCNY60=20151109-14:39:21.755150=I151=0912=N10=202
+20151109-16:00:24: Reject sent for Message 2950: Value is incorrect (out of range) for this tag:39
+20151109-16:00:24: Rejecting invalid message: quickfix.IncorrectTagValue: Field [39] contains an incorrect tag value. field=39: 8=FIX.4.49=23035=834=295149=BTCC-PRO-EXCHANGE-SERVER52=20151109-16:00:25.28056=CLIENT-ThomasToday6=011=reqID129869909614=017=037=df6e76c4cbb8452a8993619c4252347b38=039=G40=154=155=XBTCNY60=20151109-14:39:21.661150=I151=0912=N10=183
+20151109-16:00:24: Reject sent for Message 2951: Value is incorrect (out of range) for this tag:39
+20151109-16:00:24: Rejecting invalid message: quickfix.IncorrectTagValue: Field [39] contains an incorrect tag value. field=39: 8=FIX.4.49=23035=834=295249=BTCC-PRO-EXCHANGE-SERVER52=20151109-16:00:25.28056=CLIENT-ThomasToday6=011=reqID129869909614=017=037=34ffc3614a98432b8074bc51cc4e982338=039=G40=154=155=XBTCNY60=20151109-14:39:21.489150=I151=0912=N10=179
+20151109-16:00:24: Reject sent for Message 2952: Value is incorrect (out of range) for this tag:39
+20151109-16:00:24: Rejecting invalid message: quickfix.IncorrectTagValue: Field [39] contains an incorrect tag value. field=39: 8=FIX.4.49=23035=834=295349=BTCC-PRO-EXCHANGE-SERVER52=20151109-16:00:25.28056=CLIENT-ThomasToday6=011=reqID129869909614=017=037=be0158947b584ef49f846235f4e632d638=039=G40=154=155=XBTCNY60=20151109-14:39:21.317150=I151=0912=N10=144
+20151109-16:00:24: Reject sent for Message 2953: Value is incorrect (out of range) for this tag:39
+20151120-06:42:45: Session FIX.4.4:CLIENT-ThomasToday->BTCC-PRO-EXCHANGE-SERVER schedule is daily, 00:00:00-UTC - 00:00:00-UTC
+20151120-06:42:45: Session state is not current; resetting FIX.4.4:CLIENT-ThomasToday->BTCC-PRO-EXCHANGE-SERVER
+20151120-06:42:45: Created session: FIX.4.4:CLIENT-ThomasToday->BTCC-PRO-EXCHANGE-SERVER
+20151120-06:42:48: Pending connection not established after 2121 ms.
+20151120-06:42:51: Pending connection not established after 5128 ms.
+20151120-06:42:54: Pending connection not established after 8136 ms.
+20151120-06:42:59: Pending connection not established after 13138 ms.
+20151120-06:43:02: Pending connection not established after 16146 ms.
+20151120-06:43:05: Pending connection not established after 19151 ms.
+20151120-06:43:08: Pending connection not established after 22159 ms.
+20151120-06:43:11: Pending connection not established after 25165 ms.
+20151120-06:43:16: Pending connection not established after 30168 ms.
+20151120-06:43:21: Pending connection not established after 35173 ms.
+20151120-06:43:24: Pending connection not established after 38179 ms.
+20151120-06:43:27: Pending connection not established after 41188 ms.
+20151120-06:43:32: Pending connection not established after 46189 ms.
+20151120-06:43:35: Pending connection not established after 49195 ms.
+20151120-06:43:38: Pending connection not established after 52198 ms.
+20151120-06:43:47: Session FIX.4.4:CLIENT-ThomasToday->BTCC-PRO-EXCHANGE-SERVER schedule is daily, 00:00:00-UTC - 00:00:00-UTC
+20151120-06:43:47: Created session: FIX.4.4:CLIENT-ThomasToday->BTCC-PRO-EXCHANGE-SERVER
+20151120-06:43:49: Initiated logon request
+20151120-06:43:49: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20151120-06:43:49: Received logon
+20151120-06:43:49: Rejecting invalid message: quickfix.IncorrectTagValue: Field [39] contains an incorrect tag value. field=39: 8=FIX.4.49=22835=834=1649=BTCC-PRO-EXCHANGE-SERVER52=20151120-06:43:50.62956=CLIENT-ThomasToday6=011=reqID129869909614=017=037=5c35008849614fcb88df245e796e7a3d38=039=G40=354=155=XBTCNY60=20151118-15:55:03.903150=I151=0912=N10=094
+20151120-06:43:49: Reject sent for Message 16: Value is incorrect (out of range) for this tag:39
+20151120-06:43:49: Rejecting invalid message: quickfix.IncorrectTagValue: Field [39] contains an incorrect tag value. field=39: 8=FIX.4.49=22835=834=1749=BTCC-PRO-EXCHANGE-SERVER52=20151120-06:43:50.63056=CLIENT-ThomasToday6=011=reqID129869909614=017=037=489f9e8e2f674836b6703ed5e287eeaf38=039=G40=354=155=XBTCNY60=20151118-15:55:03.903150=I151=0912=N10=199
+20151120-06:43:49: Reject sent for Message 17: Value is incorrect (out of range) for this tag:39
+20151120-06:43:49: Rejecting invalid message: quickfix.IncorrectTagValue: Field [39] contains an incorrect tag value. field=39: 8=FIX.4.49=22835=834=8049=BTCC-PRO-EXCHANGE-SERVER52=20151120-06:43:50.66256=CLIENT-ThomasToday6=011=reqID129869909614=017=037=b94ed79f9d6542fd98f4e289018ce43a38=039=G40=354=255=XBTCNY60=20151118-10:49:18.238150=I151=0912=N10=205
+20151120-06:43:49: Reject sent for Message 80: Value is incorrect (out of range) for this tag:39
+20151120-06:43:50: Rejecting invalid message: quickfix.IncorrectTagValue: Field [39] contains an incorrect tag value. field=39: 8=FIX.4.49=22935=834=22549=BTCC-PRO-EXCHANGE-SERVER52=20151120-06:43:50.71756=CLIENT-ThomasToday6=011=reqID129869909614=017=037=43f648f1e3904d07af506487fe503dfa38=039=G40=154=255=XBTCNY60=20151118-05:35:20.900150=I151=0912=N10=169
+20151120-06:43:50: Reject sent for Message 225: Value is incorrect (out of range) for this tag:39
+20151120-06:43:50: Rejecting invalid message: quickfix.IncorrectTagValue: Field [39] contains an incorrect tag value. field=39: 8=FIX.4.49=22935=834=23549=BTCC-PRO-EXCHANGE-SERVER52=20151120-06:43:50.72056=CLIENT-ThomasToday6=011=reqID129869909614=017=037=fe74c75ec23f435cb0b58c61481236e638=039=G40=154=255=XBTCNY60=20151118-05:30:44.666150=I151=0912=N10=170
+20151120-06:43:50: Reject sent for Message 235: Value is incorrect (out of range) for this tag:39
+20151125-02:41:30: Session FIX.4.4:CLIENT-ThomasToday->BTCC-PRO-EXCHANGE-SERVER schedule is daily, 00:00:00-UTC - 00:00:00-UTC
+20151125-02:41:30: Session state is not current; resetting FIX.4.4:CLIENT-ThomasToday->BTCC-PRO-EXCHANGE-SERVER
+20151125-02:41:30: Created session: FIX.4.4:CLIENT-ThomasToday->BTCC-PRO-EXCHANGE-SERVER
+20151125-02:41:32: Initiated logon request
+20151125-02:41:32: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20151125-02:41:32: Received logon
+20151125-02:41:34: Rejecting invalid message: quickfix.IncorrectTagValue: Field [39] contains an incorrect tag value. field=39: 8=FIX.4.49=22835=834=8549=BTCC-PRO-EXCHANGE-SERVER52=20151125-02:41:32.21056=CLIENT-ThomasToday6=011=reqID129869909614=017=037=34f6204f1db142cbb0906f8df00b51d438=039=G40=154=155=XBTCNY60=20151123-03:28:10.640150=I151=0912=N10=124
+20151125-02:41:34: Reject sent for Message 85: Value is incorrect (out of range) for this tag:39
+20151125-02:41:34: Rejecting invalid message: quickfix.IncorrectTagValue: Field [39] contains an incorrect tag value. field=39: 8=FIX.4.49=22935=834=10349=BTCC-PRO-EXCHANGE-SERVER52=20151125-02:41:32.23056=CLIENT-ThomasToday6=011=reqID129869909614=017=037=5c35008849614fcb88df245e796e7a3d38=039=G40=354=155=XBTCNY60=20151118-15:55:03.904150=I151=0912=N10=128
+20151125-02:41:34: Reject sent for Message 103: Value is incorrect (out of range) for this tag:39
+20151125-02:41:34: Rejecting invalid message: quickfix.IncorrectTagValue: Field [39] contains an incorrect tag value. field=39: 8=FIX.4.49=22935=834=10449=BTCC-PRO-EXCHANGE-SERVER52=20151125-02:41:32.23156=CLIENT-ThomasToday6=011=reqID129869909614=017=037=489f9e8e2f674836b6703ed5e287eeaf38=039=G40=354=155=XBTCNY60=20151118-15:55:03.904150=I151=0912=N10=242
+20151125-02:41:34: Reject sent for Message 104: Value is incorrect (out of range) for this tag:39
+20151125-02:41:34: Rejecting invalid message: quickfix.IncorrectTagValue: Field [39] contains an incorrect tag value. field=39: 8=FIX.4.49=22935=834=16749=BTCC-PRO-EXCHANGE-SERVER52=20151125-02:41:32.26856=CLIENT-ThomasToday6=011=reqID129869909614=017=037=b94ed79f9d6542fd98f4e289018ce43a38=039=G40=354=255=XBTCNY60=20151118-10:49:18.238150=I151=0912=N10=005
+20151125-02:41:34: Reject sent for Message 167: Value is incorrect (out of range) for this tag:39
+20151125-02:41:34: Rejecting invalid message: quickfix.IncorrectTagValue: Field [39] contains an incorrect tag value. field=39: 8=FIX.4.49=22935=834=31249=BTCC-PRO-EXCHANGE-SERVER52=20151125-02:41:32.35256=CLIENT-ThomasToday6=011=reqID129869909614=017=037=43f648f1e3904d07af506487fe503dfa38=039=G40=154=255=XBTCNY60=20151118-05:35:20.900150=I151=0912=N10=160
+20151125-02:41:34: Reject sent for Message 312: Value is incorrect (out of range) for this tag:39
+20151125-02:41:34: Rejecting invalid message: quickfix.IncorrectTagValue: Field [39] contains an incorrect tag value. field=39: 8=FIX.4.49=22935=834=32249=BTCC-PRO-EXCHANGE-SERVER52=20151125-02:41:32.35556=CLIENT-ThomasToday6=011=reqID129869909614=017=037=fe74c75ec23f435cb0b58c61481236e638=039=G40=154=255=XBTCNY60=20151118-05:30:44.666150=I151=0912=N10=170
+20151125-02:41:34: Reject sent for Message 322: Value is incorrect (out of range) for this tag:39
+20151125-02:42:45: Rejecting invalid message: quickfix.IncorrectTagValue: Field [39] contains an incorrect tag value. field=39: 8=FIX.4.49=23035=834=133749=BTCC-PRO-EXCHANGE-SERVER52=20151125-02:42:44.38856=CLIENT-ThomasToday6=011=reqID129869909614=017=037=34f6204f1db142cbb0906f8df00b51d438=039=G40=154=155=XBTCNY60=20151123-03:28:10.640150=I151=0912=N10=234
+20151125-02:42:45: Reject sent for Message 1337: Value is incorrect (out of range) for this tag:39
+20151125-02:42:45: Rejecting invalid message: quickfix.IncorrectTagValue: Field [39] contains an incorrect tag value. field=39: 8=FIX.4.49=23035=834=135549=BTCC-PRO-EXCHANGE-SERVER52=20151125-02:42:44.39556=CLIENT-ThomasToday6=011=reqID129869909614=017=037=5c35008849614fcb88df245e796e7a3d38=039=G40=354=155=XBTCNY60=20151118-15:55:03.904150=I151=0912=N10=194
+20151125-02:42:45: Reject sent for Message 1355: Value is incorrect (out of range) for this tag:39
+20151125-02:42:45: Rejecting invalid message: quickfix.IncorrectTagValue: Field [39] contains an incorrect tag value. field=39: 8=FIX.4.49=23035=834=135649=BTCC-PRO-EXCHANGE-SERVER52=20151125-02:42:44.40056=CLIENT-ThomasToday6=011=reqID129869909614=017=037=489f9e8e2f674836b6703ed5e287eeaf38=039=G40=354=155=XBTCNY60=20151118-15:55:03.904150=I151=0912=N10=038
+20151125-02:42:45: Reject sent for Message 1356: Value is incorrect (out of range) for this tag:39
+20151125-02:42:45: Rejecting invalid message: quickfix.IncorrectTagValue: Field [39] contains an incorrect tag value. field=39: 8=FIX.4.49=23035=834=141949=BTCC-PRO-EXCHANGE-SERVER52=20151125-02:42:44.42656=CLIENT-ThomasToday6=011=reqID129869909614=017=037=b94ed79f9d6542fd98f4e289018ce43a38=039=G40=354=255=XBTCNY60=20151118-10:49:18.238150=I151=0912=N10=046
+20151125-02:42:45: Reject sent for Message 1419: Value is incorrect (out of range) for this tag:39
+20151125-02:42:45: Rejecting invalid message: quickfix.IncorrectTagValue: Field [39] contains an incorrect tag value. field=39: 8=FIX.4.49=23035=834=156449=BTCC-PRO-EXCHANGE-SERVER52=20151125-02:42:44.47956=CLIENT-ThomasToday6=011=reqID129869909614=017=037=43f648f1e3904d07af506487fe503dfa38=039=G40=154=255=XBTCNY60=20151118-05:35:20.900150=I151=0912=N10=224
+20151125-02:42:45: Reject sent for Message 1564: Value is incorrect (out of range) for this tag:39
+20151125-02:42:45: Rejecting invalid message: quickfix.IncorrectTagValue: Field [39] contains an incorrect tag value. field=39: 8=FIX.4.49=23035=834=157449=BTCC-PRO-EXCHANGE-SERVER52=20151125-02:42:44.48856=CLIENT-ThomasToday6=011=reqID129869909614=017=037=fe74c75ec23f435cb0b58c61481236e638=039=G40=154=255=XBTCNY60=20151118-05:30:44.666150=I151=0912=N10=231
+20151125-02:42:45: Reject sent for Message 1574: Value is incorrect (out of range) for this tag:39
+20151125-02:47:49: Session FIX.4.4:CLIENT-ThomasToday->BTCC-PRO-EXCHANGE-SERVER schedule is daily, 00:00:00-UTC - 00:00:00-UTC
+20151125-02:47:49: Created session: FIX.4.4:CLIENT-ThomasToday->BTCC-PRO-EXCHANGE-SERVER
+20151125-02:47:50: Initiated logon request
+20151125-02:47:50: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20151125-02:47:50: Received logon
+20151125-02:47:50: Rejecting invalid message: quickfix.IncorrectTagValue: Field [39] contains an incorrect tag value. field=39: 8=FIX.4.49=22835=834=8549=BTCC-PRO-EXCHANGE-SERVER52=20151125-02:47:49.66256=CLIENT-ThomasToday6=011=reqID129869909614=017=037=34f6204f1db142cbb0906f8df00b51d438=039=G40=154=155=XBTCNY60=20151123-03:28:10.640150=I151=0912=N10=149
+20151125-02:47:50: Reject sent for Message 85: Value is incorrect (out of range) for this tag:39
+20151125-02:47:50: Rejecting invalid message: quickfix.IncorrectTagValue: Field [39] contains an incorrect tag value. field=39: 8=FIX.4.49=22935=834=10349=BTCC-PRO-EXCHANGE-SERVER52=20151125-02:47:49.66756=CLIENT-ThomasToday6=011=reqID129869909614=017=037=5c35008849614fcb88df245e796e7a3d38=039=G40=354=155=XBTCNY60=20151118-15:55:03.904150=I151=0912=N10=156
+20151125-02:47:50: Reject sent for Message 103: Value is incorrect (out of range) for this tag:39
+20151125-02:47:50: Rejecting invalid message: quickfix.IncorrectTagValue: Field [39] contains an incorrect tag value. field=39: 8=FIX.4.49=22935=834=10449=BTCC-PRO-EXCHANGE-SERVER52=20151125-02:47:49.66756=CLIENT-ThomasToday6=011=reqID129869909614=017=037=489f9e8e2f674836b6703ed5e287eeaf38=039=G40=354=155=XBTCNY60=20151118-15:55:03.904150=I151=0912=N10=013
+20151125-02:47:50: Reject sent for Message 104: Value is incorrect (out of range) for this tag:39
+20151125-02:47:51: Rejecting invalid message: quickfix.IncorrectTagValue: Field [39] contains an incorrect tag value. field=39: 8=FIX.4.49=22935=834=16749=BTCC-PRO-EXCHANGE-SERVER52=20151125-02:47:49.68656=CLIENT-ThomasToday6=011=reqID129869909614=017=037=b94ed79f9d6542fd98f4e289018ce43a38=039=G40=354=255=XBTCNY60=20151118-10:49:18.238150=I151=0912=N10=023
+20151125-02:47:51: Reject sent for Message 167: Value is incorrect (out of range) for this tag:39
+20151125-02:47:51: Rejecting invalid message: quickfix.IncorrectTagValue: Field [39] contains an incorrect tag value. field=39: 8=FIX.4.49=22935=834=31249=BTCC-PRO-EXCHANGE-SERVER52=20151125-02:47:49.73856=CLIENT-ThomasToday6=011=reqID129869909614=017=037=43f648f1e3904d07af506487fe503dfa38=039=G40=154=255=XBTCNY60=20151118-05:35:20.900150=I151=0912=N10=182
+20151125-02:47:51: Reject sent for Message 312: Value is incorrect (out of range) for this tag:39
+20151125-02:47:51: Rejecting invalid message: quickfix.IncorrectTagValue: Field [39] contains an incorrect tag value. field=39: 8=FIX.4.49=22935=834=32249=BTCC-PRO-EXCHANGE-SERVER52=20151125-02:47:49.74056=CLIENT-ThomasToday6=011=reqID129869909614=017=037=fe74c75ec23f435cb0b58c61481236e638=039=G40=154=255=XBTCNY60=20151118-05:30:44.666150=I151=0912=N10=182
+20151125-02:47:51: Reject sent for Message 322: Value is incorrect (out of range) for this tag:39
+20151125-07:48:51: Session FIX.4.4:CLIENT-ThomasToday->BTCC-PRO-EXCHANGE-SERVER schedule is daily, 00:00:00-UTC - 00:00:00-UTC
+20151125-07:48:51: Created session: FIX.4.4:CLIENT-ThomasToday->BTCC-PRO-EXCHANGE-SERVER
+20151125-07:48:55: Pending connection not established after 4012 ms.
+20151125-07:48:56: java.net.SocketException: java.net.SocketException: Network is unreachable (Next retry in 5000 milliseconds)
+20151125-07:48:59: Pending connection not established after 2005 ms.
+20151125-07:49:01: java.net.SocketException: java.net.SocketException: Network is unreachable (Next retry in 5000 milliseconds)
+20151125-07:49:04: Pending connection not established after 2006 ms.
+20151125-07:49:06: java.net.SocketException: java.net.SocketException: Network is unreachable (Next retry in 5000 milliseconds)
+20151125-07:49:09: Pending connection not established after 2003 ms.
+20151125-07:49:12: Pending connection not established after 5010 ms.
+20151125-07:49:13: java.net.SocketException: java.net.SocketException: Network is unreachable (Next retry in 5000 milliseconds)
+20151125-07:49:16: Pending connection not established after 2003 ms.
+20151125-07:49:19: java.net.SocketException: java.net.SocketException: Network is unreachable (Next retry in 5000 milliseconds)
+20151125-07:49:22: Pending connection not established after 2003 ms.
+20151125-07:49:24: java.net.SocketException: java.net.SocketException: Network is unreachable (Next retry in 5000 milliseconds)
+20151125-07:49:27: Pending connection not established after 2004 ms.
+20151125-07:49:29: java.net.SocketException: java.net.SocketException: Network is unreachable (Next retry in 5000 milliseconds)
+20151125-07:49:32: Pending connection not established after 2004 ms.
+20151125-07:49:35: Pending connection not established after 5014 ms.
+20151125-07:49:37: java.net.SocketException: java.net.SocketException: Network is unreachable (Next retry in 5000 milliseconds)
+20151125-07:49:40: Pending connection not established after 2002 ms.
+20151125-07:49:42: java.net.SocketException: java.net.SocketException: Network is unreachable (Next retry in 5000 milliseconds)
+20151125-07:49:45: Pending connection not established after 2002 ms.
+20151125-07:49:48: java.net.SocketException: java.net.SocketException: Network is unreachable (Next retry in 5000 milliseconds)
+20151125-07:49:51: Pending connection not established after 2002 ms.
+20151125-07:49:53: java.net.SocketException: java.net.SocketException: Network is unreachable (Next retry in 5000 milliseconds)
+20151125-07:49:56: Pending connection not established after 2005 ms.
+20151125-07:49:58: java.net.SocketException: java.net.SocketException: Network is unreachable (Next retry in 5000 milliseconds)
+20151125-07:50:01: Pending connection not established after 2005 ms.
+20151125-07:50:03: java.net.SocketException: java.net.SocketException: Network is unreachable (Next retry in 5000 milliseconds)
+20151125-07:50:06: Pending connection not established after 2001 ms.
+20151125-07:50:08: java.net.SocketException: java.net.SocketException: Network is unreachable (Next retry in 5000 milliseconds)
+20151125-07:50:11: Pending connection not established after 2002 ms.
+20151125-07:50:13: java.net.SocketException: java.net.SocketException: Network is unreachable (Next retry in 5000 milliseconds)
+20151125-07:50:16: Pending connection not established after 2005 ms.
+20151125-07:50:18: java.net.SocketException: java.net.SocketException: Network is unreachable (Next retry in 5000 milliseconds)
+20151125-07:50:21: Pending connection not established after 2005 ms.
+20151125-07:50:23: java.net.SocketException: java.net.SocketException: Network is unreachable (Next retry in 5000 milliseconds)
+20151125-07:50:26: Pending connection not established after 2005 ms.
+20151125-07:50:29: Pending connection not established after 5012 ms.
+20151125-07:50:30: java.net.SocketException: java.net.SocketException: Network is unreachable (Next retry in 5000 milliseconds)
+20151125-07:50:33: Pending connection not established after 2005 ms.
+20151125-07:50:36: java.net.SocketException: java.net.SocketException: Network is unreachable (Next retry in 5000 milliseconds)
+20151125-07:50:39: Pending connection not established after 2005 ms.
+20151125-07:50:41: java.net.SocketException: java.net.SocketException: Network is unreachable (Next retry in 5000 milliseconds)
+20151125-07:50:44: Pending connection not established after 2005 ms.
+20151125-07:50:46: java.net.SocketException: java.net.SocketException: Network is unreachable (Next retry in 5000 milliseconds)
+20151125-07:50:49: Pending connection not established after 2004 ms.
+20151125-07:50:52: Pending connection not established after 5014 ms.
+20151125-07:50:53: java.net.SocketException: java.net.SocketException: Network is unreachable (Next retry in 5000 milliseconds)
+20151125-07:50:56: Pending connection not established after 2003 ms.
+20151125-07:50:58: java.net.SocketException: java.net.SocketException: Network is unreachable (Next retry in 5000 milliseconds)
+20151125-07:51:01: Pending connection not established after 2005 ms.
+20151125-07:51:03: java.net.SocketException: java.net.SocketException: Network is unreachable (Next retry in 5000 milliseconds)
+20151125-07:51:06: Pending connection not established after 2003 ms.
+20151125-07:51:09: Pending connection not established after 5009 ms.
+20151125-07:51:10: java.net.SocketException: java.net.SocketException: Network is unreachable (Next retry in 5000 milliseconds)
+20151125-07:51:13: Pending connection not established after 2004 ms.
+20151125-07:51:15: java.net.SocketException: java.net.SocketException: Network is unreachable (Next retry in 5000 milliseconds)
+20151125-07:51:18: Pending connection not established after 2004 ms.
+20151125-07:51:21: Pending connection not established after 5014 ms.
+20151125-07:51:22: java.net.SocketException: java.net.SocketException: Network is unreachable (Next retry in 5000 milliseconds)
+20151125-07:51:25: Pending connection not established after 2004 ms.
+20151125-07:51:28: java.net.SocketException: java.net.SocketException: Network is unreachable (Next retry in 5000 milliseconds)
+20151125-07:51:31: Pending connection not established after 2005 ms.
+20151125-07:51:33: java.net.SocketException: java.net.SocketException: Network is unreachable (Next retry in 5000 milliseconds)
+20151125-07:51:36: Pending connection not established after 2003 ms.
+20151125-07:51:38: java.net.SocketException: java.net.SocketException: Network is unreachable (Next retry in 5000 milliseconds)
+20151125-07:51:41: Pending connection not established after 2003 ms.
+20151125-07:51:43: java.net.SocketException: java.net.SocketException: Network is unreachable (Next retry in 5000 milliseconds)
+20151125-07:51:46: Pending connection not established after 2003 ms.
+20151125-07:51:48: java.net.SocketException: java.net.SocketException: Network is unreachable (Next retry in 5000 milliseconds)
+20151125-07:51:51: Pending connection not established after 2005 ms.
+20151125-07:51:53: java.net.SocketException: java.net.SocketException: Network is unreachable (Next retry in 5000 milliseconds)
+20151125-07:51:56: Pending connection not established after 2003 ms.
+20151125-07:51:59: java.net.SocketException: java.net.SocketException: Network is unreachable (Next retry in 5000 milliseconds)
+20151125-07:52:02: Pending connection not established after 2004 ms.
+20151125-07:52:04: java.net.SocketException: java.net.SocketException: Network is unreachable (Next retry in 5000 milliseconds)
+20151125-07:52:07: Pending connection not established after 2002 ms.
+20151125-07:52:09: java.net.SocketException: java.net.SocketException: Network is unreachable (Next retry in 5000 milliseconds)
+20151125-07:52:12: Pending connection not established after 2003 ms.
+20151125-07:52:14: java.net.SocketException: java.net.SocketException: Network is unreachable (Next retry in 5000 milliseconds)
+20151125-07:52:17: Pending connection not established after 2003 ms.
+20151125-07:52:19: java.net.SocketException: java.net.SocketException: Network is unreachable (Next retry in 5000 milliseconds)
+20151125-07:52:22: Pending connection not established after 2003 ms.
+20151125-07:52:24: java.net.SocketException: java.net.SocketException: Network is unreachable (Next retry in 5000 milliseconds)
+20151125-07:52:27: Pending connection not established after 2001 ms.
+20151125-07:52:30: java.net.SocketException: java.net.SocketException: Network is unreachable (Next retry in 5000 milliseconds)
+20151125-07:52:33: Pending connection not established after 2005 ms.
+20151125-07:52:35: java.net.SocketException: java.net.SocketException: Network is unreachable (Next retry in 5000 milliseconds)
+20151125-07:52:38: Pending connection not established after 2002 ms.
+20151125-07:52:40: java.net.SocketException: java.net.SocketException: Network is unreachable (Next retry in 5000 milliseconds)
+20151125-07:52:41: Initiated logon request
+20151125-07:52:41: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20151125-07:52:41: Received logon
+20151125-07:52:42: Rejecting invalid message: quickfix.IncorrectTagValue: Field [39] contains an incorrect tag value. field=39: 8=FIX.4.49=22835=834=1049=BTCC-PRO-EXCHANGE-SERVER52=20151125-07:52:42.25456=CLIENT-ThomasToday6=011=reqID129869909614=017=037=13c5e77f93904eb18c564521eb7a623038=039=G40=354=155=XBTCNY60=20151125-03:08:55.290150=I151=0912=N10=019
+20151125-07:52:42: Reject sent for Message 10: Value is incorrect (out of range) for this tag:39
+20151125-07:52:42: Rejecting invalid message: quickfix.IncorrectTagValue: Field [39] contains an incorrect tag value. field=39: 8=FIX.4.49=22935=834=10049=BTCC-PRO-EXCHANGE-SERVER52=20151125-07:52:42.47356=CLIENT-ThomasToday6=011=reqID129869909614=017=037=34f6204f1db142cbb0906f8df00b51d438=039=G40=154=155=XBTCNY60=20151123-03:28:10.640150=I151=0912=N10=180
+20151125-07:52:42: Reject sent for Message 100: Value is incorrect (out of range) for this tag:39
+20151125-07:52:42: Rejecting invalid message: quickfix.IncorrectTagValue: Field [39] contains an incorrect tag value. field=39: 8=FIX.4.49=22935=834=11849=BTCC-PRO-EXCHANGE-SERVER52=20151125-07:52:42.50756=CLIENT-ThomasToday6=011=reqID129869909614=017=037=5c35008849614fcb88df245e796e7a3d38=039=G40=354=155=XBTCNY60=20151118-15:55:03.904150=I151=0912=N10=149
+20151125-07:52:42: Reject sent for Message 118: Value is incorrect (out of range) for this tag:39
+20151125-07:52:42: Rejecting invalid message: quickfix.IncorrectTagValue: Field [39] contains an incorrect tag value. field=39: 8=FIX.4.49=22935=834=11949=BTCC-PRO-EXCHANGE-SERVER52=20151125-07:52:42.50756=CLIENT-ThomasToday6=011=reqID129869909614=017=037=489f9e8e2f674836b6703ed5e287eeaf38=039=G40=354=155=XBTCNY60=20151118-15:55:03.904150=I151=0912=N10=006
+20151125-07:52:42: Reject sent for Message 119: Value is incorrect (out of range) for this tag:39
+20151125-07:52:42: Rejecting invalid message: quickfix.IncorrectTagValue: Field [39] contains an incorrect tag value. field=39: 8=FIX.4.49=22935=834=18249=BTCC-PRO-EXCHANGE-SERVER52=20151125-07:52:42.60256=CLIENT-ThomasToday6=011=reqID129869909614=017=037=b94ed79f9d6542fd98f4e289018ce43a38=039=G40=354=255=XBTCNY60=20151118-10:49:18.238150=I151=0912=N10=002
+20151125-07:52:42: Reject sent for Message 182: Value is incorrect (out of range) for this tag:39
+20151125-07:52:42: Rejecting invalid message: quickfix.IncorrectTagValue: Field [39] contains an incorrect tag value. field=39: 8=FIX.4.49=22935=834=32749=BTCC-PRO-EXCHANGE-SERVER52=20151125-07:52:42.78256=CLIENT-ThomasToday6=011=reqID129869909614=017=037=43f648f1e3904d07af506487fe503dfa38=039=G40=154=255=XBTCNY60=20151118-05:35:20.900150=I151=0912=N10=181
+20151125-07:52:42: Reject sent for Message 327: Value is incorrect (out of range) for this tag:39
+20151125-07:52:42: Rejecting invalid message: quickfix.IncorrectTagValue: Field [39] contains an incorrect tag value. field=39: 8=FIX.4.49=22935=834=33749=BTCC-PRO-EXCHANGE-SERVER52=20151125-07:52:42.79256=CLIENT-ThomasToday6=011=reqID129869909614=017=037=fe74c75ec23f435cb0b58c61481236e638=039=G40=154=255=XBTCNY60=20151118-05:30:44.666150=I151=0912=N10=189
+20151125-07:52:42: Reject sent for Message 337: Value is incorrect (out of range) for this tag:39
