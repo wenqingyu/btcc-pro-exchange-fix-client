@@ -27,8 +27,10 @@ public class App
 		String accountString = Config.getInstance().getAccount();
 //		testMessage(MessageProvider.createSecurityListRequest("req1"));
 		testMessage(MessageProvider.createMarketDataRequest("XBTCNY", SubscriptionRequestType.SNAPSHOT, "req111"));
+
+//		testMessage(MessageProvider.createMarketDataRequest("BPICNY", SubscriptionRequestType.SNAPSHOT, "req111"));
 //		testMessage(MessageProvider.createAccountInfoRequest(accountString, "req123"));
-//		testMessage(MessageProvider.createNewOrderSingle(accountString, UUID.randomUUID().toString(), Side.BUY, OrdType.LIMIT, 2.3, 1, "XBTCNY", '1'));
+//		testMessage(MessageProvider.createNewOrderSingle(accountString, UUID.randomUUID().toString(), Side.BUY, OrdType.LIMIT, 3.1, 1, "XBTCNY", '1'));
 //		testMessage(MessageProvider.createNewOrderSingle(accountString, UUID.randomUUID().toString(), Side.SELL, OrdType.LIMIT, 2200.3, 200, "XBTCNY", '0'));
 
 //		testMessage(MessageProvider.createOrderCancelRequest(accountString, "clOrdID12333", "XBTCNY", "c164bceb2a83414082bb95ef1ff9eb4d"));

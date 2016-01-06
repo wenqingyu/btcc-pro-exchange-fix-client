@@ -17,6 +17,10 @@ public class MarketData {
     double volume;
     double highPrice;
     double lowPrice;
+    double BPI;
+    double lowestAsk;
+    double highestBid;
+    
 
     public List<OrderEntry> getAskOrders() {
         return askOrders;
@@ -48,6 +52,30 @@ public class MarketData {
 
     public double getVolume() {
         return volume;
+    }
+    
+    public double getBPI(){
+    	return this.BPI;
+    }
+    
+    public double getHighestBid(){
+    	return this.highestBid;
+    }
+    
+    public double getLowestAsk(){
+    	return this.lowestAsk;
+    }
+    
+    public void setBPI(double bpi){
+    	this.BPI = bpi;
+    }
+    
+    public void setHighestBid(double bid){
+    	this.highestBid = bid;
+    }
+    
+    public void setLowestAsk(double ask){
+    	this.lowestAsk = ask;
     }
 
     public void setHighPrice(double highPrice) {
@@ -86,6 +114,20 @@ public class MarketData {
         return this.askOrders.addAll(askOrders);
     }
 
+    public String toString(){
+    	String s = "BPI: " + this.BPI +
+    			"\nhighPrice: " + this.highPrice +
+    			"\nlowPrice: " + this.lowPrice +
+    			"\nvolume: " + this.volume +
+    			"\nopenPrice: " + this.openPrice +
+    			"\nlastClosePrice: " + this.prevClosePrice +
+    			"\nhighestBid: " + this.highestBid +
+    			"\nlowestAsk: " + this.lowestAsk;
+    	
+		return s;
+    	
+    }
+    
 
     public static class OrderEntry {
         double price;
@@ -102,4 +144,6 @@ public class MarketData {
             return String.format("MARKET DATA: %f  %f", price, amount);
         }
     }
+
+
 }

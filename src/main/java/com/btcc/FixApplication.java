@@ -14,7 +14,7 @@ public class FixApplication implements quickfix.Application {
 	//if you request marketdata you can set PARTNER and SECRET_KEY as "1"
 	public static final String PARTNER = "your partner ";
 	public static final String SECRET_KEY = "your securityKey";
-
+  
 	private Message messageOnLogon;
 	private static final Logger log = LoggerFactory.getLogger(FixApplication.class);
 	

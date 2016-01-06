@@ -2,27 +2,21 @@ package com.btcc.trading;
 
 import java.io.IOException;
 import java.util.ArrayList;
-import java.util.Iterator;
 import java.util.List;
-import java.util.UUID;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
-
-import com.btcc.MessageProvider;
 import com.btcc.fix.message.FAccountInfoResponse;
 
 import quickfix.*;
 import quickfix.field.ClOrdID;
-import quickfix.field.LastRptRequested;
+import quickfix.field.LastPx;
 import quickfix.field.MDEntryPx;
 import quickfix.field.MDEntrySize;
 import quickfix.field.MDEntryType;
+import quickfix.field.MassStatusReqID;
 import quickfix.field.MsgType;
 import quickfix.field.NoMDEntries;
-import quickfix.field.OrdType;
-import quickfix.field.Side;
-import quickfix.field.Symbol;
 import quickfix.fix44.ExecutionReport;
 import quickfix.fix44.Heartbeat;
 import quickfix.fix44.Logon;
@@ -38,7 +32,7 @@ public class TradeApplication implements quickfix.Application {
 	private SessionID sessionId;
 	private static final Logger log = LoggerFactory.getLogger(TradeApplication.class);
 	
-	private MarketData marketData;
+	private MarketData marketData = new MarketData();
 	
 	private ArrayList<Order> myOrderList = new ArrayList<Order>();
 	
@@ -67,17 +61,25 @@ public class TradeApplication implements quickfix.Application {
 		System.out.println("TradeApplication ==> FromAPP Start");
 		
 		String msgType = msg.getHeader().getString(35);
-		String uuid = msg.getString(11);
-		System.out.println("UUID 11? : " + uuid);
+//		System.out.println("msgType: " + msgType);
+		
 		if((!msgType.equals(Logon.MSGTYPE)) && (!msgType.equals(Heartbeat.MSGTYPE))){
-//			log.info("receivedType:" + msgType);
+			log.info("receivedType:" + msgType);
 //			log.info("        " + sessionID + "------ fromApp---------" + msg.toString());
 
+			// PRINT FIX RESPONSE LOG
 			String[] fds = msg.toString().split("\u0001");
-			for(String fd : fds)
-			{
+
+//			try {
+//				Thread.sleep(10000);
+//			} catch (InterruptedException e) {
+//				// TODO Auto-generated catch block
+//				e.printStackTrace();
+//			}
+//			for(String fd : fds)
+//			{
 //				log.info(fd);
-			}
+//			}
 			
 			this.messageTranslation(msg, sessionID);
 			System.out.println("TradeApplication ==> FromAPP End");
@@ -128,7 +130,7 @@ public class TradeApplication implements quickfix.Application {
 	public void toAdmin(quickfix.Message msg, SessionID sessionID) {
 //		msg.setField(new StringField(553, PARTNER));
 //		msg.setField(new StringField(554, SECRET_KEY));
-		log.info(sessionID+"------ toAdmin---------"+msg.toString());
+//		log.info(sessionID+"------ toAdmin---------"+msg.toString());
 	}
 
 	public void toApp(quickfix.Message msg, SessionID sessionID) throws DoNotSend {
@@ -158,15 +160,36 @@ public class TradeApplication implements quickfix.Application {
         	System.out.println("Security List:");
 //            onMessage((SecurityList)message, sessionId);
         }else if(msgType.equals(MarketDataSnapshotFullRefresh.MSGTYPE)){
-            this.marketDataDecode((MarketDataSnapshotFullRefresh)message, sessionId);
         	System.out.println("Market Data:");
+        	String mktIdentifier = message.getString(55); // 
+        	System.out.println("----------" + mktIdentifier);
+        	if(mktIdentifier.equals("BPICNY")){
+        		this.BPIDataDecode((MarketDataSnapshotFullRefresh)message, sessionId);
+        		
+        		
+        	}else if(mktIdentifier.equals("XBTCNY")){
+        		this.marketDataDecode((MarketDataSnapshotFullRefresh)message, sessionId);
+        	}
+        	
+        	
         	
         }else if(msgType.equals(FAccountInfoResponse.MSGTYPE)){
         	System.out.println("FAccountInfoResponse:");
 //            onMessageAccountInfoResponse(message, sessionId);
         }else if(msgType.equals(ExecutionReport.MSGTYPE)){
-        	System.out.println("Execution Report:");
-        	this.executionResponseDecode((ExecutionReport)message);
+        	// Check if this is a New Order Single Response
+       
+        	boolean hasLastPx = message.isSetField(LastPx.FIELD);
+        	
+        	// LastPx is an identifier of (single order response / mass order response)
+        	if(hasLastPx){
+        		// Single order response
+        		this.executionResponseDecode((ExecutionReport)message);
+        	}else{
+        		// Mass Order Response
+        		this.massOrderResponseDecode((ExecutionReport)message);
+        	}
+        	
         }
         
         System.out.println("Response Type: " + ExecutionReport.MSGTYPE);
@@ -183,11 +206,14 @@ public class TradeApplication implements quickfix.Application {
 	private void marketDataDecode(MarketDataSnapshotFullRefresh marketDataSnapshotFullRefresh, SessionID sessionId) {
         try {
 //            String symbol = marketDataSnapshotFullRefresh.getString(Symbol.FIELD);
-            this.marketData = new MarketData();
 
             List<MarketData.OrderEntry> bidOrders = new ArrayList<>();
             List<MarketData.OrderEntry> askOrders = new ArrayList<>();
             List<Group> mDEntries = marketDataSnapshotFullRefresh.getGroups(NoMDEntries.FIELD);
+            
+            double highestBid = 0.0;
+            double lowestAsk = 10000.0;
+            
             for (Group mDEntry : mDEntries)
             {
                 MDEntryType mDEntryTypeField = new MDEntryType();
@@ -197,10 +223,18 @@ public class TradeApplication implements quickfix.Application {
                     double price = mDEntry.getDouble(MDEntryPx.FIELD);
                     double amount = mDEntry.getDouble(MDEntrySize.FIELD);
                     bidOrders.add(new MarketData.OrderEntry(price, amount));
+                    // find highest Bid
+                    if(price > highestBid){
+                    	highestBid = price;
+                    }
                 }else if(mDEntryTypeField.getValue() == MDEntryType.OFFER){
                     double price = mDEntry.getDouble(MDEntryPx.FIELD);
                     double amount = mDEntry.getDouble(MDEntrySize.FIELD);
                     askOrders.add(new MarketData.OrderEntry(price, amount));
+                 // find highest Bid
+                    if(price < lowestAsk){
+                    	lowestAsk = price;
+                    }
                 }else if(mDEntryTypeField.getValue() == MDEntryType.TRADE){
                 	this.marketData.setLastPrice(mDEntry.getDouble(MDEntryPx.FIELD));
                 }else if(mDEntryTypeField.getValue() == MDEntryType.TRADING_SESSION_HIGH_PRICE){
@@ -213,6 +247,9 @@ public class TradeApplication implements quickfix.Application {
                 	this.marketData.setPrevClosePrice(mDEntry.getDouble(MDEntryPx.FIELD));
                 }
             }
+            
+            this.marketData.setHighestBid(highestBid);
+            this.marketData.setLowestAsk(lowestAsk);
             this.marketData.refreshBidOrders(bidOrders);
             this.marketData.refreshAskOrders(askOrders);
             this.state = this.FREE;
@@ -223,8 +260,41 @@ public class TradeApplication implements quickfix.Application {
     }
 	
 	/**
-	 * Handle all the execution reponse
-	 * buy / sell / cancel / mass order
+	 * BPI data Decoder
+	 * # 1
+	 * @param marketDataSnapshotFullRefresh
+	 * @param sessionId
+	 */
+	private void BPIDataDecode(MarketDataSnapshotFullRefresh marketDataSnapshotFullRefresh, SessionID sessionId) {
+        try {
+//            String symbol = marketDataSnapshotFullRefresh.getString(Symbol.FIELD);
+//            this.marketData = new MarketData();
+
+//            List<MarketData.OrderEntry> bidOrders = new ArrayList<>();
+//            List<MarketData.OrderEntry> askOrders = new ArrayList<>();
+            List<Group> mDEntries = marketDataSnapshotFullRefresh.getGroups(NoMDEntries.FIELD);
+            for (Group mDEntry : mDEntries)
+            {
+                MDEntryType mDEntryTypeField = new MDEntryType();
+                mDEntry.getField(mDEntryTypeField);
+                // BPI Price is on OFFER type (5)
+                if(mDEntryTypeField.getValue() == MDEntryType.TRADE){
+                	double bpi = mDEntry.getDouble(MDEntryPx.FIELD);
+                	System.out.println(bpi);
+                	this.marketData.setBPI(bpi);
+                	return ;
+                }
+//               
+            }
+            
+        } catch (FieldNotFound fieldNotFound) {
+            fieldNotFound.printStackTrace();
+        }
+    }
+	
+	/**
+	 * Handle Single Order Execution Response
+	 * buy / sell / cancel
 	 * @param executionReport
 	 * @throws FieldNotFound 
 	 */
@@ -237,6 +307,41 @@ public class TradeApplication implements quickfix.Application {
 		try {
 			
 			Order order = new Order(executionReport);
+			// 1. Hold Case if Order being Rejected
+			if(order.getOrdRejReason() != 0){
+				System.out.println("TradeApplication ==> Order Request Rejected By: " + order.getOrdRejReason());
+				this.state = this.FREE;
+				return;
+			}
+
+			this.myOrderList.add(order);
+			
+		} catch (FieldNotFound e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
+		System.out.println("TradeApplication ==> myOrderList length: " + this.myOrderList.size());
+		this.state = this.FREE;
+		
+	}
+	
+	/**
+	 * Handle MassOrder Response
+	 * @param ExecutionReport)message
+	 * @throws FieldNotFound 
+	 */
+	private void massOrderResponseDecode(ExecutionReport message) throws FieldNotFound{
+
+//		String clOrdID = getClOrdIDField(executionReport);
+		
+		String massStatusReqID = message.getString(MassStatusReqID.FIELD);
+		System.out.println("MassStatusReqID: " + massStatusReqID);
+		
+		if(massStatusReqID == null){return; } // Mass Order Response is Empty
+		
+		try {
+			
+			Order order = new Order(message);
 			// 1. Hold Case if Order being Rejected
 			if(order.getOrdRejReason() != 0){
 				System.out.println("TradeApplication ==> Order Request Rejected By: " + order.getOrdRejReason());

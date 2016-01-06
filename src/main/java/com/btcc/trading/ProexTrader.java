@@ -110,6 +110,7 @@ public class ProexTrader implements Trader{
 	 */
 	private void processer(Message msg){
 		try {
+			System.out.println("TEST: " + msg + "\n" + this.sessionID);
 			Session.sendToTarget(msg, this.sessionID);
 		} catch (SessionNotFound e) {
 			// TODO Auto-generated catch block
@@ -199,9 +200,16 @@ public class ProexTrader implements Trader{
 		return true;
 	}
 	
+	public boolean updateBPI(){
+		Message msg = MessageProvider.createMarketDataRequest("BPICNY", SubscriptionRequestType.SNAPSHOT, "req111");
+		this.actionMsgQuene.add(msg);
+		return true;
+	}
+	
 	@Override
 	public boolean updateMarketData(){
 		Message msg = MessageProvider.createMarketDataRequest("XBTCNY", SubscriptionRequestType.SNAPSHOT, "req111");
+		
 		this.actionMsgQuene.add(msg);
 		return true;
 	}
@@ -226,8 +234,6 @@ public class ProexTrader implements Trader{
 		return false;
 	}
 	
-	
-	
 	/**
 	 * 
 	 * @return Get Current State
@@ -251,9 +257,9 @@ public class ProexTrader implements Trader{
 	private void waitUntilFree(){
 		while(!this.getState().equals("Free")){
 			// Sleep 20 for another Free state check
-			System.out.println("Trading Bot ==> scheduler Busy, Not Free");
+//			System.out.println("Trading Bot ==> scheduler Busy, Not Free");
 			try {
-				Thread.sleep(30);
+				Thread.sleep(20);
 			} catch (InterruptedException e) {
 				// TODO Auto-generated catch block
 				e.printStackTrace();

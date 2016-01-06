@@ -27,12 +27,17 @@ public class sample {
 //		bot.sellMarket(200, 12); // for mkt order, price is not used, just fill up a int number
 //		bot.buyStop(2000, 12);
 //		bot.sellStop(123, 23);
+		long t1 = System.currentTimeMillis();
+//		
+		for(int i = 0; i < 2; i ++){
+			bot.buyLimit(1000 + i, 1);
+		}
 		
-//		for(int i = 0; i < 100; i ++){
-//			bot.buyLimit(1000 + i, 1);
-//		}
+		bot.scheduler();
 		
-//		bot.scheduler();
+		
+		
+		
 		/* Once you called buy/sell instruction, this instruction will be push into a execution queue
 		 *  and wait until bot.scheduler called, all the instructions in the queue will be executed one by one */
 		
@@ -40,16 +45,30 @@ public class sample {
 		// data updating also follow the instruction queue approach
 		
 //		bot.updateMarketData();
-		bot.updateOrderList();
+//		bot.updateOrderList();
 		// updating mktData and OrderList
-		bot.scheduler();
+//		bot.scheduler();
+//		Thread.sleep(5000);
 		
-		Thread.sleep(3000);
+//		MarketData mktData = bot.getMktData();
 		
+		long t2 = System.currentTimeMillis();
+		
+//		System.out.println(mktData);
+		
+		System.out.println("Time: -------->" + (t2 - t1));
+		
+//		Thread.sleep(100000);
 		// retrieve mktData and OrderList from order
 		// play with them in your own strategy
 		ArrayList<Order> orderList = bot.getOrderList();
-//		MarketData mktData = bot.getMktData();
+		
+		for(int i = 0; i < orderList.size(); i ++){
+			System.out.println(orderList.get(i));
+		}
+//		System.out.println(orderList);
+		
+		Thread.sleep(10000);
 		
 		// NOTICE: IN THESE TWO EXECUTION, IT MIGHT TAKE A WHILE TO DIGEST FIX RESPONSE
 		// SCHEDULER HAS A BUILD IN WAITTING FUNCTION TO PREVENT BOT FROM RESPONSE CONJESTION
@@ -68,7 +87,7 @@ public class sample {
 //		bot.addCancelOrder(orderList.get(0));
 //		bot.addCancelOrder(orderList.get(1));
 		
-		bot.cancelAllOrder();
+//		bot.cancelAllOrder();
 		// Having bot update orderlist at end of execution queue
 //		bot.updateOrderList();
 		bot.scheduler();
