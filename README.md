@@ -9,6 +9,8 @@ If you are a developer who wants to improve this client-engine or you simply wan
 
 This FIX engine is build on top of open source java library [quickfix/j](http://www.quickfixj.org/) , check their github repository for more detail [https://github.com/quickfix-j/quickfixj](https://github.com/quickfix-j/quickfixj).
 
+We have a simple java demo version,check the github repository for more details [https://github.com/JoanJia/btcc-pro-fix-java-simplified]
+
 ## Documentation
 There are currently two documents for BTCC Pro-exchange FIX API
 #### [Pro Exchange Market Data API Documentation](https://www.btcc.com/apidocs/fix-pro-exchange-market-api)
