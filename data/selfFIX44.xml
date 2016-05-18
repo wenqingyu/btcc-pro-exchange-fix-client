@@ -1392,17 +1392,17 @@
             <field name="EncodedText" required="N"/>
         </message>
         <message name="OrderCancelReplaceRequest" msgtype="G" msgcat="app">
-            <field name="OrderID" required="N"/>
+            <field name="OrderID" required="Y"/>
             <component name="Parties" required="N"/>
             <field name="TradeOriginationDate" required="N"/>
             <field name="TradeDate" required="N"/>
-            <field name="OrigClOrdID" required="Y"/>
+            <field name="OrigClOrdID" required="N"/>
             <field name="ClOrdID" required="Y"/>
             <field name="SecondaryClOrdID" required="N"/>
             <field name="ClOrdLinkID" required="N"/>
             <field name="ListID" required="N"/>
             <field name="OrigOrdModTime" required="N"/>
-            <field name="Account" required="N"/>
+            <field name="Account" required="Y"/>
             <field name="AcctIDSource" required="N"/>
             <field name="AccountType" required="N"/>
             <field name="DayBookingInst" required="N"/>
@@ -1435,11 +1435,11 @@
             <group name="NoUnderlyings" required="N">
                 <component name="UnderlyingInstrument" required="N"/>
             </group>
-            <field name="Side" required="Y"/>
-            <field name="TransactTime" required="Y"/>
+            <field name="Side" required="N"/>
+            <field name="TransactTime" required="N"/>
             <field name="QtyType" required="N"/>
             <component name="OrderQtyData" required="Y"/>
-            <field name="OrdType" required="Y"/>
+            <field name="OrdType" required="N"/>
             <field name="PriceType" required="N"/>
             <field name="Price" required="N"/>
             <field name="StopPx" required="N"/>
@@ -1582,18 +1582,18 @@
             <field name="EncodedTextLen" required="N"/>
             <field name="EncodedText" required="N"/>
         </message>
-        <message name="OrderMassStatusRequest" msgtype="AF" msgcat="app">
-            <field name="MassStatusReqID" required="Y"/>
-            <field name="MassStatusReqType" required="Y"/>
-            <component name="Parties" required="N"/>
-            <field name="Account" required="N"/>
-            <field name="AcctIDSource" required="N"/>
-            <field name="TradingSessionID" required="N"/>
-            <field name="TradingSessionSubID" required="N"/>
-            <component name="Instrument" required="N"/>
-            <component name="UnderlyingInstrument" required="N"/>
-            <field name="Side" required="N"/>
-        </message>
+        <!--<message name="OrderMassStatusRequest" msgtype="AF" msgcat="app">-->
+        <!--<field name="MassStatusReqID" required="Y"/>-->
+        <!--<field name="MassStatusReqType" required="Y"/>-->
+        <!--<component name="Parties" required="N"/>-->
+        <!--<field name="Account" required="N"/>-->
+        <!--<field name="AcctIDSource" required="N"/>-->
+        <!--<field name="TradingSessionID" required="N"/>-->
+        <!--<field name="TradingSessionSubID" required="N"/>-->
+        <!--<component name="Instrument" required="N"/>-->
+        <!--<component name="UnderlyingInstrument" required="N"/>-->
+        <!--<field name="Side" required="N"/>-->
+        <!--</message>-->
         <message name="NewOrderCross" msgtype="s" msgcat="app">
             <field name="CrossID" required="Y"/>
             <field name="CrossType" required="Y"/>
@@ -3653,6 +3653,7 @@
         <message name="AccountInfoRequest" msgtype="U1000">
             <field name="Account" required="Y"/>
             <field name="AccReqID" required="Y"/>
+            <field name="SubscriptionAccountInfoRequestType" required="N"/>
         </message>
         <message name="AccountInfoResponse" msgtype="U1001">
             <field name="Account" required="Y"/>
@@ -6887,5 +6888,10 @@
         <field number="9010" name="StartTime" type="UTCTIMESTAMP"/>
         <field number="9011" name="EndTime" type="UTCTIMESTAMP"/>
         <field number="9020" name="NoStatuses" type="NUMINGROUP"/>
+        <field number="9263" name="SubscriptionAccountInfoRequestType" type="CHAR">
+            <value enum="0" description="NOT_PUSH"/>
+            <value enum="1" description="PUSH_SNAPSHOT"/>
+            <value enum="2" description="DISABLE_PUSH"/>
+        </field>
     </fields>
 </fix>
