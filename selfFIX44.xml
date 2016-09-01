@@ -3653,7 +3653,7 @@
         <message name="AccountInfoRequest" msgtype="U1000">
             <field name="Account" required="Y"/>
             <field name="AccReqID" required="Y"/>
-            <field name="SubscriptionAccountInfoRequestType" required="N"/>
+            <!--<field name="SubscriptionAccountInfoRequestType" required="N"/>-->
         </message>
         <message name="AccountInfoResponse" msgtype="U1001">
             <field name="Account" required="Y"/>
@@ -4276,11 +4276,22 @@
             <value enum="2" description="FILLED"/>
             <value enum="3" description="DONE_FOR_DAY"/>
             <value enum="4" description="CANCELED"/>
+            <value enum="5" description="REPLACED"/>
             <value enum="6" description="PENDING_CANCEL"/>
+            <value enum="7" description="STOPPED"/>
             <value enum="8" description="REJECTED"/>
+            <value enum="9" description="SUSPENDED"/>
             <value enum="A" description="PENDING_NEW"/>
+            <value enum="B" description="CALCULATED"/>
+            <value enum="C" description="EXPIRED"/>
+            <value enum="D" description="ACCEPTED_FOR_BIDDING"/>
+            <value enum="E" description="PENDING_REPLACE"/>
+            <!-- Pro-Exchange custom order status -->
+            <value enum="F" description="DONE_FOR_OVERNIGHT"/>
             <value enum="S" description="DONE_BY_SYSTEM"/>
             <value enum="G" description="CANCELLED_BY_SYSTEM"/>
+            <value enum="Z" description="UNKNOWN"/>
+            <!-- End -->
         </field>
         <field number="40" name="OrdType" type="CHAR">
             <value enum="1" description="MARKET"/>
@@ -6888,10 +6899,10 @@
         <field number="9010" name="StartTime" type="UTCTIMESTAMP"/>
         <field number="9011" name="EndTime" type="UTCTIMESTAMP"/>
         <field number="9020" name="NoStatuses" type="NUMINGROUP"/>
-        <field number="9263" name="SubscriptionAccountInfoRequestType" type="CHAR">
+        <!--<field number="9263" name="SubscriptionAccountInfoRequestType" type="CHAR">-->
             <value enum="0" description="NOT_PUSH"/>
             <value enum="1" description="PUSH_SNAPSHOT"/>
             <value enum="2" description="DISABLE_PUSH"/>
-        </field>
+        <!--</field>-->
     </fields>
 </fix>
